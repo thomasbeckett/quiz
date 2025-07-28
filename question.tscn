@@ -2,7 +2,7 @@
 
 [ext_resource type="StyleBox" uid="uid://drailr3ckjt3b" path="res://question.tres" id="1_g5b5r"]
 [ext_resource type="Script" uid="uid://chcrg80xnyvr2" path="res://question.gd" id="1_lccfl"]
-[ext_resource type="Texture2D" path="res://food_gradient.tres" id="2_nk8gh"]
+[ext_resource type="Texture2D" uid="uid://4qnw8eimb6ud" path="res://gradients/science_gradient.tres" id="2_nk8gh"]
 [ext_resource type="StyleBox" uid="uid://8yg8ac4x80mq" path="res://questionPressed.tres" id="3_e0yn7"]
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_g5b5r"]

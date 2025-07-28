@@ -21,14 +21,14 @@ var CATEGORY_GRADIENT_PATHS = {
 }
 
 var CATEGORY_BUTTON_COLORS = {
-	"Science": Color(0.6, 0.9, 1.0),
-	"Sports": Color(0.8, 1.0, 0.6),
-	"History": Color(1.0, 0.9, 0.6),
-	"Film and TV": Color(0.9, 0.6, 1.0),
-	"Geography": Color(0.6, 1.0, 0.9),
-	"Music":  Color(0.9, 0.6, 1.0),
-	"General": Color(0.9, 0.9, 0.9),
-	"Food and drink": Color(1.0, 0.8, 0.6),
+	"Science": Color(0.2, 0.4, 0.6),
+	"Sports": Color(0.5, 0.2, 0.5),
+	"History": Color(0.6, 0, 0.1),
+	"Film and TV": Color(0.8, 0.5, 0.1),
+	"Geography": Color(0, 0.3, 0.1),
+	"Music":   Color(0.7, 0.5, 0),
+	"General": Color(0.5, 0.2, 0.9),
+	"Food and drink": Color(0.9, 0.3, 0),
 }
  
 func _ready() -> void:
@@ -66,6 +66,8 @@ func _ready() -> void:
 		var btn = button_2.duplicate(true)
 		btn.text = answer
 		var base_stylebox = btn.get_theme_stylebox("normal") as StyleBoxFlat
+		var pressed_stylebox = btn.get_theme_stylebox("pressed") as StyleBoxFlat
+		var hover_stylebox = btn.get_theme_stylebox("hover") as StyleBoxFlat
 		var stylebox: StyleBoxFlat
 		if base_stylebox:
 			stylebox = base_stylebox.duplicate()
@@ -73,6 +75,8 @@ func _ready() -> void:
 			stylebox = StyleBoxFlat.new()
 		# Set the button color based on the category
 		stylebox.bg_color = CATEGORY_BUTTON_COLORS.get(category_key, Color(0.8, 0.8, 0.8))
+		pressed_stylebox.bg_color = stylebox.bg_color.darkened(0.3)
+		hover_stylebox.bg_color = stylebox.bg_color.lightened(0.2)
 		btn.add_theme_stylebox_override("normal", stylebox)
 		btn.add_theme_stylebox_override("disabled", stylebox.duplicate())
 		btn.pressed.connect(_on_button_pressed.bind(btn))
