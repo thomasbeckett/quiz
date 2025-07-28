@@ -1,0 +1,1060 @@
+[
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950d02",
+    "correctAnswer": "The Beatles",
+    "incorrectAnswers": [
+      "Deep Purple",
+      "Feeder",
+      "Uriah Heep"
+    ],
+    "question": {
+      "text": "Which English rock band released the song 'Yellow Submarine'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "6266bb34ff7b6ee0496ec784",
+    "correctAnswer": "Percussion",
+    "incorrectAnswers": [
+      "Brass",
+      "Stringed",
+      "Woodwind"
+    ],
+    "question": {
+      "text": "What type of instrument is a bongo?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94ffe0",
+    "correctAnswer": "Poison",
+    "incorrectAnswers": [
+      "The Velvet Underground",
+      "Fleetwood Mac",
+      "Blonde"
+    ],
+    "question": {
+      "text": "CC Deville Was A Member Of Which Band?"
+    },
+    "tags": [
+      "bands",
+      "musicians",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "625063e4e12f6dec240bdf8a",
+    "correctAnswer": "Wild Cherry",
+    "incorrectAnswers": [
+      "The Cardigans",
+      "Sinead O'Connor",
+      "Billy Ray Cyrus"
+    ],
+    "question": {
+      "text": "'Play That Funky Music' was a one hit wonder in 1976 by which artist?"
+    },
+    "tags": [
+      "songs",
+      "one_hit_wonders",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fdae",
+    "correctAnswer": "Definitely Maybe",
+    "incorrectAnswers": [
+      "What's the Story (Morning Glory)",
+      "Parklife",
+      "Greatest Hits"
+    ],
+    "question": {
+      "text": "What Was The First Number One Album For Oasis?"
+    },
+    "tags": [
+      "uk",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950b7e",
+    "correctAnswer": "Destiny's Child",
+    "incorrectAnswers": [
+      "TLC",
+      "All Saints",
+      "Spice Girls"
+    ],
+    "question": {
+      "text": "Which band did Beyoncé start her career with?"
+    },
+    "tags": [
+      "general_knowledge",
+      "people",
+      "music",
+      "bands"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94ff57",
+    "correctAnswer": "Bob Dylan",
+    "incorrectAnswers": [
+      "Neil Young",
+      "Eric Clapton",
+      "Alanis Morissette"
+    ],
+    "question": {
+      "text": "Which American musician released the song 'Hurricane'?"
+    },
+    "tags": [
+      "songs",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950baf",
+    "correctAnswer": "Simon & Garfunkel",
+    "incorrectAnswers": [
+      "MercyMe",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "question": {
+      "text": "Which American music duo released the song 'Cecilia'?"
+    },
+    "tags": [
+      "songs",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "6266bc7cb0e62e469cf43e97",
+    "correctAnswer": "Brass",
+    "incorrectAnswers": [
+      "Stringed",
+      "Woodwind",
+      "Percussion"
+    ],
+    "question": {
+      "text": "What type of instrument is a trombone?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "625063c2e12f6dec240bdf80",
+    "correctAnswer": "Baby Got Back",
+    "incorrectAnswers": [
+      "867-5309 - Jenny",
+      "What's Up",
+      "Bitter Sweet Symphony"
+    ],
+    "question": {
+      "text": "What song did Sir Mix-A-Lot have a hit with in 1992?"
+    },
+    "tags": [
+      "songs",
+      "one_hit_wonders",
+      "1990's",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd75",
+    "correctAnswer": "Leonard Bernstein",
+    "incorrectAnswers": [
+      "Stephen Sondheim",
+      "Andrew Lloyd Webber",
+      "Irving Berlin"
+    ],
+    "question": {
+      "text": "Who Wrote The Score To West Side Story"
+    },
+    "tags": [
+      "musicals",
+      "theater",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950cef",
+    "correctAnswer": "Queen",
+    "incorrectAnswers": [
+      "Level 42",
+      "Deep Purple",
+      "Feeder"
+    ],
+    "question": {
+      "text": "Which British rock band released the song 'Bohemian Rhapsody'?"
+    },
+    "tags": [
+      "rock_music",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c347cc59eab6f94fb95",
+    "correctAnswer": "\"Jumpin', Jumpin'\" by Destiny's Child",
+    "incorrectAnswers": [
+      "\"A Thousand Miles\" by Vanessa Carlton",
+      "\"Baby Got Back\" by Sir Mix-a-Lot",
+      "\"Hurt\" by Nine Inch Nails"
+    ],
+    "question": {
+      "text": "Which song begins with the lyrics: \"Ladies leave your man at home, the club is full of ballers and their pockets full grown.\"?"
+    },
+    "tags": [
+      "lyrics",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "6266bc01b0e62e469cf43e88",
+    "correctAnswer": "Woodwind",
+    "incorrectAnswers": [
+      "Stringed",
+      "Percussion",
+      "Brass"
+    ],
+    "question": {
+      "text": "What type of instrument is a clarinet?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950cec",
+    "correctAnswer": "Queen",
+    "incorrectAnswers": [
+      "Level 42",
+      "Deep Purple",
+      "Feeder"
+    ],
+    "question": {
+      "text": "Which British rock band released the song 'Fat Bottomed Girls'?"
+    },
+    "tags": [
+      "rock_music",
+      "general_knowledge",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950b35",
+    "correctAnswer": "Blondie",
+    "incorrectAnswers": [
+      "The Pussycat Dolls",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "question": {
+      "text": "Which American rock band released the song 'Heart of Glass'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950b60",
+    "correctAnswer": "Blink-182",
+    "incorrectAnswers": [
+      "Green Day",
+      "Nirvana",
+      "Foo Fighters"
+    ],
+    "question": {
+      "text": "Which band is Travis Barker the drummer for?"
+    },
+    "tags": [
+      "music",
+      "bands"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c347cc59eab6f94fbac",
+    "correctAnswer": "\"What I Got\" by Sublime",
+    "incorrectAnswers": [
+      "\"Rapper's Delight\" by Sugarhill Gang",
+      "\"Fergalicious\" by Fergie and will.i.am.",
+      "\"In da Club\" by 50 Cent"
+    ],
+    "question": {
+      "text": "Which song begins with the lyrics: \"Early in the morning, risin' to the street / Light me up that cigarette, and I'll strap shoes on my feet...\"?"
+    },
+    "tags": [
+      "lyrics",
+      "songs",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fe87",
+    "correctAnswer": "Eminem",
+    "incorrectAnswers": [
+      "Nicki Minaj",
+      "Drake",
+      "Ludacris"
+    ],
+    "question": {
+      "text": "Which American rapper, producer and actor released the studio album 'Encore'?"
+    },
+    "tags": [
+      "musicians",
+      "music_albums",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950c15",
+    "correctAnswer": "Nirvana",
+    "incorrectAnswers": [
+      "Counting Crows",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "question": {
+      "text": "Which American rock band released the song 'About a Girl'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c367cc59eab6f950394",
+    "correctAnswer": "Joni Mitchell",
+    "incorrectAnswers": [
+      "Leonard Cohen",
+      "Elton John",
+      "Tom Waits"
+    ],
+    "question": {
+      "text": "Who Released The 70's Album Entitled \"Blue\"?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950db6",
+    "correctAnswer": "The Rolling Stones",
+    "incorrectAnswers": [
+      "McFly",
+      "Delirious?",
+      "Depeche Mode"
+    ],
+    "question": {
+      "text": "Which band includes 'Keith Richards'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950bdb",
+    "correctAnswer": "Guns N' Roses",
+    "incorrectAnswers": [
+      "MercyMe",
+      "The Pussycat Dolls",
+      "Three 6 Mafia"
+    ],
+    "question": {
+      "text": "Which American hard rock band released the studio album 'Chinese Democracy'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "625064b8e12f6dec240bdfc8",
+    "correctAnswer": "Des'ree",
+    "incorrectAnswers": [
+      "Gary Numan",
+      "Edwyn Collins",
+      "Brownsville Station"
+    ],
+    "question": {
+      "text": "'You Gotta Be' was a one hit wonder in 1995 by which artist?"
+    },
+    "tags": [
+      "songs",
+      "one_hit_wonders",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd8d",
+    "correctAnswer": "Joni Mitchell",
+    "incorrectAnswers": [
+      "Kate Bush",
+      "Annie Lennox",
+      "Cher"
+    ],
+    "question": {
+      "text": "Who Immortalised The 1969 Woodstock Festival In Song?"
+    },
+    "tags": [
+      "1960's",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "625064bbe12f6dec240bdfc9",
+    "correctAnswer": "Spirit in the Sky",
+    "incorrectAnswers": [
+      "Relax",
+      "What's Up",
+      "Hot Child in the City"
+    ],
+    "question": {
+      "text": "What song did Norman Greenbaum have a hit with in 1969?"
+    },
+    "tags": [
+      "songs",
+      "one_hit_wonders",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950b46",
+    "correctAnswer": "The Velvet Underground",
+    "incorrectAnswers": [
+      "The Beatles",
+      "Talking Heads",
+      "The Doors"
+    ],
+    "question": {
+      "text": "Which band did the German singer Nico collaborate with on a 1967 album?"
+    },
+    "tags": [
+      "music",
+      "bands",
+      "musicians",
+      "music_albums"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd78",
+    "correctAnswer": "Ringo Starr",
+    "incorrectAnswers": [
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney"
+    ],
+    "question": {
+      "text": "Who wore the pink uniform on the cover of Sgt. Pepper's?"
+    },
+    "tags": [
+      "the_beatles",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fe70",
+    "correctAnswer": "Lady Gaga",
+    "incorrectAnswers": [
+      "Hikaru Utada",
+      "Drake",
+      "Madonna"
+    ],
+    "question": {
+      "text": "Which American singer, songwriter, and actress released the studio album 'Artpop'?"
+    },
+    "tags": [
+      "music_albums",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fea2",
+    "correctAnswer": "Elton John",
+    "incorrectAnswers": [
+      "Eric Clapton",
+      "Bob Dylan",
+      "James Blunt"
+    ],
+    "question": {
+      "text": "Which singer-songwriter wrote the song 'Candle in the Wind'?"
+    },
+    "tags": [
+      "songs",
+      "musicians",
+      "general_knowledge",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94ff22",
+    "correctAnswer": "Madonna",
+    "incorrectAnswers": [
+      "Eric Clapton",
+      "Nicki Minaj",
+      "Alanis Morissette"
+    ],
+    "question": {
+      "text": "Which American singer and songwriter released the single 'Like a Prayer'?"
+    },
+    "tags": [
+      "general_knowledge",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950c0a",
+    "correctAnswer": "Muse",
+    "incorrectAnswers": [
+      "Tears for Fears",
+      "Bullet For My Valentine",
+      "Enter Shikari"
+    ],
+    "question": {
+      "text": "Which English rock band released the studio album 'Black Holes and Revelations'?"
+    },
+    "tags": [
+      "rock_music",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950b8a",
+    "correctAnswer": "The Jimi Hendrix Experience",
+    "incorrectAnswers": [
+      "Poison",
+      "The Pussycat Dolls",
+      "Three 6 Mafia"
+    ],
+    "question": {
+      "text": "Which English-American psychedelic rock band released the album 'Are You Experienced'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950ba6",
+    "correctAnswer": "One Direction",
+    "incorrectAnswers": [
+      "Level 42",
+      "Orchestral Manoeuvres in the Dark",
+      "Blur"
+    ],
+    "question": {
+      "text": "Which English-Irish boy band released the song 'One Way or Another (Teenage Kicks)'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950dc4",
+    "correctAnswer": "The Beatles",
+    "incorrectAnswers": [
+      "Deep Purple",
+      "Feeder",
+      "Uriah Heep"
+    ],
+    "question": {
+      "text": "Which band includes 'John Lennon'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94ff02",
+    "correctAnswer": "Kylie Minogue",
+    "incorrectAnswers": [
+      "Madonna",
+      "Mika",
+      "Hikaru Utada"
+    ],
+    "question": {
+      "text": "Which Australian singer released the song 'Can't Get You Out of My Head'?"
+    },
+    "tags": [
+      "songs",
+      "musicians",
+      "00's",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "64adcb300d501be39aa6c798",
+    "correctAnswer": "The Lime",
+    "incorrectAnswers": [
+      "The Mango",
+      "The Orange",
+      "The Pineapple"
+    ],
+    "question": {
+      "text": "According to a song by Harry Nilsson, which fruit is put in the coconut?"
+    },
+    "tags": [
+      "songs",
+      "music",
+      "lyrics"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c367cc59eab6f950226",
+    "correctAnswer": "The Searchers ",
+    "incorrectAnswers": [
+      "The Lookers",
+      "The Finders",
+      "The Seekers"
+    ],
+    "question": {
+      "text": "Who had a number 1 record in 1963 with Sweets For My Sweet?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fedd",
+    "correctAnswer": "Mariah Carey",
+    "incorrectAnswers": [
+      "Drake",
+      "Nicki Minaj",
+      "Madonna"
+    ],
+    "question": {
+      "text": "Which American singer released the album 'Music Box'?"
+    },
+    "tags": [
+      "music_albums",
+      "musicians",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950c14",
+    "correctAnswer": "Nirvana",
+    "incorrectAnswers": [
+      "Counting Crows",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "question": {
+      "text": "Which American rock band released the song 'Pennyroyal Tea'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950bf8",
+    "correctAnswer": "The Doors",
+    "incorrectAnswers": [
+      "Styx",
+      "The Pussycat Dolls",
+      "Three 6 Mafia"
+    ],
+    "question": {
+      "text": "Which American rock band released the studio album 'The Soft Parade'?"
+    },
+    "tags": [
+      "rock_music",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd9d",
+    "correctAnswer": "Smile",
+    "incorrectAnswers": [
+      "Grin",
+      "Laugh",
+      "Cry"
+    ],
+    "question": {
+      "text": "Which legendary Beach boys album was never completed?"
+    },
+    "tags": [
+      "music_albums",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd61",
+    "correctAnswer": "Roy Orbison",
+    "incorrectAnswers": [
+      "Elvis Presley",
+      "Bill Haley",
+      "Jerry Lee Lewis"
+    ],
+    "question": {
+      "text": "Whose First Record Was A Rocker Called \"Ooby Dooby\"?"
+    },
+    "tags": [
+      "firsts",
+      "songs",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fdd6",
+    "correctAnswer": "Drake",
+    "incorrectAnswers": [
+      "Neil Young",
+      "Alanis Morissette",
+      "Justin Bieber"
+    ],
+    "question": {
+      "text": "Which Canadian musician released the album 'Views'?"
+    },
+    "tags": [
+      "music_albums",
+      "musicians",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fee7",
+    "correctAnswer": "David Bowie",
+    "incorrectAnswers": [
+      "Eric Clapton",
+      "Mika",
+      "Elton John"
+    ],
+    "question": {
+      "text": "Which British musician released the song 'The Man Who Sold the World'?"
+    },
+    "tags": [
+      "songs",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950d9f",
+    "correctAnswer": "Bee Gees",
+    "incorrectAnswers": [
+      "ABBA",
+      "The Allman Brothers Band",
+      "Oasis"
+    ],
+    "question": {
+      "text": "Robin Gibb is one of the brothers who formed which band?"
+    },
+    "tags": [
+      "music",
+      "bands",
+      "siblings"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd52",
+    "correctAnswer": "Vienna",
+    "incorrectAnswers": [
+      "Budapest",
+      "Berlin",
+      "Prague"
+    ],
+    "question": {
+      "text": "With which European city is Ultravox linked,songwise?"
+    },
+    "tags": [
+      "songs",
+      "europe",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fef3",
+    "correctAnswer": "David Bowie",
+    "incorrectAnswers": [
+      "Eric Clapton",
+      "Madonna",
+      "Mika"
+    ],
+    "question": {
+      "text": "Which musician released the album 'Aladdin Sane'?"
+    },
+    "tags": [
+      "music_albums",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950cc2",
+    "correctAnswer": "Pink Floyd",
+    "incorrectAnswers": [
+      "Wings",
+      "Rudimental",
+      "The Alan Parsons Project"
+    ],
+    "question": {
+      "text": "Which English rock band released the song 'Wish You Were Here'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950b74",
+    "correctAnswer": "Van Halen",
+    "incorrectAnswers": [
+      "Deep Purple",
+      "The Pussycat Dolls",
+      "Three 6 Mafia"
+    ],
+    "question": {
+      "text": "Which American heavy metal band released the song 'Jump'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  }
+]

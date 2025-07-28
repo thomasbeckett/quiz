@@ -1,0 +1,67 @@
+[gd_scene load_steps=7 format=3 uid="uid://casqhtuko8qj3"]
+
+[ext_resource type="Script" uid="uid://bqybo5085p31v" path="res://end.gd" id="1_n735c"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_egc6y"]
+font_size = 100
+
+[sub_resource type="LabelSettings" id="LabelSettings_lt2ag"]
+font_size = 50
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_n735c"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_jclhh"]
+bg_color = Color(0.387828, 0.67448, 0.479505, 1)
+border_width_bottom = 20
+border_color = Color(0.1624, 0.28, 0.19964, 1)
+corner_radius_top_left = 20
+corner_radius_top_right = 20
+corner_radius_bottom_right = 20
+corner_radius_bottom_left = 20
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_75yvt"]
+bg_color = Color(0.2726, 0.47, 0.33511, 1)
+border_width_top = 20
+border_color = Color(0.116, 0.2, 0.1426, 1)
+corner_radius_top_left = 20
+corner_radius_top_right = 20
+corner_radius_bottom_right = 20
+corner_radius_bottom_left = 20
+
+[node name="end" type="Node2D"]
+script = ExtResource("1_n735c")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Label" type="Label" parent="CanvasLayer"]
+offset_left = 5.0
+offset_top = 6.0
+offset_right = 701.0
+offset_bottom = 412.0
+text = "Well done"
+label_settings = SubResource("LabelSettings_egc6y")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Label2" type="Label" parent="CanvasLayer"]
+offset_left = 108.0
+offset_top = 409.0
+offset_right = 618.0
+offset_bottom = 747.0
+text = "You won in x questions
+"
+label_settings = SubResource("LabelSettings_lt2ag")
+horizontal_alignment = 1
+autowrap_mode = 2
+
+[node name="Button" type="Button" parent="CanvasLayer"]
+offset_left = 107.0
+offset_top = 901.0
+offset_right = 592.0
+offset_bottom = 1075.0
+theme_override_font_sizes/font_size = 55
+theme_override_styles/focus = SubResource("StyleBoxEmpty_n735c")
+theme_override_styles/hover = SubResource("StyleBoxFlat_jclhh")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_75yvt")
+theme_override_styles/normal = SubResource("StyleBoxFlat_jclhh")
+text = "Play again"

@@ -1,0 +1,1075 @@
+[
+  {
+    "category": "geography",
+    "id": "623384b462eaad73716a8c26",
+    "correctAnswer": "Lake Baikal",
+    "incorrectAnswers": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Loch Ness"
+    ],
+    "question": {
+      "text": "What is the world's deepest lake?"
+    },
+    "tags": [
+      "bodies_of_water",
+      "records",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623735f1cfe13103f55eb585",
+    "correctAnswer": "Thailand",
+    "incorrectAnswers": [
+      "Lesotho",
+      "Netherlands",
+      "Haiti"
+    ],
+    "question": {
+      "text": "Which region of the world uses '.th' at the end of its web addresses?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "622a1c387cc59eab6f950a5b",
+    "correctAnswer": "Belarus",
+    "incorrectAnswers": [
+      "Bulgaria",
+      "Lithuania",
+      "Latvia"
+    ],
+    "question": {
+      "text": "Which of these countries borders Ukraine?"
+    },
+    "tags": [
+      "ukraine",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623388ca0161109f922aacac",
+    "correctAnswer": "The Cantabrian Mountains ",
+    "incorrectAnswers": [
+      "The Atlas Mountains",
+      "The Alps",
+      "The Valencian Mountains"
+    ],
+    "question": {
+      "text": "Which Mountain Range Lies In The North Of Spain?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "6471bcf37206d7c314606f5d",
+    "correctAnswer": "New Zealand",
+    "incorrectAnswers": [
+      "Australia",
+      "Indonesia",
+      "Philippines"
+    ],
+    "question": {
+      "text": "In which country is Lake Taupo?"
+    },
+    "tags": [
+      "bodies_of_water",
+      "lakes",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623741c3cb85f7ce9e949d87",
+    "correctAnswer": "Norway",
+    "incorrectAnswers": [
+      "Finland",
+      "Sweden",
+      "Denmark"
+    ],
+    "question": {
+      "text": "Oslo is the capital city of which country?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "62602e0a4b176d54800e3cbd",
+    "correctAnswer": "Italy",
+    "incorrectAnswers": [
+      "Portugal",
+      "Switzerland",
+      "Hungary"
+    ],
+    "question": {
+      "text": "In which country is the city of Florence?"
+    },
+    "tags": [
+      "cities",
+      "europe"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623735bacfe13103f55eb561",
+    "correctAnswer": "Romania",
+    "incorrectAnswers": [
+      "Cameroon",
+      "Croatia",
+      "Morocco"
+    ],
+    "question": {
+      "text": "Which region of the world uses '.ro' at the end of its web addresses?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623741cdcb85f7ce9e949d8b",
+    "correctAnswer": "Pakistan",
+    "incorrectAnswers": [
+      "Kosovo",
+      "Saudi Arabia",
+      "Ghana"
+    ],
+    "question": {
+      "text": "Islamabad is the capital city of which country?"
+    },
+    "tags": [
+      "capital_cities",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "62373f75cb85f7ce9e949c9a",
+    "correctAnswer": "Yerevan",
+    "incorrectAnswers": [
+      "Khartoum",
+      "Vilnius",
+      "Vaduz"
+    ],
+    "question": {
+      "text": "What is the capital city of Armenia?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623b5845fd6c701a921183ab",
+    "correctAnswer": "Norway",
+    "incorrectAnswers": [
+      "Austria",
+      "Germany",
+      "Northern Ireland"
+    ],
+    "question": {
+      "text": "In which country would you find the UNESCO World Heritage site of Bryggen?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "622a1c357cc59eab6f94ffdd",
+    "correctAnswer": "Bamako",
+    "incorrectAnswers": [
+      "Dakar",
+      "Accra",
+      "Kumasi"
+    ],
+    "question": {
+      "text": "What is the capital of Mali?"
+    },
+    "tags": [
+      "africa",
+      "capital_cities",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "622a1c387cc59eab6f950801",
+    "correctAnswer": "Africa",
+    "incorrectAnswers": [
+      "South America",
+      "Oceania",
+      "Europe"
+    ],
+    "question": {
+      "text": "The country of Mauritius is on which continent?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "645cb16b7d263fd5097043ce",
+    "correctAnswer": "Lithuania",
+    "incorrectAnswers": [
+      "Finland",
+      "Latvia",
+      "Austria"
+    ],
+    "question": {
+      "text": "What nation, with Vilnius as its capital, won independence in 1991 after previously being part of Poland and Russia?"
+    },
+    "tags": [
+      "countries",
+      "history",
+      "capital_cities"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623740bfcb85f7ce9e949d1e",
+    "correctAnswer": "New Delhi",
+    "incorrectAnswers": [
+      "Kolkata",
+      "Jaipur",
+      "Mumbai"
+    ],
+    "question": {
+      "text": "What is the capital city of India?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623b57c2fd6c701a9211837a",
+    "correctAnswer": "Myanmar",
+    "incorrectAnswers": [
+      "Egypt",
+      "Italy",
+      "Tanzania"
+    ],
+    "question": {
+      "text": "In which country would you find the Ancient City of Bagan?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "6463391301d576cfac3aa304",
+    "correctAnswer": "Pennsylvania",
+    "incorrectAnswers": [
+      "Ohio",
+      "Indiana",
+      "Maryland"
+    ],
+    "question": {
+      "text": "Which U.S. state has communities called Lititz, Ephrata, and Strasburg in its Amish Country?"
+    },
+    "tags": [
+      "us_states",
+      "geography",
+      "usa",
+      "society_and_culture"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623742c8cb85f7ce9e949df0",
+    "correctAnswer": "Kyiv",
+    "incorrectAnswers": [
+      "Sofia",
+      "Belgrade",
+      "Kharkiv"
+    ],
+    "question": {
+      "text": "What is the capital city of Ukraine?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "6233864c62eaad73716a8cc5",
+    "correctAnswer": "Italy",
+    "incorrectAnswers": [
+      "Poland",
+      "Portugal",
+      "Tunisia"
+    ],
+    "question": {
+      "text": "Where is the Blue Grotto?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "6461403f4d46e537ca8cd9ac",
+    "correctAnswer": "Crete",
+    "incorrectAnswers": [
+      "Santorini",
+      "Corfu",
+      "Rhodes"
+    ],
+    "question": {
+      "text": "What is the largest island of Greece, home to the ancient ruined Minoan palace of Knossos?"
+    },
+    "tags": [
+      "islands",
+      "archaeology",
+      "ancient_greece",
+      "greece",
+      "mediterranean",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "639c9db8929b90846f2fc9a4",
+    "correctAnswer": "India",
+    "incorrectAnswers": [
+      "Pakistan",
+      "Nepal",
+      "China"
+    ],
+    "question": {
+      "text": "The Taj Mahal is located in which country?"
+    },
+    "tags": [
+      "architecture",
+      "geography",
+      "tourist_attractions",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "62602dfc4b176d54800e3cb9",
+    "correctAnswer": "Bangalore",
+    "incorrectAnswers": [
+      "Christchurch",
+      "Beijing",
+      "Wellington"
+    ],
+    "question": {
+      "text": "Which of these cities is in India?"
+    },
+    "tags": [
+      "cities",
+      "asia",
+      "india",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "6477bada550bc819ad646b4c",
+    "correctAnswer": "Key West",
+    "incorrectAnswers": [
+      "Miami Beach",
+      "Tallahassee",
+      "Jacksonville"
+    ],
+    "question": {
+      "text": "Which southernmost city in the continental US is accessible by a highway completed in 1938 that allowed drivers to reach it from Miami?"
+    },
+    "tags": [
+      "florida",
+      "usa",
+      "geography",
+      "bridges"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623740e9cb85f7ce9e949d2f",
+    "correctAnswer": "Jordan",
+    "incorrectAnswers": [
+      "Bosnia and Herzegovina",
+      "Lesotho",
+      "Uganda"
+    ],
+    "question": {
+      "text": "Amman is the capital city of which country?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "62602d704b176d54800e3c98",
+    "correctAnswer": "China",
+    "incorrectAnswers": [
+      "Sri Lanka",
+      "Malaysia",
+      "Taiwan"
+    ],
+    "question": {
+      "text": "Hong Kong is a city in which country?"
+    },
+    "tags": [
+      "cities",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "64f4e5cbd361046b195e5801",
+    "correctAnswer": "Brazil",
+    "incorrectAnswers": [
+      "The USA",
+      "The Republic of the Congo",
+      "India"
+    ],
+    "question": {
+      "text": "Which country is home to the Pantanal, the largest tropical wetland area in the world?"
+    },
+    "tags": [
+      "nature",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "6233869862eaad73716a8ce2",
+    "correctAnswer": "Poland ",
+    "incorrectAnswers": [
+      "South Africa",
+      "Mongolia",
+      "Ireland"
+    ],
+    "question": {
+      "text": "In which country is the city of Plock?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "625e9ff3796f721e95543fc3",
+    "correctAnswer": "Yemen",
+    "incorrectAnswers": [
+      "Sri Lanka",
+      "Czechia",
+      "Ireland"
+    ],
+    "question": {
+      "text": "Which country's flag can be described as 'Three equal horizontal bands of red white and black.'?"
+    },
+    "tags": [
+      "flags",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "625e9efd796f721e95543f7b",
+    "correctAnswer": "Jamaica",
+    "incorrectAnswers": [
+      "Morocco",
+      "Gabon",
+      "Spain"
+    ],
+    "question": {
+      "text": "Which country's flag can be described as 'Black and green triangles divided by a yellow cross.'?"
+    },
+    "tags": [
+      "flags",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "622a1c357cc59eab6f94ffa7",
+    "correctAnswer": "Jerusalem",
+    "incorrectAnswers": [
+      "Ramat Gan",
+      "Petah Tikva",
+      "Beersheba"
+    ],
+    "question": {
+      "text": "In which city is the Wailing Wall"
+    },
+    "tags": [
+      "tourist_attractions",
+      "places",
+      "cities",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623388670161109f922aac85",
+    "correctAnswer": "Pacific",
+    "incorrectAnswers": [
+      "Atlantic",
+      "Indian",
+      "Antarctic"
+    ],
+    "question": {
+      "text": "Which Is The Largest Ocean?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "646339bc01d576cfac3aa3ae",
+    "correctAnswer": "The Spice Islands",
+    "incorrectAnswers": [
+      "The Coral Islands",
+      "The Hidden Islands",
+      "The Sunken Islands"
+    ],
+    "question": {
+      "text": "What was the former name of the Moluccas, islands known for cloves, mace, and nutmeg?"
+    },
+    "tags": [
+      "islands",
+      "indonesia",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "64746af65a4c31088dd9cff7",
+    "correctAnswer": "Bangkok",
+    "incorrectAnswers": [
+      "Tokyo",
+      "Shanghai",
+      "Beijing"
+    ],
+    "question": {
+      "text": "Which Asian city is home to the Wat Traimit temple, which houses a 5 1/2-ton solid gold Buddha statue?"
+    },
+    "tags": [
+      "religion",
+      "tourist_attractions",
+      "cities",
+      "asia",
+      "geography",
+      "tourism"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623740bdcb85f7ce9e949d1d",
+    "correctAnswer": "India",
+    "incorrectAnswers": [
+      "Thailand",
+      "Solomon Islands",
+      "Oman"
+    ],
+    "question": {
+      "text": "New Delhi is the capital city of which country?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "6233865962eaad73716a8cca",
+    "correctAnswer": "Ireland ",
+    "incorrectAnswers": [
+      "Canada",
+      "New Zealand",
+      "Australia"
+    ],
+    "question": {
+      "text": "Where Is The Glenveagh National Park?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623b57abfd6c701a92118371",
+    "correctAnswer": "China",
+    "incorrectAnswers": [
+      "Indonesia",
+      "The USA",
+      "India"
+    ],
+    "question": {
+      "text": "In which country would you find the Leshan Giant Buddha, the largest and tallest stone Buddha statue in the world?"
+    },
+    "tags": [
+      "places",
+      "records",
+      "buddhism",
+      "statues",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "625e9dce796f721e95543f2e",
+    "correctAnswer": "Australia",
+    "incorrectAnswers": [
+      "Iran",
+      "Syria",
+      "Mexico"
+    ],
+    "question": {
+      "text": "Which of these countries has blue on its flag?"
+    },
+    "tags": [
+      "flags",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "64fb5b33717513cb7919040a",
+    "correctAnswer": "Niagara Falls",
+    "incorrectAnswers": [
+      "Grand Canyon",
+      "Great Barrier Reef",
+      "Mount Everest"
+    ],
+    "question": {
+      "text": "Which landmark is often viewed from Goat Island?"
+    },
+    "tags": [
+      "natural_wonders",
+      "geography",
+      "islands",
+      "tourism",
+      "travel"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "62373ff0cb85f7ce9e949ccb",
+    "correctAnswer": "Chad",
+    "incorrectAnswers": [
+      "Gambia",
+      "Mongolia",
+      "Iraq"
+    ],
+    "question": {
+      "text": "N'Djamena is the capital city of which country?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "6610278f5b813cab24c99f53",
+    "correctAnswer": "Mount Ararat",
+    "incorrectAnswers": [
+      "Mount Erciyes",
+      "Mount Uludağ",
+      "Mount Tahtalı"
+    ],
+    "question": {
+      "text": "Which mountain is the highest peak in Turkey and is considered a national symbol?"
+    },
+    "tags": [
+      "geography",
+      "mountains",
+      "turkey"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "622a1c357cc59eab6f94ffe6",
+    "correctAnswer": "Paris",
+    "incorrectAnswers": [
+      "Strasbourg",
+      "Lyon",
+      "Nantes"
+    ],
+    "question": {
+      "text": "What is the capital of France?"
+    },
+    "tags": [
+      "capital_cities",
+      "europe",
+      "france",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "622a1c357cc59eab6f94fe10",
+    "correctAnswer": "Madrid ",
+    "incorrectAnswers": [
+      "Lisbon",
+      "Paris",
+      "Rome"
+    ],
+    "question": {
+      "text": "Which European capital city stands on the Manzanares River?"
+    },
+    "tags": [
+      "rivers",
+      "bodies_of_water",
+      "cities",
+      "capital_cities",
+      "europe",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "622a1c387cc59eab6f9508cc",
+    "correctAnswer": "Indonesia",
+    "incorrectAnswers": [
+      "Solomon Islands",
+      "Federated States of Micronesia",
+      "Palau"
+    ],
+    "question": {
+      "text": "Which of these countries borders Papua New Guinea?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "622a1c387cc59eab6f950aaf",
+    "correctAnswer": "Kazakhstan",
+    "incorrectAnswers": [
+      "Kyrgyzstan",
+      "Tajikistan",
+      "Uzbekistan"
+    ],
+    "question": {
+      "text": "Which of these countries borders Russia?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623b5854fd6c701a921183b1",
+    "correctAnswer": "Scotland",
+    "incorrectAnswers": [
+      "USA",
+      "Russia",
+      "New Zealand"
+    ],
+    "question": {
+      "text": "In which country would you find the city of Edinburgh?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "639c9d9d929b90846f2fc96d",
+    "correctAnswer": "Germany",
+    "incorrectAnswers": [
+      "France",
+      "Austria",
+      "Poland"
+    ],
+    "question": {
+      "text": "The medieval-style castle of Neuschwanstein is located in which country?"
+    },
+    "tags": [
+      "architecture",
+      "geography",
+      "buildings",
+      "tourist_attractions",
+      "castles"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "6237402ccb85f7ce9e949ce3",
+    "correctAnswer": "Czechia",
+    "incorrectAnswers": [
+      "Armenia",
+      "Botswana",
+      "Portugal"
+    ],
+    "question": {
+      "text": "Prague is the capital city of which country?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "62602e284b176d54800e3cc6",
+    "correctAnswer": "Bern",
+    "incorrectAnswers": [
+      "Valencia",
+      "Athens",
+      "Oslo"
+    ],
+    "question": {
+      "text": "Which of these cities is in Switzerland?"
+    },
+    "tags": [
+      "cities",
+      "europe",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "62602d584b176d54800e3c91",
+    "correctAnswer": "Italy",
+    "incorrectAnswers": [
+      "Iceland",
+      "Finland",
+      "Slovakia"
+    ],
+    "question": {
+      "text": "In which country is the city of Rome?"
+    },
+    "tags": [
+      "cities",
+      "europe",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "622a1c357cc59eab6f94ffbf",
+    "correctAnswer": "Mount Kilimanjaro",
+    "incorrectAnswers": [
+      "Mount Kenya",
+      "Mount Mawazi",
+      "Mount Ngaliema"
+    ],
+    "question": {
+      "text": "Name the highest mountain in Africa."
+    },
+    "tags": [
+      "mountains",
+      "africa",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  }
+]

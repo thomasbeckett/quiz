@@ -1,0 +1,1054 @@
+[
+  {
+    "category": "general_knowledge",
+    "id": "65056fa17a97013de78b548b",
+    "correctAnswer": "Topiary",
+    "incorrectAnswers": [
+      "Compostation",
+      "Drapery",
+      "Pottery"
+    ],
+    "question": {
+      "text": "What is the art of clipping trees and hedges?"
+    },
+    "tags": [
+      "general_knowledge",
+      "words",
+      "gardening"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c3a7cc59eab6f951044",
+    "correctAnswer": "Foal",
+    "incorrectAnswers": [
+      "Tiger",
+      "Kitten",
+      "Giraffe"
+    ],
+    "question": {
+      "text": "What is the meaning of the name of the constellation Equuleus?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6355b7e4e8b368eed3a68234",
+    "correctAnswer": "plosive",
+    "incorrectAnswers": [
+      "nasal",
+      "approximant",
+      "fricative"
+    ],
+    "question": {
+      "text": "In phonetics, the b in 'boat' is an example of what kind of sound?"
+    },
+    "tags": [
+      "language",
+      "linguistics",
+      "general_knowledge",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6239f83da72e7a347ac879d8",
+    "correctAnswer": "Whiskey",
+    "incorrectAnswers": [
+      "Wizard",
+      "Warlock",
+      "Womble"
+    ],
+    "question": {
+      "text": "What word is used in the NATO Phonetic Alphabet for the letter W?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "63a03977c7d86251f9b65c63",
+    "correctAnswer": "3",
+    "incorrectAnswers": [
+      "1",
+      "2",
+      "4"
+    ],
+    "question": {
+      "text": "In the nursery rhyme Baa Baa Black Sheep, how many bags of wool does the sheep have?"
+    },
+    "tags": [
+      "arts_and_literature",
+      "nursery_rhymes"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f950219",
+    "correctAnswer": "Michael Fish ",
+    "incorrectAnswers": [
+      "Gordon Jones",
+      "Harry Mortimer",
+      "Brian Daniels"
+    ],
+    "question": {
+      "text": "Which BBC Weather Man Famously Denied Reports Of A Possible Hurricane In 1987?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f950096",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "6",
+      "8",
+      "12"
+    ],
+    "question": {
+      "text": "What is the value of the letter Q in Scrabble?"
+    },
+    "tags": [
+      "general_knowledge",
+      "games",
+      "board_games"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6462624aab138b829b81e9d5",
+    "correctAnswer": "Intermittent",
+    "incorrectAnswers": [
+      "Continuous",
+      "Spontaneous",
+      "Frequent"
+    ],
+    "question": {
+      "text": "What word describes starting and stopping at intervals?"
+    },
+    "tags": [
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "64a0966bcf8fd58080ceffef",
+    "correctAnswer": "Overexposed",
+    "incorrectAnswers": [
+      "Oversaturated",
+      "Underexposed",
+      "Undersaturated"
+    ],
+    "question": {
+      "text": "What is it called when a photograph is excessively bright due to too much light?"
+    },
+    "tags": [
+      "photography",
+      "technology"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "645c9fc342ea81e2554c5f6b",
+    "correctAnswer": "1",
+    "incorrectAnswers": [
+      "Red",
+      "5",
+      "Black"
+    ],
+    "question": {
+      "text": "What is the highest level of readiness for the military when using the DEFCON system?"
+    },
+    "tags": [
+      "military"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc79",
+    "correctAnswer": "Gubbins",
+    "incorrectAnswers": [
+      "Gardyloo",
+      "Obelus",
+      "Smicker"
+    ],
+    "question": {
+      "text": "Which word is defined as 'fish parings or refuse'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc84",
+    "correctAnswer": "Finifugal",
+    "incorrectAnswers": [
+      "Groke",
+      "Gabelle",
+      "Salopettes"
+    ],
+    "question": {
+      "text": "Which word is defined as 'afraid of finishing anything'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f9503f9",
+    "correctAnswer": "Robots",
+    "incorrectAnswers": [
+      "Aliens",
+      "Gods",
+      "Wizards"
+    ],
+    "question": {
+      "text": "Transformers are ___________ in disguise. "
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "64824e397778562fd76a961e",
+    "correctAnswer": "Illegible",
+    "incorrectAnswers": [
+      "Invisible",
+      "Illicit",
+      "Illegal"
+    ],
+    "question": {
+      "text": "What word describes something that is difficult to read, like with bad handwriting?"
+    },
+    "tags": [
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6355b7f5e8b368eed3a6823b",
+    "correctAnswer": "nasal",
+    "incorrectAnswers": [
+      "fricative",
+      "affricative",
+      "plosive"
+    ],
+    "question": {
+      "text": "In phonetics, the m in 'mother' is an example of what kind of sound?"
+    },
+    "tags": [
+      "language",
+      "linguistics",
+      "general_knowledge",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc57",
+    "correctAnswer": "Tittynope",
+    "incorrectAnswers": [
+      "Funambulist",
+      "Blatherskite",
+      "Winklepicker"
+    ],
+    "question": {
+      "text": "Which word is defined as 'a small quantity of something left over'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc80",
+    "correctAnswer": "Fudgel",
+    "incorrectAnswers": [
+      "Bumfuzzle",
+      "Groke",
+      "Whippersnapper"
+    ],
+    "question": {
+      "text": "Which word is defined as 'Pretending to work when you’re not actually doing anything at all'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "648ef5e04fe93387161138b8",
+    "correctAnswer": "Red",
+    "incorrectAnswers": [
+      "Yellow",
+      "Blue",
+      "Green"
+    ],
+    "question": {
+      "text": "What color is carmine?"
+    },
+    "tags": [
+      "colours",
+      "art"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "648889175dba6c873ef650d5",
+    "correctAnswer": "Hyperbole",
+    "incorrectAnswers": [
+      "Metaphor",
+      "Simile",
+      "Personification"
+    ],
+    "question": {
+      "text": "What is the term for an exaggeration that uses extreme words and expressions?"
+    },
+    "tags": [
+      "language",
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6355b7e7e8b368eed3a68235",
+    "correctAnswer": "The t in 'train'",
+    "incorrectAnswers": [
+      "The y in 'yellow'",
+      "The n in 'no'",
+      "The m in 'mother'"
+    ],
+    "question": {
+      "text": "In phonetics, which of these is an example of a plosive sound?"
+    },
+    "tags": [
+      "language",
+      "linguistics",
+      "general_knowledge",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc7b",
+    "correctAnswer": "Futz",
+    "incorrectAnswers": [
+      "Discombobulate",
+      "Cabotage",
+      "Jentacular"
+    ],
+    "question": {
+      "text": "Which word is defined as 'to waste time or busy oneself aimlessly'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "646262b8ab138b829b81ea4c",
+    "correctAnswer": "Polka",
+    "incorrectAnswers": [
+      "Bolka",
+      "Molka",
+      "Tolka"
+    ],
+    "question": {
+      "text": "What word could refer to a dance or a dot?"
+    },
+    "tags": [
+      "words",
+      "dance"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "646262c1ab138b829b81ea5e",
+    "correctAnswer": "Annex",
+    "incorrectAnswers": [
+      "Appendix",
+      "Addendum",
+      "Supplement"
+    ],
+    "question": {
+      "text": "What is the word for an auxiliary building near the main one?"
+    },
+    "tags": [
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc8f",
+    "correctAnswer": "Cattywampus",
+    "incorrectAnswers": [
+      "Funambulist",
+      "Donkey Engine",
+      "Widdershins"
+    ],
+    "question": {
+      "text": "Which word is defined as 'askew'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c377cc59eab6f95043d",
+    "correctAnswer": "New Years Eve",
+    "incorrectAnswers": [
+      "Boxing Day",
+      "Easter Monday",
+      "Shrove Tuesday"
+    ],
+    "question": {
+      "text": "How Is St Sylvester's Day Otherwise Known?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "63a0394ac7d86251f9b65c36",
+    "correctAnswer": "Google Chrome",
+    "incorrectAnswers": [
+      "Mozilla Firefox",
+      "Microsoft Edge",
+      "Safari"
+    ],
+    "question": {
+      "text": "As of 2023, what is the most used web browser?"
+    },
+    "tags": [
+      "the_internet",
+      "technology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc98",
+    "correctAnswer": "Argle-bargle",
+    "incorrectAnswers": [
+      "Quomodocunquizing",
+      "Valetudinarian",
+      "Agastopia"
+    ],
+    "question": {
+      "text": "Which word is defined as 'copious but meaningless talk or writing'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6462624dab138b829b81e9f0",
+    "correctAnswer": "Lingerie",
+    "incorrectAnswers": [
+      "Corsetry",
+      "Foundation garments",
+      "Intimates"
+    ],
+    "question": {
+      "text": "What is the fancy name for women's underwear, which is derived from a French word?"
+    },
+    "tags": [
+      "clothing",
+      "fashion",
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f9503ee",
+    "correctAnswer": "De Militarized Zone",
+    "incorrectAnswers": [
+      "Definite Multivariate Zone",
+      "Deregulated Monetary Zone",
+      "Decompression Minimum Zone"
+    ],
+    "question": {
+      "text": "What does 'DMZ' stand for?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "64720cd33bbb58c31f411cc1",
+    "correctAnswer": "Heteronyms",
+    "incorrectAnswers": [
+      "Homonyms",
+      "Synonyms",
+      "Antonyms"
+    ],
+    "question": {
+      "text": "Which term refers to words that are spelled the same but have different sounds and neanings?"
+    },
+    "tags": [
+      "words",
+      "language",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6355b7ebe8b368eed3a68237",
+    "correctAnswer": "The k in 'sock'",
+    "incorrectAnswers": [
+      "The m in 'mother'",
+      "The f in 'fish'",
+      "The n in 'no'"
+    ],
+    "question": {
+      "text": "In phonetics, which of these is an example of a plosive sound?"
+    },
+    "tags": [
+      "language",
+      "linguistics",
+      "general_knowledge",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "645cb16b7d263fd5097043cc",
+    "correctAnswer": "Carded",
+    "incorrectAnswers": [
+      "Combed",
+      "Washed",
+      "Sheared"
+    ],
+    "question": {
+      "text": "What term is used to describe the process of preparing wool fibers before they are spun?"
+    },
+    "tags": [
+      "textiles",
+      "fashion"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc85",
+    "correctAnswer": "Firman",
+    "incorrectAnswers": [
+      "Yarborough",
+      "Tittynope",
+      "Funambulist"
+    ],
+    "question": {
+      "text": "Which word is defined as 'in Turkey and some other Oriental countries, a decree or mandate issued by the sovereign'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c3c7cc59eab6f951938",
+    "correctAnswer": "War Of The Worlds",
+    "incorrectAnswers": [
+      "The Archers",
+      "Johnny Got His Gun",
+      "Moon Over Morocco"
+    ],
+    "question": {
+      "text": "What pre-tv radio show caused hysteria when it was first aired?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c3d7cc59eab6f951c3a",
+    "correctAnswer": "Testicles",
+    "incorrectAnswers": [
+      "Eyes",
+      "Fists",
+      "Arms"
+    ],
+    "question": {
+      "text": "'Christmas Crackers' is cockney rhyming slang for which body part?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "646140b44d46e537ca8cd9f7",
+    "correctAnswer": "Distributor cap",
+    "incorrectAnswers": [
+      "Engine cover",
+      "Oil filter",
+      "Air intake manifold"
+    ],
+    "question": {
+      "text": "What is the name of the component under which you'll find the ends of the spark plug wires?"
+    },
+    "tags": [
+      "mechanics",
+      "motoring"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc95",
+    "correctAnswer": "Billingsgate",
+    "incorrectAnswers": [
+      "Ragamuffin",
+      "Pauciloquent",
+      "Collywobbles"
+    ],
+    "question": {
+      "text": "Which word is defined as 'coarsely abusive language'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f9503f1",
+    "correctAnswer": "All Born On Christmas Day",
+    "incorrectAnswers": [
+      "All British Nobility",
+      "All Died By Drowning",
+      "All Related To Each Other (by blood)"
+    ],
+    "question": {
+      "text": "What Connects Kenny Everett, Annie Lennox, And Sir Isaac Newton?"
+    },
+    "tags": [
+      "people",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "645cb17f7d263fd5097043df",
+    "correctAnswer": "Woozy",
+    "incorrectAnswers": [
+      "Parched",
+      "Zealous",
+      "Nauseous"
+    ],
+    "question": {
+      "text": "Which of these adjectives means \"close to fainting or lightheaded\"?"
+    },
+    "tags": [
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "646140774d46e537ca8cd9b7",
+    "correctAnswer": "Casting",
+    "incorrectAnswers": [
+      "Fishing",
+      "Baiting",
+      "Trolling"
+    ],
+    "question": {
+      "text": "What term, which refers to the selection of performers for a film, is also used to describe the process of fishermen catching fish?"
+    },
+    "tags": [
+      "film_and_tv",
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6239f840a72e7a347ac879d9",
+    "correctAnswer": "X-ray",
+    "incorrectAnswers": [
+      "Xzylophone",
+      "Xenophobe",
+      "Xylose"
+    ],
+    "question": {
+      "text": "What word is used in the NATO Phonetic Alphabet for the letter X?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc86",
+    "correctAnswer": "Erinaceous",
+    "incorrectAnswers": [
+      "Sprunt",
+      "Whippersnapper",
+      "Frankenfood"
+    ],
+    "question": {
+      "text": "Which word is defined as 'of, pertaining to, or resembling a hedgehog'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6239f8351bb3145a698af015",
+    "correctAnswer": "Tango",
+    "incorrectAnswers": [
+      "Treat",
+      "Turn",
+      "Tumble"
+    ],
+    "question": {
+      "text": "What word is used in the NATO Phonetic Alphabet for the letter T?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "647638d1f05ea6d6f587a150",
+    "correctAnswer": "Pigeonhole",
+    "incorrectAnswers": [
+      "Dovetail",
+      "Crowstuff",
+      "Owlnook"
+    ],
+    "question": {
+      "text": "Which term meaning \"to rigidly categorize\" comes from small desk compartments?"
+    },
+    "tags": [
+      "phrases",
+      "sayings"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c3a7cc59eab6f951012",
+    "correctAnswer": "Otter",
+    "incorrectAnswers": [
+      "Squirrel",
+      "Turtle",
+      "Bear"
+    ],
+    "question": {
+      "text": "What Sort Of Animal Was Tarka?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "648b872108102f4e90f095ce",
+    "correctAnswer": "Air conditioning",
+    "incorrectAnswers": [
+      "Asbestos control",
+      "Allergen correction",
+      "Audio capabilities"
+    ],
+    "question": {
+      "text": "In HVAC what do the letters AC stand for?"
+    },
+    "tags": [
+      "initials",
+      "engineering"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "645f952f541c4d4fc8cf2ec7",
+    "correctAnswer": "Neigh",
+    "incorrectAnswers": [
+      "Moo",
+      "Baa",
+      "Oink"
+    ],
+    "question": {
+      "text": "What is the sound made by a horse when it 'whinnies'?"
+    },
+    "tags": [
+      "sounds",
+      "horses",
+      "animals"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f95017e",
+    "correctAnswer": "Mrs Malaprop",
+    "incorrectAnswers": [
+      "Mrs Uninten",
+      "Mrs Misparl",
+      "Mrs Anagob"
+    ],
+    "question": {
+      "text": "Which character invariably misused english words?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc55",
+    "correctAnswer": "Winklepicker",
+    "incorrectAnswers": [
+      "Tittynope",
+      "Dipthong",
+      "Finifugal"
+    ],
+    "question": {
+      "text": "Which word is defined as 'style of shoe or boot in the 1950s with a sharp and long pointed toe'?"
+    },
+    "tags": [
+      "words",
+      "fashion",
+      "1950's",
+      "1960's",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "63a03972c7d86251f9b65c5c",
+    "correctAnswer": "A Lamb",
+    "incorrectAnswers": [
+      "A Puppy",
+      "A Fish",
+      "A Swan"
+    ],
+    "question": {
+      "text": "In the nursery rhyme, what animal belonged to a girl named Mary?"
+    },
+    "tags": [
+      "nursery_rhymes",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  }
+]

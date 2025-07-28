@@ -1,0 +1,1065 @@
+[
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f95007f",
+    "correctAnswer": "Baseball",
+    "incorrectAnswers": [
+      "Basketball",
+      "Football",
+      "Soccer"
+    ],
+    "question": {
+      "text": "What sport is played at Wrigley Field in Chicago?"
+    },
+    "tags": [
+      "sport",
+      "chicago",
+      "usa"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f9500c4",
+    "correctAnswer": "24",
+    "incorrectAnswers": [
+      "16",
+      "20",
+      "12"
+    ],
+    "question": {
+      "text": "How Many Draughts Are On The Board At The Start Of A Game?"
+    },
+    "tags": [
+      "games"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f950049",
+    "correctAnswer": "A Table Tennis Player",
+    "incorrectAnswers": [
+      "A Golfer",
+      "A Cricketer",
+      "A Baseball Player"
+    ],
+    "question": {
+      "text": "Who Might Use A Penholder Grip"
+    },
+    "tags": [
+      "general_knowledge",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f9500b1",
+    "correctAnswer": "Andre Agassi",
+    "incorrectAnswers": [
+      "Roger Federer",
+      "Pete Sampras",
+      "Andy Roddick"
+    ],
+    "question": {
+      "text": "In April 2003 Who Became The Oldest Man To Be Rated No1 In The World Tennis Association Rankings At The Age Of 33?"
+    },
+    "tags": [
+      "people",
+      "tennis",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f950089",
+    "correctAnswer": "Catcher",
+    "incorrectAnswers": [
+      "Pitcher",
+      "Guard",
+      "Steer"
+    ],
+    "question": {
+      "text": "What Is The Name Of The Player In Baseball Who Is Positioned Behind The Home Plate"
+    },
+    "tags": [
+      "baseball",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417da70f96c4efe8d773dc",
+    "correctAnswer": "San Jose Sharks",
+    "incorrectAnswers": [
+      "San Jose United",
+      "San Jose Bills",
+      "San Jose Flames"
+    ],
+    "question": {
+      "text": "Which of these is a hockey team based in San Jose?"
+    },
+    "tags": [
+      "hockey",
+      "usa",
+      "nhl",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f9500b6",
+    "correctAnswer": "Two",
+    "incorrectAnswers": [
+      "Five",
+      "Four",
+      "Three"
+    ],
+    "question": {
+      "text": "In a game of netball how many players on a team are allowed To score?"
+    },
+    "tags": [
+      "numbers",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c347cc59eab6f94f863",
+    "correctAnswer": "Athletics",
+    "incorrectAnswers": [
+      "Golf",
+      "Figure skating",
+      "Motor racing"
+    ],
+    "question": {
+      "text": "With which sport is Asbel Kiprop associated?"
+    },
+    "tags": [
+      "people",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417d020f96c4efe8d7739b",
+    "correctAnswer": "Dallas Cowboys",
+    "incorrectAnswers": [
+      "Dallas Crew",
+      "Dallas United",
+      "Dallas Bengals"
+    ],
+    "question": {
+      "text": "Which of these is an American Football team based in Dallas?"
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417d550f96c4efe8d773bc",
+    "correctAnswer": "New Orleans Saints",
+    "incorrectAnswers": [
+      "New Orleans Flames",
+      "New Orleans Dolphins",
+      "New Orleans Cardinals"
+    ],
+    "question": {
+      "text": "Which of these is an American Football team based in New Orleans?"
+    },
+    "tags": [
+      "new_orleans",
+      "nfl",
+      "american_football",
+      "football",
+      "usa",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f950056",
+    "correctAnswer": "Joe Frazier",
+    "incorrectAnswers": [
+      "Sugar Ray Robinson",
+      "George Foreman",
+      "Mike Tyson"
+    ],
+    "question": {
+      "text": "Who Was Beaten By Muhammad Ali In The Bout Entitled 'The Thriller In Manilla'?"
+    },
+    "tags": [
+      "boxing",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f9500d6",
+    "correctAnswer": "Andy Cole",
+    "incorrectAnswers": [
+      "Wayne Rooney",
+      "Sergio Aguero",
+      "Harry Kane"
+    ],
+    "question": {
+      "text": "Alan Shearer was the first player to score 200 Premiership goals. Who was the second?"
+    },
+    "tags": [
+      "soccer",
+      "firsts",
+      "football",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f9500a0",
+    "correctAnswer": "Sailboat racing",
+    "incorrectAnswers": [
+      "Baseball",
+      "Volleyball",
+      "Golf"
+    ],
+    "question": {
+      "text": "In which sport is the America's Cup awarded? "
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c347cc59eab6f94f86d",
+    "correctAnswer": "Cricket",
+    "incorrectAnswers": [
+      "Motor Racing",
+      "Gymnastics",
+      "Basketball"
+    ],
+    "question": {
+      "text": "With which sport is Sir Gary Sobers associated?"
+    },
+    "tags": [
+      "people",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "6477bad7550bc819ad646b41",
+    "correctAnswer": "Hooking",
+    "incorrectAnswers": [
+      "Swiping",
+      "Checking",
+      "Slashing"
+    ],
+    "question": {
+      "text": "In hockey, what is the penalty called that involves impeding the progress of an opponent with the stick?"
+    },
+    "tags": [
+      "hockey",
+      "sport",
+      "nhl"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417d250f96c4efe8d773a9",
+    "correctAnswer": "Houston Rockets",
+    "incorrectAnswers": [
+      "Houston Thunder",
+      "Houston A's",
+      "Houston Sounders"
+    ],
+    "question": {
+      "text": "Which of these is a basketball team based in Houston?"
+    },
+    "tags": [
+      "basketball",
+      "nba",
+      "usa",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "6384b47183dddfb71ee5e37e",
+    "correctAnswer": "Tennis",
+    "incorrectAnswers": [
+      "Baseball",
+      "Athletics",
+      "Motorsports"
+    ],
+    "question": {
+      "text": "Which sport is played at The Billie Jean King Cup?"
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c347cc59eab6f94f8b1",
+    "correctAnswer": "Tennis",
+    "incorrectAnswers": [
+      "Volleyball",
+      "Cycling",
+      "Badminton"
+    ],
+    "question": {
+      "text": "With which sport is Billie Jean King associated?"
+    },
+    "tags": [
+      "people",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "645bc4634638d58091b1b9d6",
+    "correctAnswer": "Pugilist",
+    "incorrectAnswers": [
+      "Boxerite",
+      "Fightman",
+      "Brawler"
+    ],
+    "question": {
+      "text": "What word, derived from Latin, refers to a boxer or prizefighter?"
+    },
+    "tags": [
+      "boxing",
+      "words",
+      "sport",
+      "latin",
+      "translations"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417d7f0f96c4efe8d773cd",
+    "correctAnswer": "Philadelphia Eagles",
+    "incorrectAnswers": [
+      "Philadelphia Saints",
+      "Philadelphia Fire",
+      "Philadelphia Thunder"
+    ],
+    "question": {
+      "text": "Which of these is an American Football team based in Philadelphia?"
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "63f39523989356ef48370c29",
+    "correctAnswer": "Kendo",
+    "incorrectAnswers": [
+      "Karate",
+      "Aikido",
+      "Judo"
+    ],
+    "question": {
+      "text": "What is the name of the traditional Japanese martial art of sword fighting?"
+    },
+    "tags": [
+      "japan",
+      "martial_arts",
+      "society_and_culture",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "6384b45083dddfb71ee5e370",
+    "correctAnswer": "The Champions League",
+    "incorrectAnswers": [
+      "Roland-Garros",
+      "The ICC World Cup",
+      "The Grand National"
+    ],
+    "question": {
+      "text": "Which of these is a competition in soccer?"
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c347cc59eab6f94f85b",
+    "correctAnswer": "Cycling",
+    "incorrectAnswers": [
+      "Cricket",
+      "Gymnastics",
+      "Ice Hockey"
+    ],
+    "question": {
+      "text": "With which sport is Lance Armstrong associated?"
+    },
+    "tags": [
+      "general_knowledge",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c357cc59eab6f95001e",
+    "correctAnswer": "Golf",
+    "incorrectAnswers": [
+      "Tennis",
+      "Boxing",
+      "Rugby"
+    ],
+    "question": {
+      "text": "With Which Sport Would You Associate Colin Montgomerie?"
+    },
+    "tags": [
+      "people",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417d9f0f96c4efe8d773da",
+    "correctAnswer": "San Diego Padres",
+    "incorrectAnswers": [
+      "San Diego Celtics",
+      "San Diego Eagles",
+      "San Diego Bears"
+    ],
+    "question": {
+      "text": "Which of these is a baseball team based in San Diego?"
+    },
+    "tags": [
+      "baseball",
+      "nbl",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f9500da",
+    "correctAnswer": "Roll",
+    "incorrectAnswers": [
+      "Dough",
+      "Pull",
+      "Wrap"
+    ],
+    "question": {
+      "text": "Who is Mega Man's sister?"
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "65056f097a97013de78b53b8",
+    "correctAnswer": "15",
+    "incorrectAnswers": [
+      "20",
+      "25",
+      "30"
+    ],
+    "question": {
+      "text": "How many red balls are there in a game of snooker?"
+    },
+    "tags": [
+      "sport_and_leisure",
+      "snooker"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "65056f7f7a97013de78b545e",
+    "correctAnswer": "Cricket",
+    "incorrectAnswers": [
+      "Javelin throw",
+      "Archery",
+      "Karate"
+    ],
+    "question": {
+      "text": "Which of these sports uses a ball?"
+    },
+    "tags": [
+      "sport_and_leisure",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417d840f96c4efe8d773cf",
+    "correctAnswer": "Philadelphia Flyers",
+    "incorrectAnswers": [
+      "Philadelphia Brewers",
+      "Philadelphia Eagles",
+      "Philadelphia Blues"
+    ],
+    "question": {
+      "text": "Which of these is a hockey team based in Philadelphia?"
+    },
+    "tags": [
+      "hockey",
+      "nhl",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f9500b9",
+    "correctAnswer": "Nigel Mansell",
+    "incorrectAnswers": [
+      "Damon Hill",
+      "Michael Schumacher",
+      "Jacques Villeneuve"
+    ],
+    "question": {
+      "text": "In 1995 Which Formula One Driver Signed For McLaren But Couldn't Fit In The Car?"
+    },
+    "tags": [
+      "sport",
+      "racing"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f950084",
+    "correctAnswer": "Surfing",
+    "incorrectAnswers": [
+      "Skate Boarding",
+      "Skiing",
+      "Boxing"
+    ],
+    "question": {
+      "text": "What sport do the following terms belong to - \"Hotdog & Bottom Trun\"?"
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f95003b",
+    "correctAnswer": "Kareem Abdul-Jabbar",
+    "incorrectAnswers": [
+      "Michael Jordan",
+      "Yao Ming",
+      "Kobe Bryant"
+    ],
+    "question": {
+      "text": "Who was the NBA's most valuable player in 1976, 1977 and 1980?"
+    },
+    "tags": [
+      "sport",
+      "basketball"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417ceb0f96c4efe8d77392",
+    "correctAnswer": "Chicago Fire",
+    "incorrectAnswers": [
+      "Chicago FC",
+      "Chicago Rangers",
+      "Chicago Marlins"
+    ],
+    "question": {
+      "text": "Which of these is a soccer team based in Chicago?"
+    },
+    "tags": [
+      "soccer",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417d7d0f96c4efe8d773cc",
+    "correctAnswer": "Philadelphia Phillies",
+    "incorrectAnswers": [
+      "Philadelphia Brewers",
+      "Philadelphia Crew",
+      "Philadelphia Orioles"
+    ],
+    "question": {
+      "text": "Which of these is a baseball team based in Philadelphia?"
+    },
+    "tags": [
+      "usa",
+      "baseball",
+      "nbl",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f950080",
+    "correctAnswer": "Steeple Chase",
+    "incorrectAnswers": [
+      "Marathon",
+      "Triathlon",
+      "Iron Man"
+    ],
+    "question": {
+      "text": "What Type Of Race Got Its Name From A Short Dash Between 2 Churches?"
+    },
+    "tags": [
+      "olympics",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417cf30f96c4efe8d77395",
+    "correctAnswer": "FC Cincinnati",
+    "incorrectAnswers": [
+      "Cincinnati Orioles",
+      "Cincinnati Dolphins",
+      "Sporting Cincinnati"
+    ],
+    "question": {
+      "text": "Which of these is a soccer team based in Cincinnati?"
+    },
+    "tags": [
+      "soccer",
+      "mls",
+      "usa",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f9500c7",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "7",
+      "5",
+      "13"
+    ],
+    "question": {
+      "text": "How Many Cards Are You Dealt In A Game Of Gin Rummy? "
+    },
+    "tags": [
+      "games"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f9500be",
+    "correctAnswer": "Eleven",
+    "incorrectAnswers": [
+      "Fourteen",
+      "Thirteen",
+      "Twelve"
+    ],
+    "question": {
+      "text": "How many players make up a field hockey team?"
+    },
+    "tags": [
+      "hockey",
+      "numbers"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c347cc59eab6f94f896",
+    "correctAnswer": "Motor racing",
+    "incorrectAnswers": [
+      "Hockey",
+      "Track and field",
+      "Table tennis"
+    ],
+    "question": {
+      "text": "With which sport is Michael Schumacher associated?"
+    },
+    "tags": [
+      "general_knowledge",
+      "people",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f950052",
+    "correctAnswer": "George Foreman",
+    "incorrectAnswers": [
+      "Joe Frazier",
+      "Wilfredo Gomez",
+      "Roberto Duran"
+    ],
+    "question": {
+      "text": "Who Did Muhammed Ali Fight In 'The Rumble In The Jungle''?"
+    },
+    "tags": [
+      "boxing",
+      "events",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417d610f96c4efe8d773c1",
+    "correctAnswer": "New York Jets",
+    "incorrectAnswers": [
+      "New York Jaguars",
+      "New York Saints",
+      "New York Kraken"
+    ],
+    "question": {
+      "text": "Which of these is an American Football team based in New York?"
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62399ef6af96521963a0870d",
+    "correctAnswer": "Argentina",
+    "incorrectAnswers": [
+      "France",
+      "Brazil",
+      "England"
+    ],
+    "question": {
+      "text": "Which country won the 1986 FIFA World Cup, hosted in Mexico?"
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "63a03992c7d86251f9b65c83",
+    "correctAnswer": "Go",
+    "incorrectAnswers": [
+      "Scrabble",
+      "Chess",
+      "Clue"
+    ],
+    "question": {
+      "text": "What is the name of the classic game where players take turns placing black and white stones in an attempt to capture areas of the board?"
+    },
+    "tags": [
+      "board_games"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c357cc59eab6f950022",
+    "correctAnswer": "Golf",
+    "incorrectAnswers": [
+      "Tennis",
+      "Cricket",
+      "Rugby"
+    ],
+    "question": {
+      "text": "With which sport is Jack Nicklaus associated ?"
+    },
+    "tags": [
+      "sport",
+      "people",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f95004e",
+    "correctAnswer": "Pele",
+    "incorrectAnswers": [
+      "Ronaldinho",
+      "Neymar",
+      "Socrates"
+    ],
+    "question": {
+      "text": "Who is 'Edson Arantes do Nascimento' better known as?"
+    },
+    "tags": [
+      "people",
+      "nicknames",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "62417d2d0f96c4efe8d773ac",
+    "correctAnswer": "Jacksonville Jaguars",
+    "incorrectAnswers": [
+      "Jacksonville Wizards",
+      "Jacksonville Seahawks",
+      "Jacksonville Nuggets"
+    ],
+    "question": {
+      "text": "Which of these is an American Football team based in Jacksonville?"
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c347cc59eab6f94f85e",
+    "correctAnswer": "Golf",
+    "incorrectAnswers": [
+      "Cycling",
+      "Surfing",
+      "Figure skating"
+    ],
+    "question": {
+      "text": "With which sport is Annika Sörenstam associated?"
+    },
+    "tags": [
+      "people",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "6384b43a83dddfb71ee5e367",
+    "correctAnswer": "Horse Racing",
+    "incorrectAnswers": [
+      "Swimming",
+      "Rugby",
+      "Golf"
+    ],
+    "question": {
+      "text": "What sport would you associate with The Kentucky Derby?"
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "622a1c367cc59eab6f950063",
+    "correctAnswer": "Steffi Graff",
+    "incorrectAnswers": [
+      "Billie Jean King",
+      "Venus Williams",
+      "Maria Sharapova"
+    ],
+    "question": {
+      "text": "Which player won her last tennis Grand Slam Tournament in Paris in 1999?"
+    },
+    "tags": [
+      "tennis",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "sport_and_leisure",
+    "id": "6242e80f8c2538f9601d2f90",
+    "correctAnswer": "The Villans",
+    "incorrectAnswers": [
+      "The Seagulls",
+      "The Hornets",
+      "The Seasiders"
+    ],
+    "question": {
+      "text": "What is the nickname of the English football team Aston Villa?"
+    },
+    "tags": [
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  }
+]

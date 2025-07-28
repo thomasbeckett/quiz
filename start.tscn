@@ -1,0 +1,64 @@
+[gd_scene load_steps=7 format=3 uid="uid://doh0ufalw2dk3"]
+
+[ext_resource type="Script" uid="uid://cd7j0851w6v0x" path="res://start.gd" id="1_ots34"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_1svla"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_qn1rc"]
+content_margin_left = 100.0
+content_margin_top = 50.0
+content_margin_right = 100.0
+content_margin_bottom = 50.0
+bg_color = Color(0.706827, 0.0439371, 0.302157, 1)
+border_width_bottom = 8
+border_color = Color(0.364367, 0.00893219, 0.141353, 1)
+corner_radius_top_left = 20
+corner_radius_top_right = 20
+corner_radius_bottom_right = 20
+corner_radius_bottom_left = 20
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ots34"]
+bg_color = Color(0.590742, 0.0262372, 0.247505, 1)
+border_width_top = 8
+border_color = Color(0.327101, 0.00714613, 0.123906, 1)
+corner_radius_top_left = 20
+corner_radius_top_right = 20
+corner_radius_bottom_right = 20
+corner_radius_bottom_left = 20
+
+[sub_resource type="Gradient" id="Gradient_ots34"]
+colors = PackedColorArray(0.22, 0.0748, 0.0748, 0.968627, 1, 0.73, 0.73, 1)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_qn1rc"]
+gradient = SubResource("Gradient_ots34")
+fill_from = Vector2(0.288991, 1)
+fill_to = Vector2(0, 0)
+
+[node name="Start" type="Node2D"]
+script = ExtResource("1_ots34")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Button" type="Button" parent="CanvasLayer"]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -217.5
+offset_top = -118.5
+offset_right = 217.5
+offset_bottom = 118.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 100
+theme_override_styles/focus = SubResource("StyleBoxEmpty_1svla")
+theme_override_styles/hover = SubResource("StyleBoxFlat_qn1rc")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_ots34")
+theme_override_styles/normal = SubResource("StyleBoxFlat_qn1rc")
+text = "Start"
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_right = 721.0
+offset_bottom = 1298.0
+texture = SubResource("GradientTexture2D_qn1rc")

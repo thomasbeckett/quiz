@@ -1,0 +1,966 @@
+[
+  {
+    "category": "film_and_tv",
+    "id": "622a1c367cc59eab6f95020f",
+    "correctAnswer": "Ridley Scott",
+    "incorrectAnswers": [
+      "Steven Spielberg",
+      "Woody Allen",
+      "Martin Scorsese"
+    ],
+    "question": {
+      "text": "Which director directed Gladiator?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c357cc59eab6f94fe17",
+    "correctAnswer": "Queensboro Bridge ",
+    "incorrectAnswers": [
+      "Manhattan Bridge",
+      "Hudson Bridge",
+      "Brooklyn Bridge"
+    ],
+    "question": {
+      "text": "Which Bridge Features On The Poster To The Woody Allen Film Manhattan?"
+    },
+    "tags": [
+      "bridges",
+      "new_york",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "64720cca3bbb58c31f411ca9",
+    "correctAnswer": "Boxing",
+    "incorrectAnswers": [
+      "Golf",
+      "Tennis",
+      "Soccer"
+    ],
+    "question": {
+      "text": "In the film 'Million Dollar Baby', what sport does the protagonist pursue?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv",
+      "sport"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f927",
+    "correctAnswer": "The Graduate",
+    "incorrectAnswers": [
+      "Mad Max",
+      "One Flew Over the Cuckoo's Nest",
+      "The Night of the Hunter"
+    ],
+    "question": {
+      "text": "Which film contains the character 'Mrs. Robinson'?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f950726",
+    "correctAnswer": "Kate Winslet",
+    "incorrectAnswers": [
+      "Kathy Bates",
+      "Kirsten Dunst",
+      "Sandra Bæ Hovedr"
+    ],
+    "question": {
+      "text": "Which actress has featured in films including The Reader and Finding Neverland?"
+    },
+    "tags": [
+      "film",
+      "acting",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94fb53",
+    "correctAnswer": "Platoon",
+    "incorrectAnswers": [
+      "Children of a Lesser God",
+      "Hannah and Her Sisters",
+      "The Mission"
+    ],
+    "question": {
+      "text": "Which film won the Academy Award for Best Picture in 1986?"
+    },
+    "tags": [
+      "academy_awards",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "624dba0ecd90beeca3531565",
+    "correctAnswer": "Tomorrow Never Dies",
+    "incorrectAnswers": [
+      "Casino Royale",
+      "Moonraker",
+      "On Her Majesty's Secret Service"
+    ],
+    "question": {
+      "text": "Which James Bond theme song was performed by Sheryl Crow?"
+    },
+    "tags": [
+      "james_bond",
+      "film",
+      "soundtracks",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f8ff",
+    "correctAnswer": "Joe Pesci",
+    "incorrectAnswers": [
+      "Robert Shaw",
+      "Bruce Willis",
+      "Errol Flynn"
+    ],
+    "question": {
+      "text": "Which actor played the role of Tommy DeVito in GoodFellas?"
+    },
+    "tags": [
+      "acting",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "645fcc7a541c4d4fc8cf306c",
+    "correctAnswer": "The Goonies",
+    "incorrectAnswers": [
+      "E.T. the Extra-Terrestrial",
+      "Indiana Jones and the Temple of Doom",
+      "Back to the Future"
+    ],
+    "question": {
+      "text": "Which 1985 Steven Spielberg film features the actor who played Samwise Gamgee in The Lord of the Rings?"
+    },
+    "tags": [
+      "1980's",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c367cc59eab6f950203",
+    "correctAnswer": "Robert Wise",
+    "incorrectAnswers": [
+      "Steven Spielberg",
+      "Woody Allen",
+      "Martin Scorsese"
+    ],
+    "question": {
+      "text": "Which director directed The Sound of Music?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94fa57",
+    "correctAnswer": "Daniel Kaluuya",
+    "incorrectAnswers": [
+      "Sacha Baron Cohen",
+      "Leslie Odom, Jr.",
+      "Paul Raci"
+    ],
+    "question": {
+      "text": "Who won the 2020 Academy Award for Best Supporting Actor for playing the role of Fred Hampton in Judas and the Black Messiah?"
+    },
+    "tags": [
+      "acting",
+      "academy_awards",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94faec",
+    "correctAnswer": "Dustin Hoffman",
+    "incorrectAnswers": [
+      "Gene Hackman",
+      "Tom Hanks",
+      "Edward James Olmos"
+    ],
+    "question": {
+      "text": "Who won the 1988 Academy Award for Best Leading Actor for playing the role of Raymond Babbitt in Rain Man?"
+    },
+    "tags": [
+      "acting",
+      "academy_awards",
+      "film",
+      "general_knowledge",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c357cc59eab6f94fc41",
+    "correctAnswer": "\"What we've got here is failure to communicate.\"",
+    "incorrectAnswers": [
+      "\"Bond. James Bond.\"",
+      "\"That’s a bingo!\"",
+      "\"With great power comes great responsiblity.\""
+    ],
+    "question": {
+      "text": "Which of these quotes is from the film 'Cool Hand Luke'?"
+    },
+    "tags": [
+      "film",
+      "quotes",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "624dba22de6018633d31f6b6",
+    "correctAnswer": "Duran Duran",
+    "incorrectAnswers": [
+      "Garbage",
+      "Chris Cornell",
+      "Lulu"
+    ],
+    "question": {
+      "text": "Who performed the theme song to the James Bond film A View to a Kill?"
+    },
+    "tags": [
+      "james_bond",
+      "film",
+      "soundtracks",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f8cf",
+    "correctAnswer": "Gloria Swanson",
+    "incorrectAnswers": [
+      "Bette Davis",
+      "Barbara Stanwyck",
+      "Whoopi Goldberg"
+    ],
+    "question": {
+      "text": "Which actress played the role of Norma Desmond in Sunset Boulevard?"
+    },
+    "tags": [
+      "film",
+      "acting",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "63d9531f168979b94b2e4fa1",
+    "correctAnswer": "Bad Boys",
+    "incorrectAnswers": [
+      "Men in Black",
+      "Independence Day",
+      "Wild Wild West"
+    ],
+    "question": {
+      "text": "What was the name of the popular '90s police film starring Will Smith and Martin Lawrence?"
+    },
+    "tags": [
+      "1990's",
+      "film_and_tv",
+      "film"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625698e79da29df7b05f72a5",
+    "correctAnswer": "Anthony Hopkins",
+    "incorrectAnswers": [
+      "Jon Favreau",
+      "Benedict Cumberbatch",
+      "Robert Redford"
+    ],
+    "question": {
+      "text": "Which actor plays the role of Odin in the Marvel Cinematic Universe?"
+    },
+    "tags": [
+      "mcu",
+      "film",
+      "acting",
+      "marvel",
+      "comics",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f8eb",
+    "correctAnswer": "Anne Bancroft",
+    "incorrectAnswers": [
+      "Gloria Swanson",
+      "Shirley MacLaine",
+      "Glenn Close"
+    ],
+    "question": {
+      "text": "Which actress played the role of Mrs. Robinson in The Graduate?"
+    },
+    "tags": [
+      "acting",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94fb26",
+    "correctAnswer": "Louise Fletcher",
+    "incorrectAnswers": [
+      "Isabelle Adjani",
+      "Ann-Margret",
+      "Glenda Jackson"
+    ],
+    "question": {
+      "text": "Who won the 1975 Academy Award for Best Leading Actress for playing the role of Nurse Mildred Ratched in One Flew over the Cuckoo's Nest?"
+    },
+    "tags": [
+      "acting",
+      "academy_awards",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9506ec",
+    "correctAnswer": "Amy Adams",
+    "incorrectAnswers": [
+      "Penélope Cruz",
+      "Emma Thompson",
+      "Kirsten Dunst"
+    ],
+    "question": {
+      "text": "Which actress has starred in both Batman v Superman: Dawn of Justice and American Hustle?"
+    },
+    "tags": [
+      "film_and_tv",
+      "acting",
+      "film"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f95069c",
+    "correctAnswer": "Jason Bateman",
+    "incorrectAnswers": [
+      "Javier Bardem",
+      "Colin Firth",
+      "Tim Roth"
+    ],
+    "question": {
+      "text": "Which actor has featured in films including DodgeBall: A True Underdog Story and Up in the Air?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "639ae860929b90846f2fc8d7",
+    "correctAnswer": "Death Star",
+    "incorrectAnswers": [
+      "Star Destroyer",
+      "Lightsaber",
+      "TIE Fighter"
+    ],
+    "question": {
+      "text": "In Star Wars, what is the name of the Empire's planet-destroying superweapon?"
+    },
+    "tags": [
+      "star_wars",
+      "film",
+      "film_and_tv",
+      "science_fiction"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "64a094bccf8fd58080ceffd8",
+    "correctAnswer": "Seth MacFarlane",
+    "incorrectAnswers": [
+      "Trey Parker",
+      "Matt Groening",
+      "Will Ferrell"
+    ],
+    "question": {
+      "text": "Who created the TV show 'Family Guy'?"
+    },
+    "tags": [
+      "tv",
+      "film_and_tv",
+      "cartoons"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "62573f9a9da29df7b05f73a5",
+    "correctAnswer": "Parasite",
+    "incorrectAnswers": [
+      "Vertigo",
+      "The Big Lebowski",
+      "Casino"
+    ],
+    "question": {
+      "text": "Name the movie that matches the following plot summary: 'A destitute family builds a symbiotic relationship with a wealthy family.'"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9507c7",
+    "correctAnswer": "Harrison Ford",
+    "incorrectAnswers": [
+      "Mark Hamill",
+      "Brad Pitt",
+      "Pedro Pascal"
+    ],
+    "question": {
+      "text": "Which actor originally played the role of Han Solo in Star Wars?"
+    },
+    "tags": [
+      "star_wars",
+      "film",
+      "acting",
+      "general_knowledge",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "63951dd4e55fa75b149597b2",
+    "correctAnswer": "Starfish",
+    "incorrectAnswers": [
+      "Squid",
+      "Plankton",
+      "Lobster"
+    ],
+    "question": {
+      "text": "What type of animal is Spongebob's best friend Patrick?"
+    },
+    "tags": [
+      "tv",
+      "cartoons",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f903",
+    "correctAnswer": "Kevin Spacey",
+    "incorrectAnswers": [
+      "Johnny Depp",
+      "Sean Penn",
+      "Samuel L. Jackson"
+    ],
+    "question": {
+      "text": "Which actor played the role of Roger \"Verbal\" Kint in The Usual Suspects?"
+    },
+    "tags": [
+      "people",
+      "acting",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "62573fa73d2f5c16bfb88335",
+    "correctAnswer": "Braveheart",
+    "incorrectAnswers": [
+      "Trainspotting",
+      "My Neighbour Totoro",
+      "Apocalypse Now"
+    ],
+    "question": {
+      "text": "Name the movie that matches the following plot summary: 'A Scottish warrior leads his countrymen in a rebellion to free his homeland.'"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f8c8",
+    "correctAnswer": "Errol Flynn",
+    "incorrectAnswers": [
+      "Sidney Poitier",
+      "Robert Mitchum",
+      "Clint Eastwood"
+    ],
+    "question": {
+      "text": "Which actor played the role of Robin Hood in The Adventures of Robin Hood?"
+    },
+    "tags": [
+      "people",
+      "film",
+      "acting",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "647207af3bbb58c31f411c58",
+    "correctAnswer": "Field of Dreams",
+    "incorrectAnswers": [
+      "Bull Durham",
+      "The Natural",
+      "Moneyball"
+    ],
+    "question": {
+      "text": "Which 1989 film features Kevin Costner building a baseball diamond on his corn farm?"
+    },
+    "tags": [
+      "baseball",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9505bb",
+    "correctAnswer": "Mila Kunis",
+    "incorrectAnswers": [
+      "Jacqueline Bisset",
+      "Sophia Loren",
+      "Madonna"
+    ],
+    "question": {
+      "text": "Which actress has acted in both That '70s Show and Black Swan?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625740a49da29df7b05f73ed",
+    "correctAnswer": "Chinatown",
+    "incorrectAnswers": [
+      "Gran Torino",
+      "Up",
+      "Gone Girl"
+    ],
+    "question": {
+      "text": "Name the movie that matches the following plot summary: 'A detective hired to expose an adulterer finds himself caught up in a web of deceit.'"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "648889135dba6c873ef650bc",
+    "correctAnswer": "Letterbox",
+    "incorrectAnswers": [
+      "Fullscreen",
+      "High Dynamic Range",
+      "Pan and Scan"
+    ],
+    "question": {
+      "text": "What is the name of the format used for presenting wide theatrical images on TV while maintaining their original aspect ratio?"
+    },
+    "tags": [
+      "technology"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f8ef",
+    "correctAnswer": "Marlon Brando",
+    "incorrectAnswers": [
+      "Anthony Perkins",
+      "Bruce Willis",
+      "Humphrey Bogart"
+    ],
+    "question": {
+      "text": "Which actor played the role of Terry Malloy in On the Waterfront?"
+    },
+    "tags": [
+      "acting",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f8e7",
+    "correctAnswer": "Robert Duvall",
+    "incorrectAnswers": [
+      "Samuel L. Jackson",
+      "Daniel Day-Lewis",
+      "Orson Welles"
+    ],
+    "question": {
+      "text": "Which actor played the role of Lt. Col. Bill Kilgore in Apocalypse Now?"
+    },
+    "tags": [
+      "people",
+      "acting",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c367cc59eab6f950404",
+    "correctAnswer": "Halloween",
+    "incorrectAnswers": [
+      "A Nightmare on Elm Street",
+      "Scream",
+      "Child's Play"
+    ],
+    "question": {
+      "text": "The Character Of Mike Myers Features Heavily In Which Series Of Horror Movies?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c367cc59eab6f9503cf",
+    "correctAnswer": "Axel Foley",
+    "incorrectAnswers": [
+      "Johnny West",
+      "Marcus Steel",
+      "Jarvis Hansen"
+    ],
+    "question": {
+      "text": "What was the name of Eddie Murphy's character in Beverly Hills Cop?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f8e0",
+    "correctAnswer": "Humphrey Bogart",
+    "incorrectAnswers": [
+      "John Travolta",
+      "Peter O'Toole",
+      "Gregory Peck"
+    ],
+    "question": {
+      "text": "Which actor played the role of Rick Blaine in Casablanca?"
+    },
+    "tags": [
+      "people",
+      "acting",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f95079c",
+    "correctAnswer": "Brad Pitt",
+    "incorrectAnswers": [
+      "Matt Damon",
+      "Robert De Niro",
+      "George Clooney"
+    ],
+    "question": {
+      "text": "Which actor has starred in films including Deadpool 2 and Inglourious Basterds?"
+    },
+    "tags": [
+      "film",
+      "acting",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625fd69edc0dd3b72da64cfe",
+    "correctAnswer": "1942",
+    "incorrectAnswers": [
+      "1928",
+      "1935",
+      "1949"
+    ],
+    "question": {
+      "text": "Casablanca was released in which year?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9507d1",
+    "correctAnswer": "Morgan Freeman",
+    "incorrectAnswers": [
+      "Christopher Lee",
+      "Liam Neeson",
+      "Arnold Schwarzenegger"
+    ],
+    "question": {
+      "text": "Which actor has featured in films including Batman Begins and Lucy?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94fb14",
+    "correctAnswer": "Julia Roberts",
+    "incorrectAnswers": [
+      "Joan Allen",
+      "Juliette Binoche",
+      "Ellen Burstyn"
+    ],
+    "question": {
+      "text": "Who won the 2000 Academy Award for Best Leading Actress for playing the role of Erin Brockovich in Erin Brockovich?"
+    },
+    "tags": [
+      "acting",
+      "academy_awards",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f945",
+    "correctAnswer": "A Streetcar Named Desire",
+    "incorrectAnswers": [
+      "Saturday Night Fever",
+      "Sunset Boulevard",
+      "Wall Street"
+    ],
+    "question": {
+      "text": "Which film contains the character 'Stanley Kowalski'?"
+    },
+    "tags": [
+      "fictitious_characters",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9505d2",
+    "correctAnswer": "Sally Hawkins",
+    "incorrectAnswers": [
+      "Lucy Lawless",
+      "Abigail Breslin",
+      "Kim Basinger"
+    ],
+    "question": {
+      "text": "Which actress has starred in both The Shape of Water and Vera Drake?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  }
+]

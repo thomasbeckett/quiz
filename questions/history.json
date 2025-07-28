@@ -1,0 +1,1104 @@
+[
+  {
+    "category": "history",
+    "id": "622a1c377cc59eab6f950451",
+    "correctAnswer": "The Submarine",
+    "incorrectAnswers": [
+      "The Torpedo",
+      "TNT",
+      "The Tank"
+    ],
+    "question": {
+      "text": "Designed By Robert Fulton, Which Weapon Was Tested In The Seine In 1801?"
+    },
+    "tags": [
+      "inventions",
+      "technology",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3b7cc59eab6f951791",
+    "correctAnswer": "Louis XIV",
+    "incorrectAnswers": [
+      "Henri III",
+      "Charles the Bald",
+      "Napoleon Bonaparte"
+    ],
+    "question": {
+      "text": "Which King of France was known as The Sun King?"
+    },
+    "tags": [
+      "france",
+      "leaders",
+      "nicknames",
+      "middle_ages",
+      "medieval",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "62611fdf4b176d54800e3d76",
+    "correctAnswer": "1975",
+    "incorrectAnswers": [
+      "1957",
+      "1963",
+      "1969"
+    ],
+    "question": {
+      "text": "In which year was the digital camera invented?"
+    },
+    "tags": [
+      "events",
+      "inventions",
+      "technology",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951b47",
+    "correctAnswer": "1947",
+    "incorrectAnswers": [
+      "1953",
+      "1959",
+      "1941"
+    ],
+    "question": {
+      "text": "In What Year Did India Gain Independence From The United Kingdom?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "639ae2d7929b90846f2fc8bb",
+    "correctAnswer": "Raiding",
+    "incorrectAnswers": [
+      "Exploration",
+      "Migration",
+      "Trade"
+    ],
+    "question": {
+      "text": "What is the name of the Viking practice of sailing off to unknown lands in search of riches and glory?"
+    },
+    "tags": [
+      "history",
+      "vikings"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950327",
+    "correctAnswer": "Lord Louis Mountbatten",
+    "incorrectAnswers": [
+      "Lord Hargreaves Fitzroy",
+      "Lord William Bowles",
+      "Lord Edison Tengay"
+    ],
+    "question": {
+      "text": "Who was the last British Viceroy of India?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951bb8",
+    "correctAnswer": "The Opium War",
+    "incorrectAnswers": [
+      "The Hong Kong War",
+      "The Mandarin War",
+      "The Boxer Rebellion"
+    ],
+    "question": {
+      "text": "How was the 1839-42 Anglo-Chinese war better known ?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c377cc59eab6f95043e",
+    "correctAnswer": "John F Kennedy ",
+    "incorrectAnswers": [
+      "Martin Luther King",
+      "Malcolm X",
+      "Lee Harvey Oswald"
+    ],
+    "question": {
+      "text": "Who was assassinated on Nov. 22, 1963? "
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951b4c",
+    "correctAnswer": "1954",
+    "incorrectAnswers": [
+      "1958",
+      "1962",
+      "1966"
+    ],
+    "question": {
+      "text": "In What Year Did The Vietnam War Begin?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3b7cc59eab6f951705",
+    "correctAnswer": "Georges Pompidou",
+    "incorrectAnswers": [
+      "Jaques Chirac",
+      "François Mitterrand",
+      "Gaston Doumergue"
+    ],
+    "question": {
+      "text": "Who became President of France after Charles de Gaulle?"
+    },
+    "tags": [
+      "history",
+      "france",
+      "presidents",
+      "leaders",
+      "politics",
+      "europe"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "639ae35a929b90846f2fc8c8",
+    "correctAnswer": "Central America",
+    "incorrectAnswers": [
+      "South America",
+      "South Africa",
+      "Southeast Asia"
+    ],
+    "question": {
+      "text": "Where was the Aztec Empire located?"
+    },
+    "tags": [
+      "history",
+      "aztecs"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951822",
+    "correctAnswer": "Apollo 11",
+    "incorrectAnswers": [
+      "Apollo 1",
+      "Apollo 3",
+      "Apollo 9"
+    ],
+    "question": {
+      "text": "Which Apollo space mission put the first people on the moon?"
+    },
+    "tags": [
+      "history",
+      "space_exploration",
+      "space",
+      "events"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "65056f207a97013de78b53d8",
+    "correctAnswer": "Austrian",
+    "incorrectAnswers": [
+      "Swiss",
+      "German",
+      "French"
+    ],
+    "question": {
+      "text": "What nationality did Adolf Hitler have until 1925?"
+    },
+    "tags": [
+      "history",
+      "people"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "639c9da1929b90846f2fc974",
+    "correctAnswer": "1947",
+    "incorrectAnswers": [
+      "1945",
+      "1938",
+      "1955"
+    ],
+    "question": {
+      "text": "In which year did the Cold War between the U.S. and Soviet Union begin?"
+    },
+    "tags": [
+      "history",
+      "1900's",
+      "cold_war",
+      "usa",
+      "soviet_union",
+      "wars"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951a3e",
+    "correctAnswer": "Thermopylae",
+    "incorrectAnswers": [
+      "Marathon",
+      "Corinth",
+      "Troy"
+    ],
+    "question": {
+      "text": "Where was the Greek army of Leonides annihilated by Persians in 480BC?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951c85",
+    "correctAnswer": "Watergate",
+    "incorrectAnswers": [
+      "Hotelgate",
+      "Croneygate",
+      "Corruptiongate"
+    ],
+    "question": {
+      "text": "What was the name of the scandal that forced President Nixon to resign?"
+    },
+    "tags": [
+      "events",
+      "presidents",
+      "usa",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "639ae34b929b90846f2fc8c2",
+    "correctAnswer": "Nahuatl",
+    "incorrectAnswers": [
+      "Mayan",
+      "Mixtec",
+      "Otomi"
+    ],
+    "question": {
+      "text": "What was the primary language of the Aztecs?"
+    },
+    "tags": [
+      "history",
+      "aztecs",
+      "language"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "639895725c9a75021f310456",
+    "correctAnswer": "The Seven Years' War",
+    "incorrectAnswers": [
+      "The Hundred Years' War",
+      "The War of the Spanish Succession",
+      "The Napoleonic Wars"
+    ],
+    "question": {
+      "text": "What was the name of the major conflict between France, Austria, Prussia, Saxony, Russia and Great Britain in the 18th century?"
+    },
+    "tags": [
+      "history",
+      "1700's",
+      "wars",
+      "europe"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3e7cc59eab6f952273",
+    "correctAnswer": "The Bible",
+    "incorrectAnswers": [
+      "Don Quixote",
+      "The Magna Carta",
+      "Macbeth"
+    ],
+    "question": {
+      "text": "In 1447, Johannes Gutenberg invented the printing press. What was the first book he produced?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "63a039cac7d86251f9b65cb6",
+    "correctAnswer": "Richard I",
+    "incorrectAnswers": [
+      "Henry II",
+      "Edward I",
+      "Henry VIII"
+    ],
+    "question": {
+      "text": "Which English king was known as 'The Lionheart'?"
+    },
+    "tags": [
+      "history",
+      "britain",
+      "uk",
+      "monarchs",
+      "kings",
+      "nicknames"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951a90",
+    "correctAnswer": "A Gladiator",
+    "incorrectAnswers": [
+      "A Centurion",
+      "A Dominus",
+      "A Caesar"
+    ],
+    "question": {
+      "text": "What was the name of someone who fought professionally in Roman arenas?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f95031e",
+    "correctAnswer": "Mary Queen Of Scots",
+    "incorrectAnswers": [
+      "Elizabeth I",
+      "Victoria",
+      "Jane Seymour"
+    ],
+    "question": {
+      "text": "Who was the mother of James I of England?"
+    },
+    "tags": [
+      "people",
+      "uk",
+      "kings",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950392",
+    "correctAnswer": "Sir Walter Raleigh",
+    "incorrectAnswers": [
+      "Sir Francis Drake",
+      "James Cook",
+      "Ernest Shackleton"
+    ],
+    "question": {
+      "text": "Who Brought Back Tobacco And Potatoes From The Americas?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951c08",
+    "correctAnswer": "Richard Nixon",
+    "incorrectAnswers": [
+      "Donald Trump",
+      "Ronald Reagan",
+      "George W Bush"
+    ],
+    "question": {
+      "text": "Which President of the USA infamously allowed the bugging of the Democratic Committee headquarters?"
+    },
+    "tags": [
+      "presidents",
+      "events",
+      "usa",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951c56",
+    "correctAnswer": "Buddy Holly, Big Bopper, Richie Valens",
+    "incorrectAnswers": [
+      "Bill Haley, Johnny Burnette, Chuck Berry ",
+      "Fats Domino, Jerry Lee Lewis, Willie Mae Thornton",
+      "Elvis Presley, Carl Perkins, Big Joe Turner"
+    ],
+    "question": {
+      "text": "Which 3 rock stars died in a plane crash on February 3rd 1959?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f95030b",
+    "correctAnswer": "Louis Bleriot",
+    "incorrectAnswers": [
+      "Jacques Peralle",
+      "Martin Robertson",
+      "Arnold Clark"
+    ],
+    "question": {
+      "text": "Who, in 1909, became the first man to fly across the English Channel?"
+    },
+    "tags": [
+      "firsts",
+      "uk",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c347cc59eab6f94f9c9",
+    "correctAnswer": "Ronald Reagan",
+    "incorrectAnswers": [
+      "John Quincy Adams",
+      "Gerald Ford",
+      "James Polk"
+    ],
+    "question": {
+      "text": "Who was the 40th president of the USA, in term during the period 1981–1989?"
+    },
+    "tags": [
+      "usa",
+      "presidents",
+      "leaders",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951952",
+    "correctAnswer": "L",
+    "incorrectAnswers": [
+      "R",
+      "H",
+      "J"
+    ],
+    "question": {
+      "text": "What is the Roman numeral for fifty?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "645c9fc842ea81e2554c5f8d",
+    "correctAnswer": "St. Ignatius Loyola",
+    "incorrectAnswers": [
+      "Pope Francis",
+      "St. Peter",
+      "St. Paul"
+    ],
+    "question": {
+      "text": "Which founder of the Jesuits was imprisoned on two occasions during the Spanish Inquisition?"
+    },
+    "tags": [
+      "religion",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950321",
+    "correctAnswer": "Hannibal",
+    "incorrectAnswers": [
+      "Spartacus",
+      "Arminius",
+      "Brennus"
+    ],
+    "question": {
+      "text": "Who was the most famous leader of the Carthaginians?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "62611f904b176d54800e3d61",
+    "correctAnswer": "1958",
+    "incorrectAnswers": [
+      "1934",
+      "1942",
+      "1971"
+    ],
+    "question": {
+      "text": "When was the pacemaker invented?"
+    },
+    "tags": [
+      "events",
+      "medicine",
+      "inventions",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "62611fb24b176d54800e3d6a",
+    "correctAnswer": "1973",
+    "incorrectAnswers": [
+      "1963",
+      "1949",
+      "1984"
+    ],
+    "question": {
+      "text": "When was the first mobile phone conversation?"
+    },
+    "tags": [
+      "events",
+      "firsts",
+      "technology",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "64746b055a4c31088dd9d00b",
+    "correctAnswer": "El Cid",
+    "incorrectAnswers": [
+      "Don Quixote",
+      "Ferdinand II of Aragon",
+      "Zorro"
+    ],
+    "question": {
+      "text": "Which of these was an 11th-century  Spanish knight and warlord?"
+    },
+    "tags": [
+      "spain",
+      "history",
+      "1000s",
+      "people"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f95034f",
+    "correctAnswer": "The Elephant Man",
+    "incorrectAnswers": [
+      "The Zodiac Killer",
+      "The Red Baron",
+      "Vanilla Ice"
+    ],
+    "question": {
+      "text": "Who was Joseph Merrick?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "6471e4297206d7c314606f79",
+    "correctAnswer": "Attila the Huns",
+    "incorrectAnswers": [
+      "Vlad the Impaler",
+      "Ivan the Terrible",
+      "Xerxes"
+    ],
+    "question": {
+      "text": "Which ancient ruler was known as the \"Scourge of God\"?"
+    },
+    "tags": [
+      "history",
+      "europe",
+      "people",
+      "nicknames"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3b7cc59eab6f9516f7",
+    "correctAnswer": "Howard Carter",
+    "incorrectAnswers": [
+      "Edward Johnson",
+      "Martin Davis",
+      "William James"
+    ],
+    "question": {
+      "text": "Who discovered the tomb of Tutankhamen?"
+    },
+    "tags": [
+      "history",
+      "ancient_egypt",
+      "archaeology"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "645cb19b7d263fd5097043e8",
+    "correctAnswer": "Bombay",
+    "incorrectAnswers": [
+      "Calcutta",
+      "Delhi",
+      "Hyderabad"
+    ],
+    "question": {
+      "text": "What is the former name of Mumbai, India, which was changed in 1996?"
+    },
+    "tags": [
+      "cities",
+      "history",
+      "india",
+      "geography",
+      "asia"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "63a039a6c7d86251f9b65c98",
+    "correctAnswer": "Harold II",
+    "incorrectAnswers": [
+      "William the Conqueror",
+      "Alfred the Great",
+      "Edward the Confessor"
+    ],
+    "question": {
+      "text": "What was the name of the last Anglo-Saxon king of England?"
+    },
+    "tags": [
+      "history",
+      "britain",
+      "uk",
+      "monarchs",
+      "kings",
+      "saxons"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951b8d",
+    "correctAnswer": "China",
+    "incorrectAnswers": [
+      "India",
+      "The USSR",
+      "The USA"
+    ],
+    "question": {
+      "text": "Which country invaded Tibet in 1950?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f9519b8",
+    "correctAnswer": "Manhattan Island",
+    "incorrectAnswers": [
+      "The Moon",
+      "The Last Dodo",
+      "Queen Elizabeth's Corpse"
+    ],
+    "question": {
+      "text": "What did Peter Minuit buy in 1626?"
+    },
+    "tags": [
+      "people",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "62611f9d4b176d54800e3d65",
+    "correctAnswer": "1945",
+    "incorrectAnswers": [
+      "1929",
+      "1960",
+      "1911"
+    ],
+    "question": {
+      "text": "When was the ENIAC, the first programmable computer, created?"
+    },
+    "tags": [
+      "events",
+      "firsts",
+      "technology",
+      "inventions",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "62611f554b176d54800e3d52",
+    "correctAnswer": "1992",
+    "incorrectAnswers": [
+      "1945",
+      "1960",
+      "1977"
+    ],
+    "question": {
+      "text": "When did the Maastricht Treaty lay the foundation for the European Union?"
+    },
+    "tags": [
+      "events",
+      "politics",
+      "europe",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951bf5",
+    "correctAnswer": "Alexander the Great",
+    "incorrectAnswers": [
+      "Napoleon",
+      "Julius Caesar",
+      "General Custer"
+    ],
+    "question": {
+      "text": "Who Had a wife named Roxana and a horse named Bacephalus?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "6610278f5b813cab24c99f55",
+    "correctAnswer": "Hagia Sophia",
+    "incorrectAnswers": [
+      "Topkapi Palace",
+      "Blue Mosque",
+      "Ephesus"
+    ],
+    "question": {
+      "text": "Which famous Turkish landmark started as a Byzantine Christian cathedral, then was converted to an Ottoman imperial mosque, became a museum, and in 2020 became a Mosque again?"
+    },
+    "tags": [
+      "history",
+      "landmarks",
+      "istanbul",
+      "turkey",
+      "tourist_attractions",
+      "buildings"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951cb5",
+    "correctAnswer": "Troubles",
+    "incorrectAnswers": [
+      "Difficulties",
+      "Woes",
+      "Problems"
+    ],
+    "question": {
+      "text": "In the Christmas song 'Have Yourself A Merry Little Christmas' what \"will be out of sight\"?"
+    },
+    "tags": [
+      "christmas",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "646339bc01d576cfac3aa3a6",
+    "correctAnswer": "West Germany",
+    "incorrectAnswers": [
+      "The Soviet Union",
+      "Italy",
+      "Austria"
+    ],
+    "question": {
+      "text": "From 1949 to 1963, Konrad Adenauer served as the first chancellor of which country?"
+    },
+    "tags": [
+      "politics",
+      "europe",
+      "leaders",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "64824ee47778562fd76a96a5",
+    "correctAnswer": "East and West Germany",
+    "incorrectAnswers": [
+      "North and South Korea",
+      "Vietnam and Cambodia",
+      "North & South Sudan"
+    ],
+    "question": {
+      "text": "Which two countries agreed to reunite on February 13th, 1989?"
+    },
+    "tags": [
+      "politics",
+      "countries",
+      "geography",
+      "1980's"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "648888905dba6c873ef6504b",
+    "correctAnswer": "The 1990s",
+    "incorrectAnswers": [
+      "The 1980s",
+      "The 1970s",
+      "The 1960s"
+    ],
+    "question": {
+      "text": "Which decade saw the dissolution of the Soviet Union and the end of the Cold War?"
+    },
+    "tags": [
+      "history",
+      "politics",
+      "cold_war",
+      "decades",
+      "soviet_union",
+      "russia"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "62611fc04b176d54800e3d6e",
+    "correctAnswer": "1937",
+    "incorrectAnswers": [
+      "1910",
+      "1919",
+      "1928"
+    ],
+    "question": {
+      "text": "When was the first blood bank opened?"
+    },
+    "tags": [
+      "events",
+      "firsts",
+      "medicine",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f95037d",
+    "correctAnswer": "Lou Reed",
+    "incorrectAnswers": [
+      "David Bowie",
+      "Neil Young",
+      "Chic"
+    ],
+    "question": {
+      "text": "Who Released The 70's Album Entitled 'Transformer'?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  }
+]

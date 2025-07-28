@@ -1,0 +1,60 @@
+[gd_scene load_steps=6 format=3 uid="uid://caq38xeni8mvj"]
+
+[ext_resource type="StyleBox" uid="uid://drailr3ckjt3b" path="res://question.tres" id="1_g5b5r"]
+[ext_resource type="Script" uid="uid://chcrg80xnyvr2" path="res://question.gd" id="1_lccfl"]
+[ext_resource type="Texture2D" path="res://food_gradient.tres" id="2_nk8gh"]
+[ext_resource type="StyleBox" uid="uid://8yg8ac4x80mq" path="res://questionPressed.tres" id="3_e0yn7"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_g5b5r"]
+
+[node name="Question" type="Node2D"]
+script = ExtResource("1_lccfl")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer"]
+offset_right = 727.0
+offset_bottom = 1307.0
+texture = ExtResource("2_nk8gh")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer"]
+offset_left = 44.0
+offset_top = 481.0
+offset_right = 675.0
+offset_bottom = 1092.0
+theme_override_constants/separation = 40
+
+[node name="Button2" type="Button" parent="CanvasLayer/VBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_disabled_color = Color(0.169245, 0.169245, 0.169245, 1)
+theme_override_font_sizes/font_size = 42
+theme_override_styles/focus = SubResource("StyleBoxEmpty_g5b5r")
+theme_override_styles/disabled = ExtResource("1_g5b5r")
+theme_override_styles/hover = ExtResource("1_g5b5r")
+theme_override_styles/pressed = ExtResource("3_e0yn7")
+theme_override_styles/normal = ExtResource("1_g5b5r")
+text = "Answer"
+autowrap_mode = 2
+
+[node name="Label" type="Label" parent="CanvasLayer"]
+offset_left = 51.0
+offset_top = 63.0
+offset_right = 658.0
+offset_bottom = 370.0
+theme_override_font_sizes/font_size = 35
+text = "Question
+"
+autowrap_mode = 2
+
+[node name="Button3" type="Button" parent="CanvasLayer"]
+visible = false
+offset_left = 157.0
+offset_top = 1131.0
+offset_right = 551.0
+offset_bottom = 1259.0
+theme_override_font_sizes/font_size = 42
+theme_override_styles/focus = SubResource("StyleBoxEmpty_g5b5r")
+theme_override_styles/hover = ExtResource("1_g5b5r")
+theme_override_styles/pressed = ExtResource("3_e0yn7")
+theme_override_styles/normal = ExtResource("1_g5b5r")
+text = "Next"

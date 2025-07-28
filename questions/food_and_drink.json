@@ -1,0 +1,1081 @@
+[
+  {
+    "category": "food_and_drink",
+    "id": "6271641d1ba117625baac948",
+    "correctAnswer": "Soju",
+    "incorrectAnswers": [
+      "Canelazo",
+      "Rakı",
+      "Tuba"
+    ],
+    "question": {
+      "text": "Which of these is a popular drink in Korea?"
+    },
+    "tags": [
+      "drink",
+      "alcohol"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "64cf43067f0714b9a0ca5e7a",
+    "correctAnswer": "Wendy's",
+    "incorrectAnswers": [
+      "McDonald's",
+      "Burger King",
+      "In-N-Out"
+    ],
+    "question": {
+      "text": "'Where's the beef?' Is a marketing catchphrase introduced by which fast food chain?"
+    },
+    "tags": [
+      "advertising",
+      "marketing",
+      "slogans",
+      "fast_food",
+      "food",
+      "society_and_culture",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c3b7cc59eab6f9515b4",
+    "correctAnswer": "4",
+    "incorrectAnswers": [
+      "2",
+      "6",
+      "16"
+    ],
+    "question": {
+      "text": "How many times bigger than a regular bottle is a Jeroboam?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c3b7cc59eab6f951557",
+    "correctAnswer": "Texas ",
+    "incorrectAnswers": [
+      "Florida",
+      "California",
+      "Georgia"
+    ],
+    "question": {
+      "text": "Which US state is most associated with Chilli Con Carne?"
+    },
+    "tags": [
+      "food_and_drink",
+      "food",
+      "us_states"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c3e7cc59eab6f9522dd",
+    "correctAnswer": "Coconut",
+    "incorrectAnswers": [
+      "Banana",
+      "Chilli",
+      "Pumpkin"
+    ],
+    "question": {
+      "text": "From what food do you get copra?"
+    },
+    "tags": [
+      "food_and_drink",
+      "plants",
+      "food"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c3b7cc59eab6f9515b5",
+    "correctAnswer": "Pigs ",
+    "incorrectAnswers": [
+      "Sheep",
+      "Cows",
+      "Cats"
+    ],
+    "question": {
+      "text": "Which animal is used to sniff out truffles?"
+    },
+    "tags": [
+      "animals",
+      "food",
+      "general_knowledge",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c3b7cc59eab6f95164f",
+    "correctAnswer": "The Beginning",
+    "incorrectAnswers": [
+      "The End",
+      "Between Courses",
+      "With A Soup"
+    ],
+    "question": {
+      "text": " At which stage of a meal would you have an hors d'oeuvre?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f9502d6",
+    "correctAnswer": "Sherry ",
+    "incorrectAnswers": [
+      "Ginger",
+      "Tomatoes",
+      "Bread"
+    ],
+    "question": {
+      "text": "What would you use the solera process on?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "647a125855463d5ce2994fc9",
+    "correctAnswer": "Kentucky Fried Chicken",
+    "incorrectAnswers": [
+      "McDonald's",
+      "Burger King",
+      "Taco Bell"
+    ],
+    "question": {
+      "text": "Which fast food chain advertises with the slogan\"'It's finger lickin' good!\"?"
+    },
+    "tags": [
+      "marketing",
+      "brands",
+      "food",
+      "food_and_drink",
+      "slogans"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "624ab0bc348a461bfc670694",
+    "correctAnswer": "The Middle East",
+    "incorrectAnswers": [
+      "Central Asia",
+      "Africa",
+      "South America"
+    ],
+    "question": {
+      "text": "Where in the world are peas originally from?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f95024d",
+    "correctAnswer": "Apple ",
+    "incorrectAnswers": [
+      "Orange",
+      "Peach",
+      "Apricot"
+    ],
+    "question": {
+      "text": "Which fruit has the scientific name of malus pumulia?"
+    },
+    "tags": [
+      "food",
+      "names",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "627164a81ba117625baac96c",
+    "correctAnswer": "Pastis",
+    "incorrectAnswers": [
+      "Whisky",
+      "Mastika",
+      "Caesar"
+    ],
+    "question": {
+      "text": "Which of these drinks originates from France?"
+    },
+    "tags": [
+      "drink",
+      "alcohol",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f9502ba",
+    "correctAnswer": "German Bread ",
+    "incorrectAnswers": [
+      "Belgian Wheat Beer",
+      "Dutch Cheese",
+      "Danish Butter"
+    ],
+    "question": {
+      "text": "What is pumpernickel?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "627164c31ba117625baac974",
+    "correctAnswer": "Romania",
+    "incorrectAnswers": [
+      "Denmark",
+      "Finland",
+      "Latvia"
+    ],
+    "question": {
+      "text": "Which country is associated with the drink tuica?"
+    },
+    "tags": [
+      "drink",
+      "alcohol",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f9502a5",
+    "correctAnswer": "Dutch ",
+    "incorrectAnswers": [
+      "German",
+      "Danish",
+      "French"
+    ],
+    "question": {
+      "text": "What Nationality Is The Lager Giant Grolsch?"
+    },
+    "tags": [
+      "drink",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "625007270d86c8f685d80f18",
+    "correctAnswer": "Tubular pasta",
+    "incorrectAnswers": [
+      "Ribbon pasta",
+      "Strand pasta",
+      "Stuffed pasta"
+    ],
+    "question": {
+      "text": "What type of pasta is ziti?"
+    },
+    "tags": [
+      "food",
+      "italy",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "6250070f0d86c8f685d80f11",
+    "correctAnswer": "to cut",
+    "incorrectAnswers": [
+      "Little bells",
+      "Pens",
+      "Little worms"
+    ],
+    "question": {
+      "text": "The pasta tagliatelle has what meaning in Italian?"
+    },
+    "tags": [
+      "food",
+      "words",
+      "language",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "64746b3e5a4c31088dd9d03d",
+    "correctAnswer": "Rice",
+    "incorrectAnswers": [
+      "Bread",
+      "Apples",
+      "Potatoes"
+    ],
+    "question": {
+      "text": "What type of food has varieties such as Jasmine, Arborio, and Texmati?"
+    },
+    "tags": [
+      "cuisine",
+      "ingredients",
+      "cooking",
+      "food",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "647638daf05ea6d6f587a165",
+    "correctAnswer": "Tumbler",
+    "incorrectAnswers": [
+      "Goblet",
+      "Chalice",
+      "Snifter"
+    ],
+    "question": {
+      "text": "What is the word for a drinking glass with flat sides and no stem?"
+    },
+    "tags": [
+      "food_and_drink",
+      "drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "6488dead50a27f7378a91dca",
+    "correctAnswer": "Vodka",
+    "incorrectAnswers": [
+      "Tequila",
+      "Rum",
+      "Gin"
+    ],
+    "question": {
+      "text": "What is the main alcoholic ingredient typically used in a screwdriver?"
+    },
+    "tags": [
+      "cocktails",
+      "drink",
+      "alcohol",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "63b0588a4799123c67712f56",
+    "correctAnswer": "Corona",
+    "incorrectAnswers": [
+      "Budweiser",
+      "Coors",
+      "Heineken"
+    ],
+    "question": {
+      "text": "Which of these is a popular Mexican beer?"
+    },
+    "tags": [
+      "mexico",
+      "drink",
+      "beer",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "63a0393dc7d86251f9b65c27",
+    "correctAnswer": "Parmesan",
+    "incorrectAnswers": [
+      "Cheddar",
+      "Gouda",
+      "Feta"
+    ],
+    "question": {
+      "text": "What type of cheese is Parmigiano Reggiano?"
+    },
+    "tags": [
+      "cheese",
+      "food_and_drink",
+      "food"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "646261c8ab138b829b81e995",
+    "correctAnswer": "Australia",
+    "incorrectAnswers": [
+      "New Zealand",
+      "Canada",
+      "Ireland"
+    ],
+    "question": {
+      "text": "Vegemite, a trademarked vegetable extract used as a food spread, is from which country?"
+    },
+    "tags": [
+      "food",
+      "food_and_drink",
+      "countries"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "624c608350d1a5e051325a60",
+    "correctAnswer": "Succotash",
+    "incorrectAnswers": [
+      "Rösti",
+      "Plov",
+      "Pad Thai"
+    ],
+    "question": {
+      "text": "Which of these dishes would you most expect to find in Equatorial Guinea?"
+    },
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "624c6172badf21197f98f77d",
+    "correctAnswer": "Fufu",
+    "incorrectAnswers": [
+      "Dim Sum",
+      "Ema Datshi",
+      "Kushari"
+    ],
+    "question": {
+      "text": "Which of these dishes would you most expect to find in Ghana?"
+    },
+    "tags": [
+      "food",
+      "africa",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "647f9df73a4302a719271692",
+    "correctAnswer": "Minestrone",
+    "incorrectAnswers": [
+      "Linguine",
+      "Tiramisu",
+      "Pesto"
+    ],
+    "question": {
+      "text": "Which of these is a thick Italian vegetable soup?"
+    },
+    "tags": [
+      "food",
+      "food_and_drink",
+      "soups"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "627164321ba117625baac94e",
+    "correctAnswer": "China",
+    "incorrectAnswers": [
+      "Brazil",
+      "England",
+      "Ukraine"
+    ],
+    "question": {
+      "text": "In which country is maotai a popular drink?"
+    },
+    "tags": [
+      "drink",
+      "alcohol"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f9502e3",
+    "correctAnswer": "Greece ",
+    "incorrectAnswers": [
+      "Italy",
+      "Russia",
+      "Pakistan"
+    ],
+    "question": {
+      "text": "In which country would you expect to be served a yoghurt-based starter called 'tzatziki'?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f950277",
+    "correctAnswer": "The United States",
+    "incorrectAnswers": [
+      "Korea",
+      "China",
+      "Germany"
+    ],
+    "question": {
+      "text": "Where were fortune cookies invented?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f9502a3",
+    "correctAnswer": "Dutch ",
+    "incorrectAnswers": [
+      "German",
+      "Danish",
+      "French"
+    ],
+    "question": {
+      "text": "What nationality is the lager producer, `grolsch'?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f950285",
+    "correctAnswer": "Grog ",
+    "incorrectAnswers": [
+      "Guppy",
+      "Roller",
+      "Meal"
+    ],
+    "question": {
+      "text": "What was the name of the highly diluted rum that was once given to British sailors?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "63bc3f9e0e893d6e5a6a0fc7",
+    "correctAnswer": "Eclair",
+    "incorrectAnswers": [
+      "Strudel",
+      "Kringle",
+      "Cannoli"
+    ],
+    "question": {
+      "text": "What is the name of a pastry traditionally made with choux dough, filled with cream and topped with a flavored icing?"
+    },
+    "tags": [
+      "food",
+      "food_and_drink",
+      "pastry",
+      "baking"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f9502a1",
+    "correctAnswer": "Almond",
+    "incorrectAnswers": [
+      "Hazelnut",
+      "Brazil Nut",
+      "Walnut"
+    ],
+    "question": {
+      "text": "What nut is used to make marzipan?"
+    },
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "645b9ebcf09106226db2357c",
+    "correctAnswer": "Quiche",
+    "incorrectAnswers": [
+      "Omelette",
+      "Frittata",
+      "Pizza"
+    ],
+    "question": {
+      "text": "What type of food has a version called \"Lorraine\"?"
+    },
+    "tags": [
+      "cooking",
+      "food",
+      "recipes",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "646089a9de964ebc39016c66",
+    "correctAnswer": "Soda water",
+    "incorrectAnswers": [
+      "Cola",
+      "Lemonade",
+      "Sprite"
+    ],
+    "question": {
+      "text": "What type of carbonated drink is typically added to a gin fizz?"
+    },
+    "tags": [
+      "cocktails",
+      "drinks",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f9502ac",
+    "correctAnswer": "Bean Curd ",
+    "incorrectAnswers": [
+      "Seitan",
+      "Quorn",
+      "Whitejelly"
+    ],
+    "question": {
+      "text": "What Is Tofu Also Known As?"
+    },
+    "tags": [
+      "food",
+      "names",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "627164821ba117625baac962",
+    "correctAnswer": "Sang Som Rum",
+    "incorrectAnswers": [
+      "Pitorro",
+      "Tuba",
+      "Port wine"
+    ],
+    "question": {
+      "text": "Which of these drinks would you associate with Thailand?"
+    },
+    "tags": [
+      "drink",
+      "alcohol"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f950280",
+    "correctAnswer": "McDonald's ",
+    "incorrectAnswers": [
+      "KFC",
+      "Burger King",
+      "Wendy's"
+    ],
+    "question": {
+      "text": "What fast food chain was taken over by Ray Kroc in 1954?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "62716477d5d487fbab6b795a",
+    "correctAnswer": "Italy",
+    "incorrectAnswers": [
+      "Ghana",
+      "Panama",
+      "Nepal"
+    ],
+    "question": {
+      "text": "In which country is grappa a popular drink?"
+    },
+    "tags": [
+      "drink",
+      "alcohol"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "624ab0af348a461bfc67068f",
+    "correctAnswer": "The Middle East",
+    "incorrectAnswers": [
+      "North America",
+      "Central America",
+      "India"
+    ],
+    "question": {
+      "text": "From which part of the world does beetroot originate?"
+    },
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f95027f",
+    "correctAnswer": "Spiciness",
+    "incorrectAnswers": [
+      "Calories",
+      "Dairy Content",
+      "Alcohol Content"
+    ],
+    "question": {
+      "text": "What Does The Scoville Scale Measure?"
+    },
+    "tags": [
+      "words",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "645ab413158db1bd1779f1b8",
+    "correctAnswer": "Moo Shoo",
+    "incorrectAnswers": [
+      "Kung Pao",
+      "General Tso's Chicken",
+      "Lo Mein"
+    ],
+    "question": {
+      "text": "What Chinese dish is traditionally made of shredded pork stir-fried with eggs, bamboo shoots, other vegetables, and served in thin pancakes?"
+    },
+    "tags": [
+      "food",
+      "recipes",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c3a7cc59eab6f951059",
+    "correctAnswer": "Melon",
+    "incorrectAnswers": [
+      "Grape",
+      "Apple",
+      "Orange"
+    ],
+    "question": {
+      "text": "What Fruit Is A Cantaloupe?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "6250066b0d86c8f685d80ee8",
+    "correctAnswer": "Cannelloni",
+    "incorrectAnswers": [
+      "Garganelli",
+      "Bavette",
+      "Ziti"
+    ],
+    "question": {
+      "text": "Which pasta's name means 'Large reeds'?"
+    },
+    "tags": [
+      "food",
+      "words",
+      "language",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "625006ce0d86c8f685d80efe",
+    "correctAnswer": "Little ears",
+    "incorrectAnswers": [
+      "Little ribbons",
+      "Small thimbles",
+      "Butterflies"
+    ],
+    "question": {
+      "text": "The pasta orecchiette has what meaning in Italian?"
+    },
+    "tags": [
+      "food",
+      "words",
+      "language",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f950222",
+    "correctAnswer": "Leek ",
+    "incorrectAnswers": [
+      "Carrot",
+      "Potato",
+      "Onion"
+    ],
+    "question": {
+      "text": "Which vegetable is also a Welsh emblem?"
+    },
+    "tags": [
+      "food",
+      "symbols",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f950223",
+    "correctAnswer": "Artichokes ",
+    "incorrectAnswers": [
+      "Spinach",
+      "Tomatoes",
+      "Onions"
+    ],
+    "question": {
+      "text": "Which vegetable comes in 'globe' and 'Jerusalem' varieties?"
+    },
+    "tags": [
+      "food_and_drink",
+      "food"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "6271645c1ba117625baac95a",
+    "correctAnswer": "Serbia",
+    "incorrectAnswers": [
+      "Finland",
+      "Ghana",
+      "Equador"
+    ],
+    "question": {
+      "text": "Which country is associated with the drink slivovitz?"
+    },
+    "tags": [
+      "drink",
+      "alcohol"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f95027d",
+    "correctAnswer": "Mexico ",
+    "incorrectAnswers": [
+      "France",
+      "China",
+      "India"
+    ],
+    "question": {
+      "text": "Which country is the ancient home of chocolate?"
+    },
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c3b7cc59eab6f95161d",
+    "correctAnswer": "A gelatine substitute",
+    "incorrectAnswers": [
+      "A sweetener",
+      "A spice",
+      "A raising agent"
+    ],
+    "question": {
+      "text": "Agar-agar is often used in cooking. What is it?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  }
+]
