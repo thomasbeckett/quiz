@@ -1,6 +1,7 @@
-[gd_scene load_steps=7 format=3 uid="uid://casqhtuko8qj3"]
+[gd_scene load_steps=8 format=3 uid="uid://casqhtuko8qj3"]
 
 [ext_resource type="Script" uid="uid://bqybo5085p31v" path="res://end.gd" id="1_n735c"]
+[ext_resource type="PackedScene" uid="uid://ktyytpt4o3vi" path="res://quit.tscn" id="2_egc6y"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_egc6y"]
 font_size = 100
@@ -55,13 +56,22 @@ horizontal_alignment = 1
 autowrap_mode = 2
 
 [node name="Button" type="Button" parent="CanvasLayer"]
-offset_left = 107.0
-offset_top = 901.0
-offset_right = 592.0
-offset_bottom = 1075.0
+offset_left = 115.0
+offset_top = 688.0
+offset_right = 600.0
+offset_bottom = 862.0
 theme_override_font_sizes/font_size = 55
 theme_override_styles/focus = SubResource("StyleBoxEmpty_n735c")
 theme_override_styles/hover = SubResource("StyleBoxFlat_jclhh")
 theme_override_styles/pressed = SubResource("StyleBoxFlat_75yvt")
 theme_override_styles/normal = SubResource("StyleBoxFlat_jclhh")
 text = "Play again"
+
+[node name="Button2" type="Button" parent="CanvasLayer"]
+offset_left = 103.0
+offset_top = 912.0
+offset_right = 578.0
+offset_bottom = 1152.0
+text = "Stats"
+
+[node name="Node2D" parent="CanvasLayer" instance=ExtResource("2_egc6y")]

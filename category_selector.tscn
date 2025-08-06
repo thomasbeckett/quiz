@@ -1,0 +1,56 @@
+[gd_scene load_steps=7 format=3 uid="uid://dtev7gbrnpg7s"]
+
+[ext_resource type="Script" uid="uid://bapf5etm0mix3" path="res://category_selector.gd" id="1_5mhcj"]
+[ext_resource type="PackedScene" uid="uid://ktyytpt4o3vi" path="res://quit.tscn" id="2_kew6k"]
+[ext_resource type="StyleBox" uid="uid://drailr3ckjt3b" path="res://question.tres" id="2_nir53"]
+[ext_resource type="StyleBox" uid="uid://8yg8ac4x80mq" path="res://questionPressed.tres" id="3_kew6k"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_demlg"]
+font_size = 60
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_caxjy"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_5mhcj")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Node2D" parent="CanvasLayer" instance=ExtResource("2_kew6k")]
+z_index = 1
+
+[node name="ScrollContainer" type="ScrollContainer" parent="CanvasLayer"]
+offset_left = 128.0
+offset_top = 76.0
+offset_right = 668.0
+offset_bottom = 1179.0
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="CanvasLayer/ScrollContainer"]
+layout_mode = 2
+theme_override_constants/separation = 450
+
+[node name="GridContainer" type="GridContainer" parent="CanvasLayer/ScrollContainer/VBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 4
+theme_override_constants/h_separation = 50
+theme_override_constants/v_separation = 35
+
+[node name="Label" type="Label" parent="CanvasLayer/ScrollContainer/VBoxContainer2/GridContainer"]
+layout_mode = 2
+text = "Choose category"
+label_settings = SubResource("LabelSettings_demlg")
+
+[node name="CatOpt1" type="Button" parent="CanvasLayer/ScrollContainer/VBoxContainer2/GridContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 50
+theme_override_styles/focus = SubResource("StyleBoxEmpty_caxjy")
+theme_override_styles/hover = ExtResource("2_nir53")
+theme_override_styles/pressed = ExtResource("3_kew6k")
+theme_override_styles/normal = ExtResource("2_nir53")
+text = "Category1"
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer"]
+z_index = -1
+offset_right = 713.0
+offset_bottom = 1290.0
+mouse_filter = 2
+color = Color(0.13626, 0.0935827, 0.219267, 1)

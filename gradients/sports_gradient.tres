@@ -2,7 +2,7 @@
 
 [sub_resource type="Gradient" id="Gradient_w360a"]
 offsets = PackedFloat32Array(0.00649351, 1)
-colors = PackedColorArray(0.490832, 0.115733, 0.439834, 1, 0.1554, 0.74, 0.730257, 0.682353)
+colors = PackedColorArray(0.490196, 0.117647, 0.439216, 0.686275, 0.156863, 0.741176, 0.729412, 0.533333)
 
 [resource]
 gradient = SubResource("Gradient_w360a")

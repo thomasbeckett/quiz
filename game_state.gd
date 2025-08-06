@@ -6,6 +6,7 @@ var currentQuestionId: String = ""
 var correctAnswerCount: int = 0
 var totalCorrectAnswers: int = 0
 var winning_score = 3
+var single_category_mode: bool = false
 
 const CATEGORIES = {
 	"Science": "res://questions/science.json",
@@ -16,6 +17,7 @@ const CATEGORIES = {
 	"Music": "res://questions/music.json",
 	"General": "res://questions/general.json",
 	"Food and drink": "res://questions/food_and_drink.json",
+	"Ilaria": "res://questions/ilaria.json"
 }
 
 

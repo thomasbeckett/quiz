@@ -29,6 +29,7 @@ var CATEGORY_BUTTON_COLORS = {
 	"Music":   Color(0.7, 0.5, 0),
 	"General": Color(0.5, 0.2, 0.9),
 	"Food and drink": Color(0.9, 0.3, 0),
+	"Ilaria": Color(0.6, 0, 0.1) 
 }
  
 func _ready() -> void:
@@ -50,8 +51,16 @@ func _ready() -> void:
 		return not game_state.answeredQuestions.has(q.id)
 	)
 	if questions.size() == 0:
-		label.text = "All answers in category have been answered."
-		return
+		game_state.answeredQuestions.clear()
+		# Reload all questions
+		var file2 = FileAccess.open(game_state.currentQuestionCategory, FileAccess.READ)
+		if file2:
+			var json2 = file2.get_as_text()
+			var parsed2 = JSON.parse_string(json2)
+			if typeof(parsed2) == TYPE_ARRAY:
+				questions = parsed2
+			file2.close()
+		print("All answers in category have been answered.")
 	var random_index = randi() % questions.size()
 	var selected_question = questions[random_index]
 	game_state.currentQuestionId = selected_question.id
@@ -75,8 +84,11 @@ func _ready() -> void:
 			stylebox = StyleBoxFlat.new()
 		# Set the button color based on the category
 		stylebox.bg_color = CATEGORY_BUTTON_COLORS.get(category_key, Color(0.8, 0.8, 0.8))
-		pressed_stylebox.bg_color = stylebox.bg_color.darkened(0.3)
+		stylebox.border_color =  stylebox.bg_color.darkened(0.4)
+		pressed_stylebox.bg_color = stylebox.bg_color.darkened(0.2)
+		pressed_stylebox.border_color = stylebox.border_color.darkened(0.3)
 		hover_stylebox.bg_color = stylebox.bg_color.lightened(0.2)
+		hover_stylebox.border_color = stylebox.border_color.lightened(0.2)
 		btn.add_theme_stylebox_override("normal", stylebox)
 		btn.add_theme_stylebox_override("disabled", stylebox.duplicate())
 		btn.pressed.connect(_on_button_pressed.bind(btn))
@@ -106,7 +118,9 @@ func _on_button_pressed(button: Button) -> void:
 	else:
 		label.text = "Incorrect. Try again."
 		style.bg_color = Color(1, 0, 0) # Red
-		game_state.correctAnswerCount -= 1
+		if game_state.correctAnswerCount > 0:
+			game_state.correctAnswerCount -= 1
+		# game_state.correctAnswerCount -= 1
 		for child in v_box_container.get_children():
 			if child is Button:
 				if child.text == correct_answer:
@@ -128,5 +142,7 @@ func _on_next_button_pressed() -> void:
 	if game_state.correctAnswerCount >= game_state.winning_score:
 		get_tree().change_scene_to_file("res://end.tscn")
 		return
-	
+	if game_state.single_category_mode:
+		get_tree().change_scene_to_file("res://question.tscn")
+		return
 	get_tree().change_scene_to_file("res://fork.tscn")

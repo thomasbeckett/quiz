@@ -1059,5 +1059,1078 @@
     "difficulty": "hard",
     "regions": [    ],
     "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3c7cc59eab6f951a26",
+    "correctAnswer": "Smallpox",
+    "incorrectAnswers": [
+      "Anthrax",
+      "Coronavirus",
+      "Measles"
+    ],
+    "question": {
+      "text": "The world was declared safe from which virus in 1979?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "63d952f9168979b94b2e4f66",
+    "correctAnswer": "Quark",
+    "incorrectAnswers": [
+      "Atom",
+      "Proton",
+      "Neutron"
+    ],
+    "question": {
+      "text": "What is the smallest particle known to exist?"
+    },
+    "tags": [
+      "science",
+      "physics",
+      "particle_physics"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f95054c",
+    "correctAnswer": "Internal secretory glands",
+    "incorrectAnswers": [
+      "Bees",
+      "Fresh water environments",
+      "Japanese people"
+    ],
+    "question": {
+      "text": "What is Endocrinology the study of?"
+    },
+    "tags": [
+      "words",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3e7cc59eab6f95229f",
+    "correctAnswer": "3",
+    "incorrectAnswers": [
+      "1",
+      "0",
+      "2"
+    ],
+    "question": {
+      "text": "How many hearts does an octopus have?"
+    },
+    "tags": [
+      "animals",
+      "science",
+      "numbers",
+      "biology"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f9510bb",
+    "correctAnswer": "Jurassic",
+    "incorrectAnswers": [
+      "Mesozoic",
+      "Triassic",
+      "Devonian"
+    ],
+    "question": {
+      "text": "In Geology What Period followed The Cretaceous?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "645cb1257d263fd5097043ae",
+    "correctAnswer": "Oxygen",
+    "incorrectAnswers": [
+      "Helium",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "question": {
+      "text": "What gas, discovered in 1774, gets its name from the Greek words for 'acid' and 'forming'?"
+    },
+    "tags": [
+      "science",
+      "chemistry",
+      "gases"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "646339ce01d576cfac3aa3b5",
+    "correctAnswer": "Ritalin",
+    "incorrectAnswers": [
+      "Amoxicillin",
+      "Prozac",
+      "Zoloft"
+    ],
+    "question": {
+      "text": "Which of these medicines is often used to treat attention deficit hyperactivity disorder?"
+    },
+    "tags": [
+      "pharmaceuticals",
+      "drugs",
+      "medicine",
+      "psychology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3e7cc59eab6f9522d8",
+    "correctAnswer": "Foxglove",
+    "incorrectAnswers": [
+      "Nightshade",
+      "Bamboo",
+      "Coconut"
+    ],
+    "question": {
+      "text": "From what is the heart drug digitalis obtained?"
+    },
+    "tags": [
+      "science",
+      "biology",
+      "plants",
+      "medicine"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "63f394f6989356ef48370bc8",
+    "correctAnswer": "Bee Hummingbird",
+    "incorrectAnswers": [
+      "Pigeon",
+      "Great Horned Owl",
+      "Ostrich"
+    ],
+    "question": {
+      "text": "What is the smallest bird in the world?"
+    },
+    "tags": [
+      "science",
+      "birds",
+      "nature"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6244376f746187c5e7be9352",
+    "correctAnswer": "Heavy water",
+    "incorrectAnswers": [
+      "Dolomite",
+      "Cream of tartar",
+      "Hematite"
+    ],
+    "question": {
+      "text": "What is deuterium oxide commonly known as?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c397cc59eab6f950fa8",
+    "correctAnswer": "J Robert Oppenheimer",
+    "incorrectAnswers": [
+      "Albert Einstein",
+      "Richard Feynman",
+      "Niels Bohr"
+    ],
+    "question": {
+      "text": "Who Was The First Director Of The Atomic Lab At Los Alamos New Mexico?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6242cb75d543524f1b19c930",
+    "correctAnswer": "A nye",
+    "incorrectAnswers": [
+      "A sedge",
+      "A parliament",
+      "A clowder"
+    ],
+    "question": {
+      "text": "What is the word for a group of pheasants?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "649fcb35ebb41911d4cbd6d2",
+    "correctAnswer": "Oleo-",
+    "incorrectAnswers": [
+      "Olic-",
+      "Ola-",
+      "Olmo-"
+    ],
+    "question": {
+      "text": "Which of these is a prefix used to refer to oil or oil-based materials?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f950ff6",
+    "correctAnswer": "Microwaves",
+    "incorrectAnswers": [
+      "Ovens",
+      "Refrigerators",
+      "Dryers"
+    ],
+    "question": {
+      "text": "Which has longer wavelength?"
+    },
+    "tags": [
+      "physics",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6243358ecfaae40c129614b4",
+    "correctAnswer": "A Drone",
+    "incorrectAnswers": [
+      "A Macho",
+      "A Dog",
+      "A Tiercel"
+    ],
+    "question": {
+      "text": "What would you call a male wasp?"
+    },
+    "tags": [
+      "animals",
+      "biology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f950518",
+    "correctAnswer": "the structure of diseased tissues",
+    "incorrectAnswers": [
+      "the biosphere and its relations to the lithosphere and atmosphere",
+      "the liver; a branch of medicine",
+      "study of horses"
+    ],
+    "question": {
+      "text": "What is Histopathology the study of?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3c7cc59eab6f9519c9",
+    "correctAnswer": "Atari",
+    "incorrectAnswers": [
+      "Sega",
+      "Nintendo",
+      "Sony"
+    ],
+    "question": {
+      "text": "What company made the first color arcade game?"
+    },
+    "tags": [
+      "video_games",
+      "firsts",
+      "technology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6242cbaad543524f1b19c945",
+    "correctAnswer": "A pack",
+    "incorrectAnswers": [
+      "A kindle",
+      "A flight",
+      "A plump"
+    ],
+    "question": {
+      "text": "What is the word for a group of wolves?"
+    },
+    "tags": [
+      "animals",
+      "biology",
+      "general_knowledge",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f95055d",
+    "correctAnswer": "Flies",
+    "incorrectAnswers": [
+      "Schematics",
+      "The interpretation of symbols",
+      "Ligaments"
+    ],
+    "question": {
+      "text": "What is Dipterology the study of?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "650570427a97013de78b556a",
+    "correctAnswer": "Africa",
+    "incorrectAnswers": [
+      "Australia",
+      "Europe",
+      "South America"
+    ],
+    "question": {
+      "text": "Which continent are zebras native to?"
+    },
+    "tags": [
+      "science",
+      "animals",
+      "nature",
+      "continents"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f950feb",
+    "correctAnswer": "Vanilla",
+    "incorrectAnswers": [
+      "Almond",
+      "Cinnamon",
+      "Cocoa"
+    ],
+    "question": {
+      "text": "Which Member Of The Orchid Family Is Used Commercially As A Flavouring?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f9504ec",
+    "correctAnswer": "dreams",
+    "incorrectAnswers": [
+      "drug dosage",
+      "the interrelationship between an organism's physical functioning and its environment",
+      "crop circles"
+    ],
+    "question": {
+      "text": "What is Oneirology the study of?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6242cb2dd543524f1b19c914",
+    "correctAnswer": "A herd",
+    "incorrectAnswers": [
+      "A sloth",
+      "A skulk",
+      "A cete"
+    ],
+    "question": {
+      "text": "What is the word for a group of giraffes?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f950fcb",
+    "correctAnswer": "Nicolaus Copernicus",
+    "incorrectAnswers": [
+      "Galileo Galilei",
+      "Ptolemy",
+      "Isaac Newton"
+    ],
+    "question": {
+      "text": "Who coined the theory that the earth revolves around the sun?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "62433536cfaae40c12961491",
+    "correctAnswer": "A Pup",
+    "incorrectAnswers": [
+      "A Foal",
+      "A Calf",
+      "A Piglet"
+    ],
+    "question": {
+      "text": "A young sea lion is known as what?"
+    },
+    "tags": [
+      "animals",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f9504e4",
+    "correctAnswer": "the functions of the nervous system",
+    "incorrectAnswers": [
+      "Church architecture and decoration, or separately the Christian Church",
+      "the study and interpretation of symbols, or a set of symbols",
+      "drugs"
+    ],
+    "question": {
+      "text": "What is Neurophysiology the study of?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3e7cc59eab6f952261",
+    "correctAnswer": "Hyper Text Transfer Protocol",
+    "incorrectAnswers": [
+      "Hard Time Telecommunications Pact",
+      "Head To Tail Photons",
+      "High Top Transduction Paths"
+    ],
+    "question": {
+      "text": "In computer networking what do the initials HTTP stand for?"
+    },
+    "tags": [
+      "science",
+      "computing",
+      "the_internet",
+      "initials"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6242cb99d543524f1b19c93e",
+    "correctAnswer": "A murmuration",
+    "incorrectAnswers": [
+      "A barren",
+      "A pack",
+      "A shrewdness"
+    ],
+    "question": {
+      "text": "What is the word for a group of starlings?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "646b3ec40361c7fb32d6b6cc",
+    "correctAnswer": "The blue whale",
+    "incorrectAnswers": [
+      "The elephant",
+      "The giraffe",
+      "The hippopotamus"
+    ],
+    "question": {
+      "text": "What is the largest mammal in the world?"
+    },
+    "tags": [
+      "science",
+      "animals"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f9504a5",
+    "correctAnswer": "the mental processes within mental illness or disorders",
+    "incorrectAnswers": [
+      "life in outer space",
+      "a synonym for taxonomy",
+      "prehistoric climates"
+    ],
+    "question": {
+      "text": "What is Psychopathology the study of?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f950532",
+    "correctAnswer": "The liver",
+    "incorrectAnswers": [
+      "Religion",
+      "The moon",
+      "The number 7"
+    ],
+    "question": {
+      "text": "What is Hepatology the study of?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f9510bf",
+    "correctAnswer": "Nine",
+    "incorrectAnswers": [
+      "Seven",
+      "Six",
+      "Eight"
+    ],
+    "question": {
+      "text": "How many planets are there in our solar system?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "624437a5746187c5e7be9367",
+    "correctAnswer": "Hg",
+    "incorrectAnswers": [
+      "KOH",
+      "NaCI",
+      "CaCO3"
+    ],
+    "question": {
+      "text": "What is the chemical formula for mercury?"
+    },
+    "tags": [
+      "chemistry",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "645f9526541c4d4fc8cf2eb7",
+    "correctAnswer": "Mars",
+    "incorrectAnswers": [
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "question": {
+      "text": "What is the name of the planet in our solar system given the nickname \"The Red Planet\"?"
+    },
+    "tags": [
+      "astronomy",
+      "space",
+      "planets",
+      "the_solar_system",
+      "nicknames",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6505703e7a97013de78b5565",
+    "correctAnswer": "A hormone",
+    "incorrectAnswers": [
+      "A gland",
+      "An amino acid",
+      "A sugar"
+    ],
+    "question": {
+      "text": "What is testosterone?"
+    },
+    "tags": [
+      "science",
+      "medicine",
+      "anatomy",
+      "biology"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f9510b5",
+    "correctAnswer": "Ostrich",
+    "incorrectAnswers": [
+      "Peacock",
+      "Emu",
+      "Emperor Penguin"
+    ],
+    "question": {
+      "text": "Name the largest living bird."
+    },
+    "tags": [
+      "animals",
+      "biology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3b7cc59eab6f95154c",
+    "correctAnswer": "Rickets",
+    "incorrectAnswers": [
+      "Osteoporosis",
+      "Anemia",
+      "Smallpox"
+    ],
+    "question": {
+      "text": "Lack of Vitamin D causes which disease?"
+    },
+    "tags": [
+      "medicine",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "646089e1de964ebc39016c94",
+    "correctAnswer": "Charles Goodyear",
+    "incorrectAnswers": [
+      "Henry Ford",
+      "Thomas Edison",
+      "Eli Whitney"
+    ],
+    "question": {
+      "text": "In 1839, which American inventor reportedly spilled a mix of rubber and sulfur onto a hot stove and found that it didn't melt?"
+    },
+    "tags": [
+      "inventors",
+      "history",
+      "chemistry",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "647edb90520523194910c35c",
+    "correctAnswer": "Dermatitis",
+    "incorrectAnswers": [
+      "Eczema",
+      "Psoriasis",
+      "Acne"
+    ],
+    "question": {
+      "text": "What term is used to describe a number of skin inflammations and is from the Greek word for 'skin'?"
+    },
+    "tags": [
+      "medicine",
+      "language",
+      "science",
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f950547",
+    "correctAnswer": "The origin and spread of diseases",
+    "incorrectAnswers": [
+      "Glass",
+      "The Sun",
+      "The preparation of books and manuscripts"
+    ],
+    "question": {
+      "text": "What is epidemiology the study of?"
+    },
+    "tags": [
+      "science",
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "624335a2cfaae40c129614bc",
+    "correctAnswer": "A Calf",
+    "incorrectAnswers": [
+      "A Gosling",
+      "A Farrow",
+      "A Caterpillar"
+    ],
+    "question": {
+      "text": "What would you call a baby whale?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "63adbd7a04c68cc1e14b8e4e",
+    "correctAnswer": "Weeping Willow",
+    "incorrectAnswers": [
+      "Oak Tree",
+      "Maple Tree",
+      "Bonzai Tree"
+    ],
+    "question": {
+      "text": "What is the common name for the tree species Salix babylonica?"
+    },
+    "tags": [
+      "science",
+      "trees",
+      "plants",
+      "nature"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "64af1025deeef534fb54ad10",
+    "correctAnswer": "Trout",
+    "incorrectAnswers": [
+      "Salmon",
+      "Bass",
+      "Tuna"
+    ],
+    "question": {
+      "text": "Named for its steely blue colour, which fish has a steelhead variety?"
+    },
+    "tags": [
+      "fish",
+      "nature",
+      "science",
+      "animals"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "624333bbcfaae40c129613fe",
+    "correctAnswer": "A Drake",
+    "incorrectAnswers": [
+      "A Boar",
+      "A Jack",
+      "A Stallion"
+    ],
+    "question": {
+      "text": "What is a male duck known as?"
+    },
+    "tags": [
+      "words",
+      "animals",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6471bcf37206d7c314606f66",
+    "correctAnswer": "Suckers",
+    "incorrectAnswers": [
+      "Tentacles",
+      "Pads",
+      "Grippers"
+    ],
+    "question": {
+      "text": "What is the name of the organ used by an octopus to cling to surfaces?"
+    },
+    "tags": [
+      "biology",
+      "zoology",
+      "words",
+      "animals",
+      "science",
+      "marine_life"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "624334f6cfaae40c12961478",
+    "correctAnswer": "A Sow",
+    "incorrectAnswers": [
+      "A Gander",
+      "A Jenny",
+      "A Hen"
+    ],
+    "question": {
+      "text": "What is a female pig known as?"
+    },
+    "tags": [
+      "animals",
+      "biology",
+      "names",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "62433330cfaae40c129613c7",
+    "correctAnswer": "A Drone",
+    "incorrectAnswers": [
+      "A Buck",
+      "A Jack",
+      "A Boar"
+    ],
+    "question": {
+      "text": "What would you call a male bee?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f9504b1",
+    "correctAnswer": "plankton",
+    "incorrectAnswers": [
+      "interactions among organisms and the water cycle",
+      "the Islam",
+      "society"
+    ],
+    "question": {
+      "text": "What is Planktology the study of?"
+    },
+    "tags": [
+      "words",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f95105d",
+    "correctAnswer": "Tongue",
+    "incorrectAnswers": [
+      "Heart",
+      "Biceps",
+      "Deltoids"
+    ],
+    "question": {
+      "text": "What organ is joined to the hyoid bone?"
+    },
+    "tags": [
+      "biology",
+      "the_human_body"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3e7cc59eab6f95224d",
+    "correctAnswer": "Epilepsy",
+    "incorrectAnswers": [
+      "Anemia",
+      "Heart Attack",
+      "Paralysis"
+    ],
+    "question": {
+      "text": "In the early 20th century, rattlesnake venom was used to treat which illness?"
+    },
+    "tags": [
+      "science",
+      "medicine",
+      "snakes"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
   }
 ]

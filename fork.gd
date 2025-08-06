@@ -59,6 +59,7 @@ func _ready() -> void:
 
 func _on_cat_opt_pressed(button: Button) -> void:
 	game_state.currentQuestionCategory = game_state.CATEGORIES[button.text]
+	Stats.record_category_choice(button.text)
 	get_tree().change_scene_to_file("res://question.tscn")
 
 func _color_button(btn: Button, category_key: String) -> void:
@@ -70,8 +71,11 @@ func _color_button(btn: Button, category_key: String) -> void:
 	var hover_box: StyleBoxFlat = hover_stylebox.duplicate() if hover_stylebox else StyleBoxFlat.new()
 
 	stylebox.bg_color = CATEGORY_COLORS.get(category_key, Color(0.8, 0.8, 0.8))
-	pressed_box.bg_color = stylebox.bg_color.darkened(0.3)
+	stylebox.border_color = stylebox.bg_color.darkened(0.4)
+	pressed_box.bg_color = stylebox.bg_color.darkened(0.2)
+	pressed_box.border_color = stylebox.border_color.darkened(0.3)
 	hover_box.bg_color = stylebox.bg_color.lightened(0.2)
+	hover_box.border_color = stylebox.border_color.lightened(0.2)
 
 	btn.add_theme_stylebox_override("normal", stylebox)
 	btn.add_theme_stylebox_override("pressed", pressed_box)

@@ -1050,5 +1050,1045 @@
     "difficulty": "medium",
     "regions": [    ],
     "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f950323",
+    "correctAnswer": "Charles Manson",
+    "incorrectAnswers": [
+      "Ed Gein",
+      "Ted Bundy",
+      "Jim Jones"
+    ],
+    "question": {
+      "text": "Who was the man convicted of masterminding the 1969 LaBianca-Tate murders?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c377cc59eab6f95046f",
+    "correctAnswer": "We Three Kings",
+    "incorrectAnswers": [
+      "I Saw Three Ships",
+      "Once In Royal David's City",
+      "Good King Wenceslas"
+    ],
+    "question": {
+      "text": "The words \"Myrrh is mine, its bitter perfume breathes of life, of gathering gloom___\" come from which Christmas carol?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c377cc59eab6f95045d",
+    "correctAnswer": "12 Drummers Drumming",
+    "incorrectAnswers": [
+      "12 Lords a Leaping",
+      "12 Maids a Milking",
+      "12 Swans a Swimming"
+    ],
+    "question": {
+      "text": "In the song \"The Twelve Days Of Christmas\", what did my true love give to me on the 12th day?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f9503f9",
+    "correctAnswer": "Robots",
+    "incorrectAnswers": [
+      "Aliens",
+      "Gods",
+      "Wizards"
+    ],
+    "question": {
+      "text": "Transformers are ___________ in disguise. "
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "646140374d46e537ca8cd981",
+    "correctAnswer": "Diapers",
+    "incorrectAnswers": [
+      "Formula Milk",
+      "Medicine",
+      "Food"
+    ],
+    "question": {
+      "text": "What type of baby product is Huggies?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fe21",
+    "correctAnswer": "Mont Blanc Tunnel",
+    "incorrectAnswers": [
+      "Italo-Franco Tunnel",
+      "Trans-Alpine Tunnel",
+      "Labinnah Tunnel"
+    ],
+    "question": {
+      "text": "What tunnel connects France and Italy?"
+    },
+    "tags": [
+      "europe",
+      "france",
+      "italy",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "64626287ab138b829b81ea0f",
+    "correctAnswer": "Quintuplets",
+    "incorrectAnswers": [
+      "Triplets",
+      "Sextuplets",
+      "Octuplets"
+    ],
+    "question": {
+      "text": "What is the word used when a mother gives birth to 5 babies?"
+    },
+    "tags": [
+      "mathematics",
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c377cc59eab6f950438",
+    "correctAnswer": "13",
+    "incorrectAnswers": [
+      "66",
+      "666",
+      "21"
+    ],
+    "question": {
+      "text": "How many witches in a coven?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc59",
+    "correctAnswer": "Whiffler",
+    "incorrectAnswers": [
+      "Firman",
+      "Salopettes",
+      "Donkey Engine"
+    ],
+    "question": {
+      "text": "Which word is defined as 'somebody who walks in front of you through a crowd'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c3d7cc59eab6f951cb8",
+    "correctAnswer": "Bohemia",
+    "incorrectAnswers": [
+      "Prussia",
+      "Silesia",
+      "Moravia"
+    ],
+    "question": {
+      "text": "From the Christmas Carol \"Good King Wenceslas\", where was Good King Wenceslas the King of?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f9503ee",
+    "correctAnswer": "De Militarized Zone",
+    "incorrectAnswers": [
+      "Definite Multivariate Zone",
+      "Deregulated Monetary Zone",
+      "Decompression Minimum Zone"
+    ],
+    "question": {
+      "text": "What does 'DMZ' stand for?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6239f83da72e7a347ac879d8",
+    "correctAnswer": "Whiskey",
+    "incorrectAnswers": [
+      "Wizard",
+      "Warlock",
+      "Womble"
+    ],
+    "question": {
+      "text": "What word is used in the NATO Phonetic Alphabet for the letter W?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c3a7cc59eab6f95104a",
+    "correctAnswer": "Precious Metals",
+    "incorrectAnswers": [
+      "Radiation",
+      "Wind Strength",
+      "Acidity"
+    ],
+    "question": {
+      "text": "What Is Measured Using The Troy System?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6239f840a72e7a347ac879d9",
+    "correctAnswer": "X-ray",
+    "incorrectAnswers": [
+      "Xzylophone",
+      "Xenophobe",
+      "Xylose"
+    ],
+    "question": {
+      "text": "What word is used in the NATO Phonetic Alphabet for the letter X?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "64746af65a4c31088dd9cff2",
+    "correctAnswer": "Palm Beach",
+    "incorrectAnswers": [
+      "Miami Beach",
+      "Daytona Beach",
+      "Clearwater Beach"
+    ],
+    "question": {
+      "text": "In which Florida beach town is Donald Trump's Mar-a-Lago estate?"
+    },
+    "tags": [
+      "usa",
+      "places"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6239f8019129041bf3925cbd",
+    "correctAnswer": "Alpha",
+    "incorrectAnswers": [
+      "Apple",
+      "Animal",
+      "Aeroplan"
+    ],
+    "question": {
+      "text": "What word is used in the NATO Phonetic Alphabet for the letter A?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6239f82ca72e7a347ac879d3",
+    "correctAnswer": "Quebec",
+    "incorrectAnswers": [
+      "Queen",
+      "Qualify",
+      "Qwerty"
+    ],
+    "question": {
+      "text": "What word is used in the NATO Phonetic Alphabet for the letter Q?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "63a03972c7d86251f9b65c5c",
+    "correctAnswer": "A Lamb",
+    "incorrectAnswers": [
+      "A Puppy",
+      "A Fish",
+      "A Swan"
+    ],
+    "question": {
+      "text": "In the nursery rhyme, what animal belonged to a girl named Mary?"
+    },
+    "tags": [
+      "nursery_rhymes",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c3a7cc59eab6f9510ac",
+    "correctAnswer": "Donkey",
+    "incorrectAnswers": [
+      "Sheep",
+      "Goat",
+      "Horse"
+    ],
+    "question": {
+      "text": "Of What Is A Jenny The Female?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "647638daf05ea6d6f587a16b",
+    "correctAnswer": "Parchment paper",
+    "incorrectAnswers": [
+      "Newspaper",
+      "Rice paper",
+      "Wrapping paper"
+    ],
+    "question": {
+      "text": "What type of paper do you need to cook fish en papillote, in order to seal in the flavor and juices?"
+    },
+    "tags": [
+      "food",
+      "seafood",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f9503df",
+    "correctAnswer": "Ceylon",
+    "incorrectAnswers": [
+      "Burma",
+      "East Pakistan",
+      "Persia"
+    ],
+    "question": {
+      "text": "What is the former name of Sri Lanka?"
+    },
+    "tags": [
+      "names",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6355b7f7e8b368eed3a6823c",
+    "correctAnswer": "The n in 'no'",
+    "incorrectAnswers": [
+      "The d in 'door'",
+      "The v in 'village'",
+      "The g in 'green'"
+    ],
+    "question": {
+      "text": "In phonetics, which of these is an example of a nasal sound?"
+    },
+    "tags": [
+      "language",
+      "linguistics",
+      "general_knowledge",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6239f8109129041bf3925cc3",
+    "correctAnswer": "Golf",
+    "incorrectAnswers": [
+      "Garden",
+      "Guard",
+      "God"
+    ],
+    "question": {
+      "text": "What word is used in the NATO Phonetic Alphabet for the letter G?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f95015c",
+    "correctAnswer": "Adolf Hitler",
+    "incorrectAnswers": [
+      "Josef Stalin",
+      "Karl Marx",
+      "Vlademir Lenin"
+    ],
+    "question": {
+      "text": "Who wrote \"Mein Kampf\" (My Struggle)?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc88",
+    "correctAnswer": "Donkey Engine",
+    "incorrectAnswers": [
+      "Gabelle",
+      "Grommet",
+      "Yarborough"
+    ],
+    "question": {
+      "text": "Which word is defined as 'a small auxiliary engine on a ship'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc65",
+    "correctAnswer": "Pauciloquent",
+    "incorrectAnswers": [
+      "Grommet",
+      "Lackadaisical",
+      "Borborygmus"
+    ],
+    "question": {
+      "text": "Which word is defined as 'uttering few words; brief in speech'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c3a7cc59eab6f9510de",
+    "correctAnswer": "ATM",
+    "incorrectAnswers": [
+      "Cellular Phone",
+      "Microwave Oven",
+      "Vacuum Cleaner"
+    ],
+    "question": {
+      "text": "What was first used in 1967, in Enfield, North London?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f9503da",
+    "correctAnswer": "New Coke",
+    "incorrectAnswers": [
+      "Aqua Cola",
+      "Dasani",
+      "Orange Cola"
+    ],
+    "question": {
+      "text": "What mistake did Coca-Cola make in 1985?"
+    },
+    "tags": [
+      "business",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "63c243c559544f410a7c2c4a",
+    "correctAnswer": "Atmospheric Pressure",
+    "incorrectAnswers": [
+      "Humidity",
+      "Room Temperature",
+      "Salt in sea water"
+    ],
+    "question": {
+      "text": "What is a barometer used to measure?"
+    },
+    "tags": [
+      "science",
+      "meteorology"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6239f8099129041bf3925cc0",
+    "correctAnswer": "Delta",
+    "incorrectAnswers": [
+      "Dog",
+      "Danube",
+      "Dig"
+    ],
+    "question": {
+      "text": "What word is used in the NATO Phonetic Alphabet for the letter D?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fc4f",
+    "correctAnswer": "Yarborough",
+    "incorrectAnswers": [
+      "Octothorpe",
+      "Grommet",
+      "Pauciloquent"
+    ],
+    "question": {
+      "text": "Which word is defined as 'hand of cards containing no card above a nine'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c377cc59eab6f95043a",
+    "correctAnswer": "Three",
+    "incorrectAnswers": [
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "question": {
+      "text": "How many astronauts manned each Apollo flight?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f950189",
+    "correctAnswer": "Saga",
+    "incorrectAnswers": [
+      "Chronicle",
+      "Yerlig",
+      "Jordun"
+    ],
+    "question": {
+      "text": "What is an Icelandic epic called?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f9503c5",
+    "correctAnswer": "Ernest Wiseman",
+    "incorrectAnswers": [
+      "Jeffrey Wallis",
+      "Lars Friedel",
+      "Matthew Flaunt"
+    ],
+    "question": {
+      "text": "What was the real name of Eric Morecambes partner?"
+    },
+    "tags": [
+      "people",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c3a7cc59eab6f950ffd",
+    "correctAnswer": "The Hoover Dam",
+    "incorrectAnswers": [
+      "The Three Gorges Dam",
+      "The Oroville Dam",
+      "The Theodore Roosevelt Dam"
+    ],
+    "question": {
+      "text": "Which Dam Harnesses The Colorado River"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6239f8219129041bf3925cc9",
+    "correctAnswer": "Mike",
+    "incorrectAnswers": [
+      "Mambo",
+      "Mauritius",
+      "Mendip"
+    ],
+    "question": {
+      "text": "What word is used in the NATO Phonetic Alphabet for the letter M?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c377cc59eab6f950410",
+    "correctAnswer": "Ethiopia",
+    "incorrectAnswers": [
+      "Somalia",
+      "Eritrea",
+      "Uganda"
+    ],
+    "question": {
+      "text": "The first Live Aid was to benefit which starving country?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c377cc59eab6f95045a",
+    "correctAnswer": "A goat",
+    "incorrectAnswers": [
+      "A goose",
+      "A broomstick",
+      "Rudolph"
+    ],
+    "question": {
+      "text": "When visiting Finland, Santa leaves his sleigh behind and rides on what?"
+    },
+    "tags": [
+      "christmas",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c3d7cc59eab6f951c67",
+    "correctAnswer": "12",
+    "incorrectAnswers": [
+      "11",
+      "10",
+      "9"
+    ],
+    "question": {
+      "text": "According To The Christmas Song, How Many Drummers Drumming Were There?"
+    },
+    "tags": [
+      "christmas",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c3a7cc59eab6f9510e3",
+    "correctAnswer": "Oil",
+    "incorrectAnswers": [
+      "Blood",
+      "Sperm",
+      "Water"
+    ],
+    "question": {
+      "text": "A 42 foot sperm whale has about 7 tons of __________ in it."
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f9503d3",
+    "correctAnswer": "The Hula Hoop",
+    "incorrectAnswers": [
+      "Rubix Cube",
+      "Slinky",
+      "Pog"
+    ],
+    "question": {
+      "text": "What toy was released in 1957, creating an instant craze among children?"
+    },
+    "tags": [
+      "1950's",
+      "toys",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6355b7f5e8b368eed3a6823b",
+    "correctAnswer": "nasal",
+    "incorrectAnswers": [
+      "fricative",
+      "affricative",
+      "plosive"
+    ],
+    "question": {
+      "text": "In phonetics, the m in 'mother' is an example of what kind of sound?"
+    },
+    "tags": [
+      "language",
+      "linguistics",
+      "general_knowledge",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "645f952f541c4d4fc8cf2ec7",
+    "correctAnswer": "Neigh",
+    "incorrectAnswers": [
+      "Moo",
+      "Baa",
+      "Oink"
+    ],
+    "question": {
+      "text": "What is the sound made by a horse when it 'whinnies'?"
+    },
+    "tags": [
+      "sounds",
+      "horses",
+      "animals"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "64824f247778562fd76a96cd",
+    "correctAnswer": "A ballpoint pen",
+    "incorrectAnswers": [
+      "A typewriter",
+      "A book",
+      "A lamp"
+    ],
+    "question": {
+      "text": "In British English, what does a 'Biro' refer to?"
+    },
+    "tags": [
+      "words",
+      "language"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6239f8149129041bf3925cc4",
+    "correctAnswer": "Hotel",
+    "incorrectAnswers": [
+      "Heart",
+      "Honey",
+      "Hill"
+    ],
+    "question": {
+      "text": "What word is used in the NATO Phonetic Alphabet for the letter H?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f950219",
+    "correctAnswer": "Michael Fish ",
+    "incorrectAnswers": [
+      "Gordon Jones",
+      "Harry Mortimer",
+      "Brian Daniels"
+    ],
+    "question": {
+      "text": "Which BBC Weather Man Famously Denied Reports Of A Possible Hurricane In 1987?"
+    },
+    "tags": [
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "6355b7d6e8b368eed3a6822e",
+    "correctAnswer": "The f in 'fish'",
+    "incorrectAnswers": [
+      "The d in 'door'",
+      "The n in 'no'",
+      "The y in 'yellow'"
+    ],
+    "question": {
+      "text": "In phonetics, which of these is an example of a fricative sound?"
+    },
+    "tags": [
+      "language",
+      "linguistics",
+      "general_knowledge",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c357cc59eab6f94fe2f",
+    "correctAnswer": "Dinar",
+    "incorrectAnswers": [
+      "Lira",
+      "Rabat",
+      "Reqla"
+    ],
+    "question": {
+      "text": "What is the basic unit of currency for Tunisia?"
+    },
+    "tags": [
+      "currency",
+      "africa",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "622a1c367cc59eab6f950336",
+    "correctAnswer": "Queen Victoria",
+    "incorrectAnswers": [
+      "James VI",
+      "Elizabeth I",
+      "George II"
+    ],
+    "question": {
+      "text": "Who was the first English monarch to have a Christmas tree?"
+    },
+    "tags": [
+      "christmas",
+      "uk",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "general_knowledge",
+    "id": "64a32df9fc63594e30247823",
+    "correctAnswer": "A kiln",
+    "incorrectAnswers": [
+      "An inferno",
+      "A furnace",
+      "A forge"
+    ],
+    "question": {
+      "text": "What is the name of the type of oven used to make pottery?"
+    },
+    "tags": [
+      "arts_and_literature",
+      "ceramics"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
   }
 ]
