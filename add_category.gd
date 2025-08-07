@@ -1,12 +1,8 @@
 extends Node2D
-
 @onready var cat_opt_1: Button = $CanvasLayer/VBoxContainer/GridContainer/CatOpt1
 @onready var cat_opt_2: Button = $CanvasLayer/VBoxContainer/GridContainer/CatOpt2
 @onready var current_cat: Label = $CanvasLayer/VBoxContainer/CurrentCat
-@onready var label: Label = $CanvasLayer/Label
 @onready var texture_rect: TextureRect = $CanvasLayer/TextureRect
-@onready var reroll_button: Button = $CanvasLayer/GridContainer/reroll_button
-@onready var double_points_button: Button = $CanvasLayer/GridContainer/double_points_button
 
 var CATEGORY_COLORS = {
 	"Science": Color(0.2, 0.4, 0.6),
@@ -19,18 +15,15 @@ var CATEGORY_COLORS = {
 	"Food and drink": Color(0.9, 0.3, 0),
 	"Ilaria": Color(0.6, 0, 0.1)
 }
-
 func _ready() -> void:
 	cat_opt_1.pressed.connect(_on_cat_opt_pressed.bind(cat_opt_1))
 	cat_opt_2.pressed.connect(_on_cat_opt_pressed.bind(cat_opt_2))
-
-	label.text = "Progress: " + str(game_state.correctAnswerCount) + "/" + str(game_state.winning_score)
 	
 	# Set the current category label
-	current_cat.text = "Current category: " + game_state.get_category_key_from_path(game_state.currentQuestionCategory)
+	# current_cat.text = "Current category: " + game_state.get_category_key_from_path(game_state.currentQuestionCategory)
 	# Get random category options
 	var available_categories = game_state.unlocked_categories
-	var category_keys = game_state.CATEGORIES.keys().filter(func(key): return key in available_categories)
+	var category_keys = game_state.CATEGORIES.keys().filter(func(key): return key not in available_categories)
 	var random_keys = []
 	while random_keys.size() < 2:
 		var random_key = category_keys[randi() % category_keys.size()]
@@ -59,16 +52,11 @@ func _ready() -> void:
 	grad_tex.set_fill_to(Vector2(0.5, 1))
 	texture_rect.texture = grad_tex
 
-	if game_state.double_points > 0:
-		double_points_button.visible = true
-		double_points_button.pressed.connect(_on_double_points_pressed)
-	if game_state.reroll_categories > 0:
-		reroll_button.visible = true
-		reroll_button.pressed.connect(_on_reroll_categories_pressed)
-
 func _on_cat_opt_pressed(button: Button) -> void:
+	game_state.unlock_categories([button.text])
+	game_state.unlockable = false
+	game_state.save_progress()
 	game_state.currentQuestionCategory = game_state.CATEGORIES[button.text]
-	Stats.record_category_choice(button.text)
 	get_tree().change_scene_to_file("res://question.tscn")
 
 func _color_button(btn: Button, category_key: String) -> void:
@@ -90,17 +78,3 @@ func _color_button(btn: Button, category_key: String) -> void:
 	btn.add_theme_stylebox_override("pressed", pressed_box)
 	btn.add_theme_stylebox_override("hover", hover_box)
 	btn.add_theme_stylebox_override("disabled", stylebox.duplicate())
-
-func _on_reroll_categories_pressed() -> void:
-	game_state.reroll_categories -= 1
-	if game_state.reroll_categories < 0:
-		game_state.reroll_categories = 0
-	get_tree().change_scene_to_file("res://fork.tscn")
-
-func _on_double_points_pressed() -> void:
-	game_state.double_points -= 1
-	if game_state.double_points < 0:
-		game_state.double_points = 0
-	game_state.double_points_active = true
-	double_points_button.get_theme_stylebox("disabled").bg_color = Color(1, 0.8, 0)
-	double_points_button.disabled = true

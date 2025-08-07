@@ -4,6 +4,9 @@ extends Node2D
 @onready var v_box_container: VBoxContainer = $CanvasLayer/VBoxContainer
 @onready var button_3: Button = $CanvasLayer/Button3
 @onready var background_rect: TextureRect = $CanvasLayer/TextureRect
+@onready var fifty_fifty_button: Button = $CanvasLayer/GridContainer/fifty_fifty_button
+@onready var free_skip_button: Button = $CanvasLayer/GridContainer/free_skip_button
+@onready var reroll_button: Button = $CanvasLayer/GridContainer/reroll_button
 
 var incorrect_answers: Array
 var correct_answer: String
@@ -108,18 +111,37 @@ func _ready() -> void:
 			print("Setting gradient texture.")
 		background_rect.texture = grad_res
 
+	if game_state.fifty_fiftys > 0:
+		fifty_fifty_button.visible = true
+		fifty_fifty_button.pressed.connect(_on_fifty_fifty_pressed)
+	if game_state.free_skips > 0:
+		free_skip_button.visible = true
+		free_skip_button.pressed.connect(_on_free_skip_pressed)
+	if game_state.reroll_questions > 0:
+		reroll_button.visible = true
+		reroll_button.pressed.connect(_on_reroll_pressed)
+	
+
 func _on_button_pressed(button: Button) -> void:
+	var answer_increment = 1
+	if game_state.double_points_active:
+		answer_increment = 2
+	game_state.double_points_active = false
 	var style := button.get_theme_stylebox("disabled") as StyleBoxFlat
 	if button.text == correct_answer:
 		label.text = "Correct!"
 		style.bg_color = Color(0, 1, 0) # Green
-		game_state.correctAnswerCount += 1
+		game_state.correctAnswerCount += answer_increment
 		game_state.totalCorrectAnswers += 1
+		Stats.record_correct_answer(game_state.get_category_key_from_path(game_state.currentQuestionCategory))
 	else:
 		label.text = "Incorrect. Try again."
+		Stats.record_incorrect_answer(game_state.get_category_key_from_path(game_state.currentQuestionCategory))
 		style.bg_color = Color(1, 0, 0) # Red
 		if game_state.correctAnswerCount > 0:
-			game_state.correctAnswerCount -= 1
+			game_state.correctAnswerCount -= answer_increment
+		if game_state.correctAnswerCount < 0:
+			game_state.correctAnswerCount = 0
 		# game_state.correctAnswerCount -= 1
 		for child in v_box_container.get_children():
 			if child is Button:
@@ -135,6 +157,9 @@ func _on_button_pressed(button: Button) -> void:
 	button_3.visible = true
 
 func _on_next_button_pressed() -> void:
+	if game_state.single_category_mode:
+		get_tree().change_scene_to_file("res://question.tscn")
+		return
 	print("Correct Answer Count: ", game_state.correctAnswerCount)
 	game_state.answeredQuestions.append(
 		game_state.currentQuestionId
@@ -142,7 +167,38 @@ func _on_next_button_pressed() -> void:
 	if game_state.correctAnswerCount >= game_state.winning_score:
 		get_tree().change_scene_to_file("res://end.tscn")
 		return
-	if game_state.single_category_mode:
+	if game_state.unlocked_categories.size() < 2:
 		get_tree().change_scene_to_file("res://question.tscn")
 		return
 	get_tree().change_scene_to_file("res://fork.tscn")
+
+
+func _on_fifty_fifty_pressed() -> void:
+	game_state.fifty_fiftys -= 1
+	if game_state.fifty_fiftys < 0:
+		game_state.fifty_fiftys = 0
+	var buttons = v_box_container.get_children().filter(func(c): return c is Button)
+	if buttons.size() < 2:
+		return
+	var correct_button = buttons.filter(func(b): return b.text == correct_answer)
+	if correct_button.size() == 0:
+		return
+	correct_button = correct_button[0]
+	var incorrect_buttons = buttons.filter(func(b): return b.text != correct_answer)
+	if incorrect_buttons.size() < 2:
+		return
+	incorrect_buttons.shuffle()
+	incorrect_buttons[0].visible = false
+	incorrect_buttons[1].visible = false
+
+func _on_free_skip_pressed() -> void:
+	game_state.free_skips -= 1
+	if game_state.free_skips < 0:
+		game_state.free_skips = 0
+	get_tree().change_scene_to_file("res://fork.tscn")
+
+func _on_reroll_pressed() -> void:
+	game_state.reroll_questions -= 1
+	if game_state.reroll_questions < 0:
+		game_state.reroll_questions = 0
+	get_tree().change_scene_to_file("res://question.tscn")

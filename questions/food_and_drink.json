@@ -48,26 +48,6 @@
   },
   {
     "category": "food_and_drink",
-    "id": "622a1c3b7cc59eab6f9515b4",
-    "correctAnswer": "4",
-    "incorrectAnswers": [
-      "2",
-      "6",
-      "16"
-    ],
-    "question": {
-      "text": "How many times bigger than a regular bottle is a Jeroboam?"
-    },
-    "tags": [
-      "food_and_drink"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "food_and_drink",
     "id": "622a1c3b7cc59eab6f951557",
     "correctAnswer": "Texas ",
     "incorrectAnswers": [
