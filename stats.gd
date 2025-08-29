@@ -3,6 +3,9 @@ extends Node
 var least_questions_to_win: int = -1
 var fastest_time: float = -1.0
 var total_games_played: int = 0
+var most_points: int = -1
+var total_correct_answers: int = -1
+var total_incorrect_answers: int = -1
 var categories_chosen: Dictionary = {"Science": 0,
 	"Sports": 0,
 	"History": 0,
@@ -64,8 +67,9 @@ func save():
 	var file = FileAccess.open("user://stats.json", FileAccess.WRITE)
 	if file:
 		var data = {
-			"least_questions_to_win": least_questions_to_win,
-			"fastest_time": fastest_time,
+			"most_points": most_points,
+			"total_correct_answers": total_correct_answers,
+			"total_incorrect_answers": total_incorrect_answers,
 			"total_games_played": total_games_played,
 			"favourite_category": get_favourite_category(),
 			"categories_chosen": categories_chosen,
@@ -84,8 +88,9 @@ func load():
 			var data = file.get_as_text()
 			var parsed = JSON.parse_string(data)
 			if typeof(parsed) == TYPE_DICTIONARY:
-				least_questions_to_win = parsed.get("least_questions_to_win", null)
-				fastest_time = parsed.get("fastest_time", null)
+				most_points = parsed.get("most_points", most_points)
+				total_correct_answers = parsed.get("total_correct_answers", total_correct_answers)
+				total_incorrect_answers = parsed.get("total_incorrect_answers", total_incorrect_answers)
 				total_games_played = parsed.get("total_games_played", 0)
 				categories_chosen = parsed.get("categories_chosen", categories_chosen)
 				categories_correct = parsed.get("categories_correct", categories_correct)
@@ -111,6 +116,18 @@ func get_best_category() -> String:
 			max_correct = categories_correct[category]
 			best = category
 	return best
+
+func get_total_correct_answers() -> int:
+	var total = 0
+	for category in categories_correct.keys():
+		total += categories_correct[category]
+	return total
+
+func get_total_incorrect_answers() -> int:
+	var total = 0
+	for category in categories_incorrect.keys():
+		total += categories_incorrect[category]
+	return total
 
 func get_worst_category() -> String:
 	var worst = ""

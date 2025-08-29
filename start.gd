@@ -10,9 +10,15 @@ extends Node2D
 
 func _ready() -> void:
 	Stats.load()
-	if not Stats.app_instructions_shown:
-		get_tree().change_scene_to_file("res://app_instruction.tscn")
-		return
+	if Engine.has_singleton("JavaScriptBridge"):
+		var is_standalone = JavaScriptBridge.eval("window.matchMedia('(display-mode: standalone)').matches || (window.navigator.standalone === true);")
+		if not is_standalone:
+			# Running as PWA/app mode
+			# Stats.app_instructions_shown = true
+			get_tree().change_scene_to_file("res://app_instruction.tscn")
+	# if not Stats.app_instructions_shown:
+	# 	get_tree().change_scene_to_file("res://app_instruction.tscn")
+	# 	return
 	game_state.load_progress()
 	game_state.correctAnswerCount = 0
 	game_state.answeredQuestions.clear()

@@ -7,6 +7,7 @@ func _ready() -> void:
 	game_state.advance_progression()
 	game_state.unlockable = true
 	game_state.save_progress()
+	Stats.most_points = max(Stats.most_points, game_state.correctAnswerCount)
 	label_2.text = "You answered " + str(game_state.answeredQuestions.size()) + " total questions, with " + str(game_state.totalCorrectAnswers) + " questions answered correctly."
 	button.pressed.connect(_on_restart_button_pressed)
 	button_2.pressed.connect(_on_stats_button_pressed)

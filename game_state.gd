@@ -76,6 +76,6 @@ func load_progress():
 func reset_progress():
 	unlocked_categories = ["General"]
 	progression_stage = 0
-	winning_score = 1
+	winning_score = 3
 	unlockable = false
 	save_progress()
