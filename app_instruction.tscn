@@ -1,0 +1,47 @@
+[gd_scene load_steps=4 format=3 uid="uid://dgl41gta77383"]
+
+[ext_resource type="Script" uid="uid://jnct6v2gdkoj" path="res://app_instruction.gd" id="1_xc1pu"]
+[ext_resource type="Texture2D" uid="uid://buvbo8ogonq5u" path="res://share_icon.svg" id="2_wn4ya"]
+[ext_resource type="Texture2D" uid="uid://dnkvopisktsl3" path="res://add_box_icon.svg" id="3_elxjv"]
+
+[node name="app_instruction" type="Node2D"]
+script = ExtResource("1_xc1pu")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer"]
+offset_right = 742.0
+offset_bottom = 1343.0
+color = Color(0, 0.176471, 0.180392, 0.831373)
+
+[node name="RichTextLabel" type="RichTextLabel" parent="CanvasLayer"]
+offset_left = 57.0
+offset_top = 211.0
+offset_right = 695.0
+offset_bottom = 1138.0
+theme_override_font_sizes/normal_font_size = 40
+text = "1. Click share icon in Safari
+
+
+
+2. Click Add to Home Screen
+
+
+
+3. Set name or leave default
+
+
+4. Click Add
+
+
+5. Close safari and open newly added app"
+
+[node name="ShareIcon" type="Sprite2D" parent="CanvasLayer"]
+position = Vector2(342, 315)
+scale = Vector2(1.28667, 1.20667)
+texture = ExtResource("2_wn4ya")
+
+[node name="AddBoxIcon" type="Sprite2D" parent="CanvasLayer"]
+position = Vector2(346, 540)
+scale = Vector2(1.36667, 1.35333)
+texture = ExtResource("3_elxjv")

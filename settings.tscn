@@ -1,0 +1,46 @@
+[gd_scene load_steps=6 format=3 uid="uid://cnwyk3h38wqcs"]
+
+[ext_resource type="Script" uid="uid://bu203q4ydhqs5" path="res://settings.gd" id="1_gc0em"]
+[ext_resource type="StyleBox" uid="uid://drailr3ckjt3b" path="res://question.tres" id="2_cj1lu"]
+[ext_resource type="StyleBox" uid="uid://8yg8ac4x80mq" path="res://questionPressed.tres" id="3_71mqq"]
+[ext_resource type="PackedScene" uid="uid://ktyytpt4o3vi" path="res://quit.tscn" id="4_3j6r5"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_3lj6o"]
+
+[node name="settings" type="Node2D"]
+script = ExtResource("1_gc0em")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer"]
+offset_right = 715.0
+offset_bottom = 1303.0
+color = Color(0.0392157, 0.490196, 1, 0.168627)
+
+[node name="Node2D" parent="CanvasLayer/ColorRect" instance=ExtResource("4_3j6r5")]
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer/ColorRect"]
+layout_mode = 0
+offset_left = 95.0
+offset_top = 208.0
+offset_right = 626.0
+offset_bottom = 847.0
+theme_override_constants/separation = 55
+
+[node name="Button4" type="Button" parent="CanvasLayer/ColorRect/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 50
+theme_override_styles/focus = SubResource("StyleBoxEmpty_3lj6o")
+theme_override_styles/hover = ExtResource("2_cj1lu")
+theme_override_styles/pressed = ExtResource("3_71mqq")
+theme_override_styles/normal = ExtResource("2_cj1lu")
+text = "Reset stats"
+
+[node name="Button5" type="Button" parent="CanvasLayer/ColorRect/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 50
+theme_override_styles/focus = SubResource("StyleBoxEmpty_3lj6o")
+theme_override_styles/hover = ExtResource("2_cj1lu")
+theme_override_styles/pressed = ExtResource("3_71mqq")
+theme_override_styles/normal = ExtResource("2_cj1lu")
+text = "App instructions"

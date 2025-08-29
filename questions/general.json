@@ -211,48 +211,6 @@
   },
   {
     "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc79",
-    "correctAnswer": "Gubbins",
-    "incorrectAnswers": [
-      "Gardyloo",
-      "Obelus",
-      "Smicker"
-    ],
-    "question": {
-      "text": "Which word is defined as 'fish parings or refuse'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "medium",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc84",
-    "correctAnswer": "Finifugal",
-    "incorrectAnswers": [
-      "Groke",
-      "Gabelle",
-      "Salopettes"
-    ],
-    "question": {
-      "text": "Which word is defined as 'afraid of finishing anything'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
     "id": "622a1c367cc59eab6f9503f9",
     "correctAnswer": "Robots",
     "incorrectAnswers": [
@@ -308,48 +266,6 @@
       "linguistics",
       "general_knowledge",
       "science"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc57",
-    "correctAnswer": "Tittynope",
-    "incorrectAnswers": [
-      "Funambulist",
-      "Blatherskite",
-      "Winklepicker"
-    ],
-    "question": {
-      "text": "Which word is defined as 'a small quantity of something left over'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc80",
-    "correctAnswer": "Fudgel",
-    "incorrectAnswers": [
-      "Bumfuzzle",
-      "Groke",
-      "Whippersnapper"
-    ],
-    "question": {
-      "text": "Which word is defined as 'Pretending to work when you’re not actually doing anything at all'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
     ],
     "type": "text_choice",
     "difficulty": "hard",
@@ -423,27 +339,6 @@
   },
   {
     "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc7b",
-    "correctAnswer": "Futz",
-    "incorrectAnswers": [
-      "Discombobulate",
-      "Cabotage",
-      "Jentacular"
-    ],
-    "question": {
-      "text": "Which word is defined as 'to waste time or busy oneself aimlessly'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
     "id": "646262b8ab138b829b81ea4c",
     "correctAnswer": "Polka",
     "incorrectAnswers": [
@@ -485,27 +380,6 @@
   },
   {
     "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc8f",
-    "correctAnswer": "Cattywampus",
-    "incorrectAnswers": [
-      "Funambulist",
-      "Donkey Engine",
-      "Widdershins"
-    ],
-    "question": {
-      "text": "Which word is defined as 'askew'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
     "id": "622a1c377cc59eab6f95043d",
     "correctAnswer": "New Years Eve",
     "incorrectAnswers": [
@@ -540,27 +414,6 @@
       "the_internet",
       "technology",
       "science"
-    ],
-    "type": "text_choice",
-    "difficulty": "medium",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc98",
-    "correctAnswer": "Argle-bargle",
-    "incorrectAnswers": [
-      "Quomodocunquizing",
-      "Valetudinarian",
-      "Agastopia"
-    ],
-    "question": {
-      "text": "Which word is defined as 'copious but meaningless talk or writing'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
     ],
     "type": "text_choice",
     "difficulty": "medium",
@@ -675,27 +528,7 @@
     "regions": [    ],
     "isNiche": false
   },
-  {
-    "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc85",
-    "correctAnswer": "Firman",
-    "incorrectAnswers": [
-      "Yarborough",
-      "Tittynope",
-      "Funambulist"
-    ],
-    "question": {
-      "text": "Which word is defined as 'in Turkey and some other Oriental countries, a decree or mandate issued by the sovereign'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
-    "regions": [    ],
-    "isNiche": false
-  },
+
   {
     "category": "general_knowledge",
     "id": "622a1c3c7cc59eab6f951938",
@@ -751,27 +584,6 @@
     "tags": [
       "mechanics",
       "motoring"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc95",
-    "correctAnswer": "Billingsgate",
-    "incorrectAnswers": [
-      "Ragamuffin",
-      "Pauciloquent",
-      "Collywobbles"
-    ],
-    "question": {
-      "text": "Which word is defined as 'coarsely abusive language'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
     ],
     "type": "text_choice",
     "difficulty": "hard",
@@ -858,27 +670,6 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc86",
-    "correctAnswer": "Erinaceous",
-    "incorrectAnswers": [
-      "Sprunt",
-      "Whippersnapper",
-      "Frankenfood"
-    ],
-    "question": {
-      "text": "Which word is defined as 'of, pertaining to, or resembling a hedgehog'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
     "regions": [    ],
     "isNiche": false
   },
@@ -983,50 +774,6 @@
     ],
     "type": "text_choice",
     "difficulty": "easy",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
-    "id": "622a1c367cc59eab6f95017e",
-    "correctAnswer": "Mrs Malaprop",
-    "incorrectAnswers": [
-      "Mrs Uninten",
-      "Mrs Misparl",
-      "Mrs Anagob"
-    ],
-    "question": {
-      "text": "Which character invariably misused english words?"
-    },
-    "tags": [
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc55",
-    "correctAnswer": "Winklepicker",
-    "incorrectAnswers": [
-      "Tittynope",
-      "Dipthong",
-      "Finifugal"
-    ],
-    "question": {
-      "text": "Which word is defined as 'style of shoe or boot in the 1950s with a sharp and long pointed toe'?"
-    },
-    "tags": [
-      "words",
-      "fashion",
-      "1950's",
-      "1960's",
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "medium",
     "regions": [    ],
     "isNiche": false
   },
@@ -1209,27 +956,6 @@
       "text": "How many witches in a coven?"
     },
     "tags": [
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc59",
-    "correctAnswer": "Whiffler",
-    "incorrectAnswers": [
-      "Firman",
-      "Salopettes",
-      "Donkey Engine"
-    ],
-    "question": {
-      "text": "Which word is defined as 'somebody who walks in front of you through a crowd'?"
-    },
-    "tags": [
-      "words",
       "general_knowledge"
     ],
     "type": "text_choice",
@@ -1570,27 +1296,6 @@
   },
   {
     "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc65",
-    "correctAnswer": "Pauciloquent",
-    "incorrectAnswers": [
-      "Grommet",
-      "Lackadaisical",
-      "Borborygmus"
-    ],
-    "question": {
-      "text": "Which word is defined as 'uttering few words; brief in speech'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
     "id": "622a1c3a7cc59eab6f9510de",
     "correctAnswer": "ATM",
     "incorrectAnswers": [
@@ -1668,27 +1373,6 @@
     ],
     "type": "text_choice",
     "difficulty": "easy",
-    "regions": [    ],
-    "isNiche": false
-  },
-  {
-    "category": "general_knowledge",
-    "id": "622a1c357cc59eab6f94fc4f",
-    "correctAnswer": "Yarborough",
-    "incorrectAnswers": [
-      "Octothorpe",
-      "Grommet",
-      "Pauciloquent"
-    ],
-    "question": {
-      "text": "Which word is defined as 'hand of cards containing no card above a nine'?"
-    },
-    "tags": [
-      "words",
-      "general_knowledge"
-    ],
-    "type": "text_choice",
-    "difficulty": "hard",
     "regions": [    ],
     "isNiche": false
   },

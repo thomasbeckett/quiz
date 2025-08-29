@@ -1,8 +1,9 @@
-[gd_scene load_steps=10 format=3 uid="uid://doh0ufalw2dk3"]
+[gd_scene load_steps=11 format=3 uid="uid://doh0ufalw2dk3"]
 
 [ext_resource type="Script" uid="uid://cd7j0851w6v0x" path="res://start.gd" id="1_ots34"]
 [ext_resource type="StyleBox" uid="uid://drailr3ckjt3b" path="res://question.tres" id="2_1n0d2"]
 [ext_resource type="StyleBox" uid="uid://8yg8ac4x80mq" path="res://questionPressed.tres" id="3_y5hus"]
+[ext_resource type="Texture2D" uid="uid://c6doc3348a3ke" path="res://setting-cog.svg" id="4_y5hus"]
 
 [sub_resource type="Gradient" id="Gradient_ots34"]
 colors = PackedColorArray(0.22, 0.0748, 0.0748, 0.968627, 1, 0.73, 0.73, 1)
@@ -90,3 +91,12 @@ theme_override_styles/hover = ExtResource("2_1n0d2")
 theme_override_styles/pressed = ExtResource("3_y5hus")
 theme_override_styles/normal = ExtResource("2_1n0d2")
 text = "Stats"
+
+[node name="TextureButton" type="TextureButton" parent="CanvasLayer"]
+offset_left = 573.0
+offset_top = 0.999998
+offset_right = 1373.0
+offset_bottom = 801.0
+scale = Vector2(0.18, 0.18)
+texture_normal = ExtResource("4_y5hus")
+stretch_mode = 0

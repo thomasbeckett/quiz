@@ -21,7 +21,7 @@ const CATEGORIES = {
 
 var unlocked_categories: Array = ["General"]
 var progression_stage: int = 0
-var winning_score = 1
+var winning_score: int = 3
 var unlockable = false;
 var coins = 0
 var fifty_fiftys = 10

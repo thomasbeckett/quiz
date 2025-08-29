@@ -1,10 +1,13 @@
-[gd_scene load_steps=7 format=3 uid="uid://caq38xeni8mvj"]
+[gd_scene load_steps=8 format=3 uid="uid://caq38xeni8mvj"]
 
 [ext_resource type="StyleBox" uid="uid://drailr3ckjt3b" path="res://question.tres" id="1_g5b5r"]
 [ext_resource type="Script" uid="uid://chcrg80xnyvr2" path="res://question.gd" id="1_lccfl"]
 [ext_resource type="Texture2D" uid="uid://4qnw8eimb6ud" path="res://gradients/science_gradient.tres" id="2_nk8gh"]
 [ext_resource type="StyleBox" uid="uid://8yg8ac4x80mq" path="res://questionPressed.tres" id="3_e0yn7"]
 [ext_resource type="PackedScene" uid="uid://ktyytpt4o3vi" path="res://quit.tscn" id="5_g00bq"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_g00bq"]
+font_size = 21
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_g5b5r"]
 
@@ -23,14 +26,29 @@ offset_right = 727.0
 offset_bottom = 1307.0
 texture = ExtResource("2_nk8gh")
 
-[node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer"]
-offset_left = 44.0
-offset_top = 481.0
-offset_right = 675.0
-offset_bottom = 1092.0
+[node name="Label2" type="Label" parent="CanvasLayer"]
+offset_left = 25.0
+offset_top = 55.0
+offset_right = 262.0
+offset_bottom = 118.0
+text = "Progress "
+label_settings = SubResource("LabelSettings_g00bq")
+autowrap_mode = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="CanvasLayer"]
+offset_left = 36.0
+offset_top = 399.0
+offset_right = 686.0
+offset_bottom = 1243.0
+horizontal_scroll_mode = 0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer/ScrollContainer"]
+custom_minimum_size = Vector2(650, 0)
+layout_mode = 2
+size_flags_vertical = 4
 theme_override_constants/separation = 40
 
-[node name="Button2" type="Button" parent="CanvasLayer/VBoxContainer"]
+[node name="Button2" type="Button" parent="CanvasLayer/ScrollContainer/VBoxContainer"]
 layout_mode = 2
 theme_override_colors/font_disabled_color = Color(0.169245, 0.169245, 0.169245, 1)
 theme_override_font_sizes/font_size = 42

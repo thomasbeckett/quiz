@@ -1,0 +1,52 @@
+[gd_scene load_steps=6 format=3 uid="uid://bjedycabgcryj"]
+
+[ext_resource type="Script" uid="uid://dc2oa0fmx7se" path="res://game_explainer.gd" id="1_vemio"]
+[ext_resource type="StyleBox" uid="uid://drailr3ckjt3b" path="res://question.tres" id="1_xnsbf"]
+[ext_resource type="StyleBox" uid="uid://8yg8ac4x80mq" path="res://questionPressed.tres" id="2_vemio"]
+[ext_resource type="PackedScene" uid="uid://ktyytpt4o3vi" path="res://quit.tscn" id="4_st1vw"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_st1vw"]
+
+[node name="game_explainer" type="Node2D"]
+script = ExtResource("1_vemio")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer"]
+offset_right = 715.0
+offset_bottom = 1277.0
+color = Color(0.486275, 0, 0.054902, 0.176471)
+
+[node name="Label" type="Label" parent="CanvasLayer"]
+offset_left = 73.0
+offset_top = 58.0
+offset_right = 655.0
+offset_bottom = 193.0
+theme_override_font_sizes/font_size = 46
+text = "Welcome to your quiz app"
+
+[node name="Button4" type="Button" parent="CanvasLayer"]
+offset_left = 66.0
+offset_top = 890.0
+offset_right = 652.0
+offset_bottom = 1029.0
+theme_override_font_sizes/font_size = 50
+theme_override_styles/focus = SubResource("StyleBoxEmpty_st1vw")
+theme_override_styles/hover = ExtResource("1_xnsbf")
+theme_override_styles/pressed = ExtResource("2_vemio")
+theme_override_styles/normal = ExtResource("1_xnsbf")
+text = "Continue"
+
+[node name="Node2D" parent="CanvasLayer" instance=ExtResource("4_st1vw")]
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+offset_left = 91.0
+offset_top = 194.0
+offset_right = 659.0
+offset_bottom = 1168.0
+theme_override_font_sizes/normal_font_size = 30
+text = "The aim is simple, answer multiple choice questions to reach to goal total. Answering questions correctly gives you a point, but be careful, answering them wrong takes a point away. 
+
+You start with one category and only have to get 3 points, but each time you win, you unlock a new category and have to get more points to win. 
+
+See if you can unlock all the categories. Good luck!"

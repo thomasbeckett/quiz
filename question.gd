@@ -1,12 +1,13 @@
 extends Node2D
-@onready var button_2: Button = $CanvasLayer/VBoxContainer/Button2
+@onready var button_2: Button = $CanvasLayer/ScrollContainer/VBoxContainer/Button2
 @onready var label: Label = $CanvasLayer/Label
-@onready var v_box_container: VBoxContainer = $CanvasLayer/VBoxContainer
+@onready var v_box_container: VBoxContainer = $CanvasLayer/ScrollContainer/VBoxContainer
 @onready var button_3: Button = $CanvasLayer/Button3
 @onready var background_rect: TextureRect = $CanvasLayer/TextureRect
 @onready var fifty_fifty_button: Button = $CanvasLayer/GridContainer/fifty_fifty_button
 @onready var free_skip_button: Button = $CanvasLayer/GridContainer/free_skip_button
 @onready var reroll_button: Button = $CanvasLayer/GridContainer/reroll_button
+@onready var label_2: Label = $CanvasLayer/Label2
 
 var incorrect_answers: Array
 var correct_answer: String
@@ -37,6 +38,7 @@ var CATEGORY_BUTTON_COLORS = {
  
 func _ready() -> void:
 	print("Current Question Category: ", game_state.get_category_key_from_path(game_state.currentQuestionCategory))
+	label_2.text = "Progress: " + str(game_state.correctAnswerCount) + "/" + str(game_state.winning_score)
 	button_3.pressed.connect(_on_next_button_pressed)
 	var file = FileAccess.open(game_state.currentQuestionCategory, FileAccess.READ)
 	var questions = []

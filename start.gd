@@ -6,9 +6,13 @@ extends Node2D
 @onready var fifty_fifty_button: Button = $CanvasLayer/GridContainer/fifty_fifty_button
 @onready var free_skip_button: Button = $CanvasLayer/GridContainer/free_skip_button
 @onready var reroll_button: Button = $CanvasLayer/GridContainer/reroll_button
+@onready var texture_button: TextureButton = $CanvasLayer/TextureButton
 
 func _ready() -> void:
 	Stats.load()
+	if not Stats.app_instructions_shown:
+		get_tree().change_scene_to_file("res://app_instruction.tscn")
+		return
 	game_state.load_progress()
 	game_state.correctAnswerCount = 0
 	game_state.answeredQuestions.clear()
@@ -26,6 +30,7 @@ func _ready() -> void:
 	button.pressed.connect(_on_button_pressed)
 	button_2.pressed.connect(_on_category_pressed)
 	button_3.pressed.connect(_on_stats_pressed)
+	texture_button.pressed.connect(_on_settings_pressed)
 
 func _on_button_pressed() -> void:
 	game_state.single_category_mode = false
@@ -41,6 +46,9 @@ func _on_button_pressed() -> void:
 	game_state.currentQuestionCategory = game_state.CATEGORIES[random_key]
 	Stats.total_games_played += 1
 	Stats.save()
+	if not Stats.explainer_shown:
+		get_tree().change_scene_to_file("res://game_explainer.tscn")
+		return
 	get_tree().change_scene_to_file("res://question.tscn")
 
 func _on_category_pressed() -> void:
@@ -51,5 +59,10 @@ func _on_stats_pressed() -> void:
 
 func _on_new_game_pressed() -> void:
 	# Reset all progress
+	Stats.explainer_shown = false
+	Stats.save()
 	game_state.reset_progress()
 	_on_button_pressed()
+
+func _on_settings_pressed() -> void:
+	get_tree().change_scene_to_file("res://settings.tscn")
