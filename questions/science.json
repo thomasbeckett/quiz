@@ -2132,5 +2132,1082 @@
     "difficulty": "hard",
     "regions": [    ],
     "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "647f9de83a4302a71927164e",
+    "correctAnswer": "Dialysis",
+    "incorrectAnswers": [
+      "Chemotherapy",
+      "Physiotherapy",
+      "Radiation"
+    ],
+    "question": {
+      "text": "What process is used when kidneys are not working properly?"
+    },
+    "tags": [
+      "medicine",
+      "health",
+      "anatomy",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3e7cc59eab6f952323",
+    "correctAnswer": "Bacteria",
+    "incorrectAnswers": [
+      "Virus",
+      "Blood Cell",
+      "Gland"
+    ],
+    "question": {
+      "text": "Cocci, Spirilla, and Streptococci are types of what?"
+    },
+    "tags": [
+      "biology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6243347acfaae40c12961447",
+    "correctAnswer": "A Mare",
+    "incorrectAnswers": [
+      "A Hen",
+      "A Hembra",
+      "A Jill"
+    ],
+    "question": {
+      "text": "A female horse is known as what?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6477bb12550bc819ad646b67",
+    "correctAnswer": "99",
+    "incorrectAnswers": [
+      "23",
+      "49",
+      "59"
+    ],
+    "question": {
+      "text": "What is the result of the mathematical expression 'fourscore & 19'?"
+    },
+    "tags": [
+      "numbers",
+      "mathematics",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "624335accfaae40c129614c0",
+    "correctAnswer": "A Jack",
+    "incorrectAnswers": [
+      "A Billy",
+      "A Drone",
+      "A Boar"
+    ],
+    "question": {
+      "text": "What would you call a male wombat?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f95048d",
+    "correctAnswer": "snakes",
+    "incorrectAnswers": [
+      "disease classification",
+      "prehistoric metaphytes ",
+      "society"
+    ],
+    "question": {
+      "text": "What is Serpentology the study of?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f9510c3",
+    "correctAnswer": "23",
+    "incorrectAnswers": [
+      "10",
+      "2",
+      "12"
+    ],
+    "question": {
+      "text": "How Many Pairs of Chromosomes Does The Average Human Have?"
+    },
+    "tags": [
+      "numbers",
+      "anatomy",
+      "biology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "650570477a97013de78b5571",
+    "correctAnswer": "Thunder",
+    "incorrectAnswers": [
+      "Sonar",
+      "Gong",
+      "Clang"
+    ],
+    "question": {
+      "text": "What is the sound that is caused by a bolt of lightning?"
+    },
+    "tags": [
+      "science",
+      "meteorology"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "63adbd6904c68cc1e14b8e32",
+    "correctAnswer": "Oak Tree",
+    "incorrectAnswers": [
+      "Fir Tree",
+      "Maple Tree",
+      "Elm Tree"
+    ],
+    "question": {
+      "text": "What type of tree is known for its large, dark green leaves?"
+    },
+    "tags": [
+      "science",
+      "trees",
+      "plants",
+      "nature"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f951089",
+    "correctAnswer": "Pleiades",
+    "incorrectAnswers": [
+      "Perseids",
+      "Nymphoids",
+      "Sorestas"
+    ],
+    "question": {
+      "text": "Which cluster of stars is also known as the Seven Sisters?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f95055f",
+    "correctAnswer": "Dialects",
+    "incorrectAnswers": [
+      "X-Rays",
+      "Drugs",
+      "Clouds"
+    ],
+    "question": {
+      "text": "What is dialectology the study of?"
+    },
+    "tags": [
+      "science",
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "624333cfcfaae40c12961406",
+    "correctAnswer": "A Cow",
+    "incorrectAnswers": [
+      "A Sow",
+      "A Doe",
+      "A Pen"
+    ],
+    "question": {
+      "text": "What would you call a female elephant?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3f7cc59eab6f952392",
+    "correctAnswer": "23",
+    "incorrectAnswers": [
+      "10",
+      "160",
+      "12"
+    ],
+    "question": {
+      "text": "How many pairs of chromosomes does the average person have?"
+    },
+    "tags": [
+      "numbers",
+      "anatomy",
+      "medicine",
+      "biology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f950590",
+    "correctAnswer": "Human growth",
+    "incorrectAnswers": [
+      "The application of words",
+      "Stars",
+      "Acoustics"
+    ],
+    "question": {
+      "text": "What is auxology the study of?"
+    },
+    "tags": [
+      "science",
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f951015",
+    "correctAnswer": "Herbivore",
+    "incorrectAnswers": [
+      "Vegitarian",
+      "Vegivore",
+      "Omnivore"
+    ],
+    "question": {
+      "text": "What name is given to animals which only eat plants?"
+    },
+    "tags": [
+      "animals",
+      "biology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6242cb25d543524f1b19c911",
+    "correctAnswer": "A swarm",
+    "incorrectAnswers": [
+      "A kindle",
+      "A pride",
+      "A watch"
+    ],
+    "question": {
+      "text": "What is the word for a group of flies?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3e7cc59eab6f95224c",
+    "correctAnswer": "Hot",
+    "incorrectAnswers": [
+      "Wet",
+      "Windy",
+      "Dark"
+    ],
+    "question": {
+      "text": "In what conditions do thermophilous plants thrive?"
+    },
+    "tags": [
+      "science",
+      "words",
+      "plants",
+      "biology"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "63e13a29106de6ffa7d4a7a7",
+    "correctAnswer": "Heptagon",
+    "incorrectAnswers": [
+      "Octagon",
+      "Hexagon",
+      "Triangle"
+    ],
+    "question": {
+      "text": "What is the name of a shape with seven sides?"
+    },
+    "tags": [
+      "science",
+      "mathematics",
+      "shapes"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f950565",
+    "correctAnswer": "The records in tree rings",
+    "incorrectAnswers": [
+      "Muscles",
+      "Minerals",
+      "Venereal diseases"
+    ],
+    "question": {
+      "text": "What is dendrochronology the study of?"
+    },
+    "tags": [
+      "science",
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3b7cc59eab6f95154c",
+    "correctAnswer": "Rickets",
+    "incorrectAnswers": [
+      "Osteoporosis",
+      "Anemia",
+      "Smallpox"
+    ],
+    "question": {
+      "text": "Lack of Vitamin D causes which disease?"
+    },
+    "tags": [
+      "medicine",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "624333edcfaae40c12961410",
+    "correctAnswer": "A Fry",
+    "incorrectAnswers": [
+      "A Cygnet",
+      "A Chick",
+      "A Kitten"
+    ],
+    "question": {
+      "text": "A young fish is known as what?"
+    },
+    "tags": [
+      "animals",
+      "fish",
+      "biology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "62433569cfaae40c129614a5",
+    "correctAnswer": "A Cygnet",
+    "incorrectAnswers": [
+      "A Spiderling",
+      "A Colt",
+      "A Swanling"
+    ],
+    "question": {
+      "text": "A young swan is known as what?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6396ed6f6017b1e8e09020d0",
+    "correctAnswer": "What Hath God Wrought?",
+    "incorrectAnswers": [
+      "Testing Testing Testing",
+      "Good Morning Victory ",
+      "You Smell"
+    ],
+    "question": {
+      "text": "What was the first ever message sent via morse code?"
+    },
+    "tags": [
+      "history",
+      "technology",
+      "firsts",
+      "inventions"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f950472",
+    "correctAnswer": "friction and lubrication",
+    "incorrectAnswers": [
+      "cetaceans - whales, dolphins, and porpoise",
+      "the ecological interrelationships among communities of organisms",
+      "the process of human psychological evolution"
+    ],
+    "question": {
+      "text": "What is Tribology the study of?"
+    },
+    "tags": [
+      "words",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6463398b01d576cfac3aa376",
+    "correctAnswer": "Amber",
+    "incorrectAnswers": [
+      "Myrr",
+      "Lapis Lazuli",
+      "Tar"
+    ],
+    "question": {
+      "text": "What is the name of the fossilized resin from prehistoric pine trees that can preserve insects inside of it?"
+    },
+    "tags": [
+      "paleontology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "646339ce01d576cfac3aa3b5",
+    "correctAnswer": "Ritalin",
+    "incorrectAnswers": [
+      "Amoxicillin",
+      "Prozac",
+      "Zoloft"
+    ],
+    "question": {
+      "text": "Which of these medicines is often used to treat attention deficit hyperactivity disorder?"
+    },
+    "tags": [
+      "pharmaceuticals",
+      "drugs",
+      "medicine",
+      "psychology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6243334fcfaae40c129613d3",
+    "correctAnswer": "A Caterpillar",
+    "incorrectAnswers": [
+      "A Codling",
+      "A Chick",
+      "A Spiderling"
+    ],
+    "question": {
+      "text": "A young butterfly is known as what?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6463398b01d576cfac3aa383",
+    "correctAnswer": "Lead",
+    "incorrectAnswers": [
+      "Copper",
+      "Aluminum",
+      "Iron"
+    ],
+    "question": {
+      "text": "What is the best metal to use as a thick shield to block gamma rays produced by nuclear fission?"
+    },
+    "tags": [
+      "radiation",
+      "chemistry",
+      "metals",
+      "physics",
+      "science",
+      "materials"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3c7cc59eab6f951935",
+    "correctAnswer": "Radio Carbon Dating",
+    "incorrectAnswers": [
+      "Olfactory Dating",
+      "Magnetic Resonance Dating",
+      "Natural Decayance Dating"
+    ],
+    "question": {
+      "text": "What Process Is Used For Dating Ancient Organic Objects?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "64746b055a4c31088dd9d012",
+    "correctAnswer": "Barnacle",
+    "incorrectAnswers": [
+      "Clam",
+      "Oyster",
+      "Starfish"
+    ],
+    "question": {
+      "text": "What sea creature adheres firmly to rocks and to the bottom of ships?"
+    },
+    "tags": [
+      "animals",
+      "marine_life",
+      "science",
+      "biology"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "64909c4c58265893a0c86d90",
+    "correctAnswer": "Pyrite",
+    "incorrectAnswers": [
+      "Magnetite",
+      "Hematite",
+      "Chromite"
+    ],
+    "question": {
+      "text": "What is the name of the type of iron which is sometimes known as \"Fool's gold\"?"
+    },
+    "tags": [
+      "chemistry",
+      "geology",
+      "minerals",
+      "science",
+      "materials"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f95101e",
+    "correctAnswer": "Poisons",
+    "incorrectAnswers": [
+      "Radiation",
+      "Abstract Categorisation",
+      "Venomous Animals"
+    ],
+    "question": {
+      "text": "What Is Toxicology The Study Of?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6243340dcfaae40c1296141d",
+    "correctAnswer": "A Bull",
+    "incorrectAnswers": [
+      "A Boar",
+      "A Rooster",
+      "A Drake"
+    ],
+    "question": {
+      "text": "What is the word for a male giraffe?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "645a6490158db1bd1779f19b",
+    "correctAnswer": "Ivory",
+    "incorrectAnswers": [
+      "Diamonds",
+      "Gold",
+      "Silver"
+    ],
+    "question": {
+      "text": "For what valuable material do some people hunt walruses?"
+    },
+    "tags": [
+      "animals",
+      "hunting",
+      "materials"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "64f3a941601ffca0b7615ddb",
+    "correctAnswer": "Read Only Memory",
+    "incorrectAnswers": [
+      "Random Object Medium",
+      "Real Orchestration Mode",
+      "Rare Ownership Modifications"
+    ],
+    "question": {
+      "text": "What does the acronym 'ROM' stand for in computers?"
+    },
+    "tags": [
+      "computing",
+      "technology",
+      "acronyms",
+      "initials",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6398956d5c9a75021f310454",
+    "correctAnswer": "Smallpox",
+    "incorrectAnswers": [
+      "Polio",
+      "Influenza",
+      "Measles"
+    ],
+    "question": {
+      "text": "For what disease was the first successful vaccine developed?"
+    },
+    "tags": [
+      "history",
+      "1700's",
+      "inventions",
+      "epidemiology",
+      "medicine",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "62433328cfaae40c129613c4",
+    "correctAnswer": "A Sow",
+    "incorrectAnswers": [
+      "A Mare",
+      "A Hen",
+      "A Leopardess"
+    ],
+    "question": {
+      "text": "What is the word for a female bear?"
+    },
+    "tags": [
+      "animals",
+      "biology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6242cb9bd543524f1b19c93f",
+    "correctAnswer": "A flight",
+    "incorrectAnswers": [
+      "A cast",
+      "A fall",
+      "A drove"
+    ],
+    "question": {
+      "text": "What is the word for a group of swallows?"
+    },
+    "tags": [
+      "birds",
+      "animals",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6242cb28d543524f1b19c912",
+    "correctAnswer": "A skulk",
+    "incorrectAnswers": [
+      "A school",
+      "A yoke",
+      "A stud"
+    ],
+    "question": {
+      "text": "What is the word for a group of foxes?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "63adbd7f04c68cc1e14b8e56",
+    "correctAnswer": "American Elm",
+    "incorrectAnswers": [
+      "American Redbud",
+      "American Willow",
+      "American Tree"
+    ],
+    "question": {
+      "text": "What is the common name for the tree species Ulmus americana?"
+    },
+    "tags": [
+      "trees",
+      "plants",
+      "nature"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f9510d3",
+    "correctAnswer": "Camelopard",
+    "incorrectAnswers": [
+      "Lamiger",
+      "Felama",
+      "Horcamel"
+    ],
+    "question": {
+      "text": "As what is a giraffe also known?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c397cc59eab6f950fbd",
+    "correctAnswer": "Elisha Otis",
+    "incorrectAnswers": [
+      "Marshall Rivet",
+      "Thomas Edison",
+      "Maxwell Hoff"
+    ],
+    "question": {
+      "text": "Who Invented The Elevator?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f95054d",
+    "correctAnswer": "The end of human existence",
+    "incorrectAnswers": [
+      "Wounds and injuries caused by accidents",
+      "Dreams",
+      "Plants"
+    ],
+    "question": {
+      "text": "What is eschatology the study of?"
+    },
+    "tags": [
+      "science",
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "62433596cfaae40c129614b7",
+    "correctAnswer": "A Buck",
+    "incorrectAnswers": [
+      "A Rooster",
+      "A Ram",
+      "A Stallion"
+    ],
+    "question": {
+      "text": "What is the word for a male weasel?"
+    },
+    "tags": [
+      "animals",
+      "words",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "62433457cfaae40c12961439",
+    "correctAnswer": "A Boar",
+    "incorrectAnswers": [
+      "A Tiercel",
+      "A Ram",
+      "A Jack"
+    ],
+    "question": {
+      "text": "What is the word for a male hedgehog?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "650570377a97013de78b555b",
+    "correctAnswer": "Java",
+    "incorrectAnswers": [
+      "Flark",
+      "Goku",
+      "Anon"
+    ],
+    "question": {
+      "text": "Which of these is a popular programming language?"
+    },
+    "tags": [
+      "science",
+      "technology",
+      "computing"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f9510cd",
+    "correctAnswer": "Algae",
+    "incorrectAnswers": [
+      "Prawns",
+      "Dye",
+      "Sunlight"
+    ],
+    "question": {
+      "text": "Flamingos are not naturally pink. They get their color from ________."
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "64730759cf09068746f63762",
+    "correctAnswer": "Halley's Comet",
+    "incorrectAnswers": [
+      "Hale-Bopp",
+      "Shoemaker-Levy 9",
+      "Hyakutake"
+    ],
+    "question": {
+      "text": "Which comet causes the Orionids meteor shower each October?"
+    },
+    "tags": [
+      "space",
+      "astronomy",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c377cc59eab6f95050c",
+    "correctAnswer": "movement in relation to human anatomy; a branch of medicine",
+    "incorrectAnswers": [
+      "cells",
+      "interactions among organisms and the water cycle",
+      "animals that may or may not be mythical"
+    ],
+    "question": {
+      "text": "What is Kinesiology the study of?"
+    },
+    "tags": [
+      "words",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f951070",
+    "correctAnswer": "Amphibian",
+    "incorrectAnswers": [
+      "Reptile",
+      "Fish",
+      "Mollusc"
+    ],
+    "question": {
+      "text": "What is a Salamander ?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
   }
 ]

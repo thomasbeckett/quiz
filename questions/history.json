@@ -18,7 +18,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -43,7 +43,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -66,7 +66,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -86,7 +86,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -107,7 +107,7 @@
     ],
     "type": "text_choice",
     "difficulty": "easy",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -127,7 +127,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -147,7 +147,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -167,7 +167,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -187,7 +187,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -212,7 +212,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -233,7 +233,7 @@
     ],
     "type": "text_choice",
     "difficulty": "easy",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -256,7 +256,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -277,7 +277,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -302,7 +302,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -322,7 +322,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -345,7 +345,7 @@
     ],
     "type": "text_choice",
     "difficulty": "easy",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -367,7 +367,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -390,7 +390,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -410,7 +410,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -435,7 +435,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -455,7 +455,7 @@
     ],
     "type": "text_choice",
     "difficulty": "easy",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -478,7 +478,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -498,7 +498,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -521,7 +521,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -541,7 +541,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -563,7 +563,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -586,7 +586,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -606,7 +606,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -627,7 +627,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -647,7 +647,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -670,7 +670,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -693,7 +693,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -716,7 +716,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -736,7 +736,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -759,7 +759,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -781,7 +781,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -805,7 +805,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -830,7 +830,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -850,7 +850,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -871,7 +871,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -895,7 +895,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -918,7 +918,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -938,7 +938,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -963,7 +963,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -984,7 +984,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -1007,7 +1007,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -1030,7 +1030,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -1055,7 +1055,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -1078,7 +1078,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -1098,7 +1098,2216 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "6471e4297206d7c314606f6c",
+    "correctAnswer": "the Unabomber",
+    "incorrectAnswers": [
+      "Ted Bundy",
+      "Jeffrey Dahmer",
+      "The Zodiac Killer"
+    ],
+    "question": {
+      "text": "Who was arrested in 1996 after years spent living in the wilderness as a wanted man?"
+    },
+    "tags": [
+      "crime",
+      "people",
+      "history",
+      "society_and_culture"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "6490c60158265893a0c86dbb",
+    "correctAnswer": "A tank",
+    "incorrectAnswers": [
+      "A helicopter",
+      "A submarine",
+      "A fighter plane"
+    ],
+    "question": {
+      "text": "What type of war vehicle is the M26 Pershing and the M4 Sherman?"
+    },
+    "tags": [
+      "military",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951909",
+    "correctAnswer": "A Siege Machine",
+    "incorrectAnswers": [
+      "A Scientific Instrument",
+      "A Position in the Church",
+      "A Tax on Feudal Landowners"
+    ],
+    "question": {
+      "text": "What Was A Ballista?"
+    },
+    "tags": [
+      "words",
+      "medieval",
+      "middle_ages",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950384",
+    "correctAnswer": "Sir Francis Drake",
+    "incorrectAnswers": [
+      "Horatio Nelson",
+      "George Rodney",
+      "John Jervis"
+    ],
+    "question": {
+      "text": "Who Played Bowls Before Engaging The Spanish Armada?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c347cc59eab6f94f9a2",
+    "correctAnswer": "George III",
+    "incorrectAnswers": [
+      "Henry I",
+      "Edward II",
+      "Anne"
+    ],
+    "question": {
+      "text": "Who was the monarch of The United Kingdom during the time period 1760-1820?"
+    },
+    "tags": [
+      "kings",
+      "uk",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f95189b",
+    "correctAnswer": "Italian",
+    "incorrectAnswers": [
+      "Spanish",
+      "French",
+      "English"
+    ],
+    "question": {
+      "text": "What was the nationality of Marco Polo?"
+    },
+    "tags": [
+      "exploration",
+      "people",
+      "middle_ages",
+      "medieval",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "645c9ff442ea81e2554c5f99",
+    "correctAnswer": "Vikings",
+    "incorrectAnswers": [
+      "Celts",
+      "Mongols",
+      "Saxons"
+    ],
+    "question": {
+      "text": "Which of these groups were known as fierce, medieval Scandinavian explorers?"
+    },
+    "tags": [
+      "history",
+      "culture",
+      "society_and_culture"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f9503ac",
+    "correctAnswer": "Germany",
+    "incorrectAnswers": [
+      "Switzerland",
+      "Denmark",
+      "France"
+    ],
+    "question": {
+      "text": "Which country was first to operate an old age pension scheme?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c347cc59eab6f94f9cd",
+    "correctAnswer": "Richard Nixon",
+    "incorrectAnswers": [
+      "James Polk",
+      "Abraham Lincoln ",
+      "Harry S. Truman"
+    ],
+    "question": {
+      "text": "Who was the 37th president of the USA, in term during the period 1969–1974?"
+    },
+    "tags": [
+      "usa",
+      "leaders",
+      "presidents",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951874",
+    "correctAnswer": "800BC",
+    "incorrectAnswers": [
+      "2000BC",
+      "50BC",
+      "200AD"
+    ],
+    "question": {
+      "text": "When was the Greek alphabet first used?"
+    },
+    "tags": [
+      "ancient_greece",
+      "language",
+      "the_ancient_world",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "64824ee47778562fd76a96a5",
+    "correctAnswer": "East and West Germany",
+    "incorrectAnswers": [
+      "North and South Korea",
+      "Vietnam and Cambodia",
+      "North & South Sudan"
+    ],
+    "question": {
+      "text": "Which two countries agreed to reunite on February 13th, 1989?"
+    },
+    "tags": [
+      "politics",
+      "countries",
+      "geography",
+      "1980's"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "645ba87ff09106226db2358a",
+    "correctAnswer": "1773",
+    "incorrectAnswers": [
+      "1812",
+      "1861",
+      "1914"
+    ],
+    "question": {
+      "text": "In what year did the Sons of Liberty throw a tea party in Boston?"
+    },
+    "tags": [
+      "american_revolution",
+      "revolutions",
+      "usa",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c357cc59eab6f94fd43",
+    "correctAnswer": "Wessex",
+    "incorrectAnswers": [
+      "Cumbria",
+      "Yorkshire",
+      "Hertford"
+    ],
+    "question": {
+      "text": "Which of these was a kingdom in Anglo-Saxon England?"
+    },
+    "tags": [
+      "uk",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f9517aa",
+    "correctAnswer": "The Iron Maiden",
+    "incorrectAnswers": [
+      "The Brass Bull",
+      "The Infernus Cage",
+      "The Hinged Hell"
+    ],
+    "question": {
+      "text": "Which Instrument Of Torture Had a Hinged Case Full Of Spikes?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "65056ee07a97013de78b537f",
+    "correctAnswer": "Military strategist",
+    "incorrectAnswers": [
+      "Botanist",
+      "Artist",
+      "Astronomer"
+    ],
+    "question": {
+      "text": "Who was Sun Tzu?"
+    },
+    "tags": [
+      "history",
+      "people",
+      "china"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "6398983b5c9a75021f310467",
+    "correctAnswer": "Adolf Hitler",
+    "incorrectAnswers": [
+      "Benito Mussolini",
+      "Joseph Stalin",
+      "Winston Churchill"
+    ],
+    "question": {
+      "text": "Who was the leader of Nazi Germany during World War II?"
+    },
+    "tags": [
+      "history",
+      "world_war_2",
+      "wars",
+      "people",
+      "germany",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "64824ee47778562fd76a96a4",
+    "correctAnswer": "Squire",
+    "incorrectAnswers": [
+      "Tourney",
+      "Knight errant",
+      "Groom"
+    ],
+    "question": {
+      "text": "What was the name given to a knight's student?"
+    },
+    "tags": [
+      "words",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950367",
+    "correctAnswer": "Jack Ruby",
+    "incorrectAnswers": [
+      "Mark Bench",
+      "Tom Gunn",
+      "Alvin Grey"
+    ],
+    "question": {
+      "text": "Who Shot Lee Harvey Oswald, The Assassin Of John F Kennedy?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951861",
+    "correctAnswer": "Corsica",
+    "incorrectAnswers": [
+      "St Helena",
+      "Sicily",
+      "Jersey"
+    ],
+    "question": {
+      "text": "On which island was Napoleon Bonaparte born?"
+    },
+    "tags": [
+      "france",
+      "people",
+      "empires",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "62611f3a4b176d54800e3d4a",
+    "correctAnswer": "1956",
+    "incorrectAnswers": [
+      "1940",
+      "1948",
+      "1964"
+    ],
+    "question": {
+      "text": "When did the Suez Crisis become a flashpoint in the Cold War?"
+    },
+    "tags": [
+      "events",
+      "cold_war",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "639c9db0929b90846f2fc993",
+    "correctAnswer": "1993",
+    "incorrectAnswers": [
+      "1973",
+      "1953",
+      "1933"
+    ],
+    "question": {
+      "text": "In which year did the European Union (EU) form?"
+    },
+    "tags": [
+      "history",
+      "1900's",
+      "europe",
+      "organisations"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "649f220febb41911d4cbd6c5",
+    "correctAnswer": "Dunkirk",
+    "incorrectAnswers": [
+      "Calais",
+      "Le Havre",
+      "Brest"
+    ],
+    "question": {
+      "text": "'We shall fight on the beaches', is a quote from Winston Churchill immediately following the evacuation from which French port?"
+    },
+    "tags": [
+      "speeches",
+      "history",
+      "world_war_2"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951aec",
+    "correctAnswer": "1965",
+    "incorrectAnswers": [
+      "1969",
+      "1973",
+      "1961"
+    ],
+    "question": {
+      "text": "In Which Year Did A Soviet Cosmonaut Make The First Spacewalk?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c377cc59eab6f950433",
+    "correctAnswer": "Khrushchev",
+    "incorrectAnswers": [
+      "Putin",
+      "Gorbachev",
+      "Lenin"
+    ],
+    "question": {
+      "text": "In 1953, Stalin Died. Who ultimately succeeded him as the leader of the Soviet Union?"
+    },
+    "tags": [
+      "politics",
+      "russia",
+      "cold_war",
+      "leaders",
+      "1950's",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "639ae2d7929b90846f2fc8bb",
+    "correctAnswer": "Raiding",
+    "incorrectAnswers": [
+      "Exploration",
+      "Migration",
+      "Trade"
+    ],
+    "question": {
+      "text": "What is the name of the Viking practice of sailing off to unknown lands in search of riches and glory?"
+    },
+    "tags": [
+      "history",
+      "vikings"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c347cc59eab6f94f9dd",
+    "correctAnswer": "James Buchanan",
+    "incorrectAnswers": [
+      "Rutherford B. Hayes",
+      "Woodrow Wilson",
+      "Abraham Lincoln "
+    ],
+    "question": {
+      "text": "Who was the 15th president of the USA, in term during the period 1857–1861?"
+    },
+    "tags": [
+      "usa",
+      "presidents",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950342",
+    "correctAnswer": "Jane Seymour",
+    "incorrectAnswers": [
+      "Anne Boleyn",
+      "Catherine Parr",
+      "Catherine Howard"
+    ],
+    "question": {
+      "text": "Who Was The 3rd Wife Of Henry VIII?"
+    },
+    "tags": [
+      "medieval",
+      "kings",
+      "uk",
+      "middle_ages",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "63d95303168979b94b2e4f77",
+    "correctAnswer": "Mao Zedong",
+    "incorrectAnswers": [
+      "Sun Yat-sen",
+      "Deng Xiaoping",
+      "Chiang Kai-shek"
+    ],
+    "question": {
+      "text": "Which leader was known as 'The Father of Modern China'?"
+    },
+    "tags": [
+      "history",
+      "leaders",
+      "china"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950334",
+    "correctAnswer": "George VI",
+    "incorrectAnswers": [
+      "Henry VIII",
+      "Elizabeth I",
+      "William II"
+    ],
+    "question": {
+      "text": "Who was the monarch of England before Elizabeth II?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f9519a9",
+    "correctAnswer": "The Rubicon River",
+    "incorrectAnswers": [
+      "The Alps",
+      "The City Walls",
+      "The Pelegrin Fields"
+    ],
+    "question": {
+      "text": "What did Julius Caesar cross to signal a revolt against the senate?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951910",
+    "correctAnswer": "The war of American independence",
+    "incorrectAnswers": [
+      "The Napoleonic wars",
+      "World War 2",
+      "The English Civil War"
+    ],
+    "question": {
+      "text": "What war followed the original 'shot heard round the world'?"
+    },
+    "tags": [
+      "wars",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f9519b3",
+    "correctAnswer": "Belize",
+    "incorrectAnswers": [
+      "Barbados",
+      "Guatemala",
+      "Jamaica"
+    ],
+    "question": {
+      "text": "What did British Honduras change its name to in 1973?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "64824e287778562fd76a9603",
+    "correctAnswer": "Louis XVI",
+    "incorrectAnswers": [
+      "Napoleon Bonaparte",
+      "George III",
+      "King Henry VIII"
+    ],
+    "question": {
+      "text": "Who married Marie-Antoinette in 1770?"
+    },
+    "tags": [
+      "people",
+      "1700's",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951aa4",
+    "correctAnswer": "Khmer Rouge",
+    "incorrectAnswers": [
+      "Cambodia Defence League",
+      "Forward Phnom",
+      "Lek Si"
+    ],
+    "question": {
+      "text": "Of which Cambodian party was Pol Pot the leader?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c377cc59eab6f95044c",
+    "correctAnswer": "Cyprus",
+    "incorrectAnswers": [
+      "Ireland",
+      "Sicily",
+      "Corsica"
+    ],
+    "question": {
+      "text": "Formed in 1955, with which island was the organisation known by the acronym EOKA associated?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3e7cc59eab6f952282",
+    "correctAnswer": "Zero",
+    "incorrectAnswers": [
+      "Dash",
+      "Spitfire",
+      "Typhoon"
+    ],
+    "question": {
+      "text": "The Misubishi A6M fighter aircraft used by Japan in World War 2 was commonly known as what?"
+    },
+    "tags": [
+      "aviation",
+      "history",
+      "world_war_2",
+      "japan",
+      "names",
+      "nicknames"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950344",
+    "correctAnswer": "Catherine Of Aragon",
+    "incorrectAnswers": [
+      "Anne Boleyn",
+      "Anne Howard",
+      "Catherine Parr"
+    ],
+    "question": {
+      "text": "Who Was The 1st wife of henry VIII? "
+    },
+    "tags": [
+      "kings",
+      "uk",
+      "medieval",
+      "middle_ages",
+      "people",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f9518ff",
+    "correctAnswer": "Hieroglyphics",
+    "incorrectAnswers": [
+      "The Enigma Machine",
+      "Linear B",
+      "RSA Encryption"
+    ],
+    "question": {
+      "text": "What Was Deciphered As A Result Of The Discovery Of The Rosetta Stone?"
+    },
+    "tags": [
+      "language",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951868",
+    "correctAnswer": "Turkey",
+    "incorrectAnswers": [
+      "Russia",
+      "Spain",
+      "Denmark"
+    ],
+    "question": {
+      "text": "Where did the real St. Nicholas live?"
+    },
+    "tags": [
+      "christmas",
+      "christianity",
+      "people",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951b1c",
+    "correctAnswer": "Babylon",
+    "incorrectAnswers": [
+      "Atlantis",
+      "Jerusalem",
+      "Jericho"
+    ],
+    "question": {
+      "text": "In which city were the Hanging Gardens?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951bb4",
+    "correctAnswer": "Salem",
+    "incorrectAnswers": [
+      "Sabrina",
+      "Coven",
+      "Providence"
+    ],
+    "question": {
+      "text": "In Which American Town Did The 1692 Witchcraft Trials Take Place?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f9517b4",
+    "correctAnswer": "Nicolae Ceausescu",
+    "incorrectAnswers": [
+      "Slobodan Milošević",
+      "Josef Stalin",
+      "Colonel Gaddafi"
+    ],
+    "question": {
+      "text": "Which dictator was executed by firing squad on Christmas Day 1999?"
+    },
+    "tags": [
+      "history",
+      "leaders",
+      "events",
+      "1990's"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951cb5",
+    "correctAnswer": "Troubles",
+    "incorrectAnswers": [
+      "Difficulties",
+      "Woes",
+      "Problems"
+    ],
+    "question": {
+      "text": "In the Christmas song 'Have Yourself A Merry Little Christmas' what \"will be out of sight\"?"
+    },
+    "tags": [
+      "christmas",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951890",
+    "correctAnswer": "The Titanic",
+    "incorrectAnswers": [
+      "The Lusitania",
+      "The Victory",
+      "The Belfast"
+    ],
+    "question": {
+      "text": "What was the sister ship of The Olympic?"
+    },
+    "tags": [
+      "names",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950351",
+    "correctAnswer": "Thomas Edison",
+    "incorrectAnswers": [
+      "Merlin",
+      "Richard Feynman",
+      "Harry Houdini"
+    ],
+    "question": {
+      "text": "Who was known as \"The Wizard of Menlo Park\"?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950358",
+    "correctAnswer": "John Adams",
+    "incorrectAnswers": [
+      "Thomas Jefferson",
+      "Andrew Jackson",
+      "James Monroe"
+    ],
+    "question": {
+      "text": "Who was George Washington's vice-president?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951b0c",
+    "correctAnswer": "Poland",
+    "incorrectAnswers": [
+      "Germany",
+      "Hungary",
+      "Austria"
+    ],
+    "question": {
+      "text": "In Which Country Was The Auschwitz Concentration Camp Located?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "6498a5e40752843c0d8aae0d",
+    "correctAnswer": "Moon landing",
+    "incorrectAnswers": [
+      "Assassination of JFK",
+      "Fall of the Berlin Wall",
+      "Invention of the internet"
+    ],
+    "question": {
+      "text": "What historic event happened on July 20, 1969?"
+    },
+    "tags": [
+      "events",
+      "history",
+      "1960's"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f9503dc",
+    "correctAnswer": "Buffalo soldiers",
+    "incorrectAnswers": [
+      "Traitors",
+      "Picketties",
+      "Kwoquois"
+    ],
+    "question": {
+      "text": "What name did the indians give the black soldiers that were fighting against them in the late 1800's?"
+    },
+    "tags": [
+      "names",
+      "language",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951b1e",
+    "correctAnswer": "Dallas",
+    "incorrectAnswers": [
+      "Atlanta",
+      "Austin",
+      "Houston"
+    ],
+    "question": {
+      "text": "In which city was President Kennedy killed?"
+    },
+    "tags": [
+      "presidents",
+      "cities",
+      "usa",
+      "events",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951a24",
+    "correctAnswer": "Et tu, Brute?",
+    "incorrectAnswers": [
+      "Veni, Vidi, Vici.",
+      "Carpe Diem!",
+      "Memento Mori?"
+    ],
+    "question": {
+      "text": "What are commonly believed to be the last words of Julius Caesar?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3b7cc59eab6f95177b",
+    "correctAnswer": "Bangladesh",
+    "incorrectAnswers": [
+      "Sri Lanka",
+      "Bhutan",
+      "Pakistan"
+    ],
+    "question": {
+      "text": "Which new country was formed in 1971 at the end of a conflict between Pakistan and India?"
+    },
+    "tags": [
+      "history",
+      "1970's",
+      "wars"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c377cc59eab6f950414",
+    "correctAnswer": "1982",
+    "incorrectAnswers": [
+      "1990",
+      "1971",
+      "1964"
+    ],
+    "question": {
+      "text": "In Which Year Did The Falklands Conflict Begin?"
+    },
+    "tags": [
+      "wars",
+      "politics",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "62611fe94b176d54800e3d79",
+    "correctAnswer": "1926",
+    "incorrectAnswers": [
+      "1899",
+      "1949",
+      "1866"
+    ],
+    "question": {
+      "text": "When did Roald Amundsen first reach the North Pole?"
+    },
+    "tags": [
+      "events",
+      "firsts",
+      "exploration",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f95033c",
+    "correctAnswer": "Marget Thatcher",
+    "incorrectAnswers": [
+      "Harold Wilson",
+      "Tony Blair",
+      "John Major"
+    ],
+    "question": {
+      "text": "Who was the Prime Minister of The United Kingdom throughout the eighties?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "647f9db03a4302a719271600",
+    "correctAnswer": "Catherine the Great",
+    "incorrectAnswers": [
+      "Catherine the First",
+      "Mary the 1st",
+      "Elizabeth the First"
+    ],
+    "question": {
+      "text": "Which Russian Empress came to power after overthrowing her husband?"
+    },
+    "tags": [
+      "royalty",
+      "women",
+      "russia",
+      "history",
+      "people"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "62611fca4b176d54800e3d71",
+    "correctAnswer": "1990",
+    "incorrectAnswers": [
+      "1980",
+      "1985",
+      "1995"
+    ],
+    "question": {
+      "text": "In which year was Nelson Mandela released from prison?"
+    },
+    "tags": [
+      "events",
+      "civil_rights",
+      "leaders",
+      "people",
+      "politics",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950325",
+    "correctAnswer": "Pol Pot",
+    "incorrectAnswers": [
+      "Tol Pot",
+      "Lol Pot",
+      "Bol Pot"
+    ],
+    "question": {
+      "text": "Who was the leader of the Khmer Rouge?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951b9e",
+    "correctAnswer": "Mount Pelée",
+    "incorrectAnswers": [
+      "Krakatoa",
+      "Mount St Helen's",
+      "Mount Pinatubo"
+    ],
+    "question": {
+      "text": "Which volcano erupted in 1902, killing 30,000?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f9517d2",
+    "correctAnswer": "Caligula",
+    "incorrectAnswers": [
+      "Nero",
+      "Commodus",
+      "Augustus"
+    ],
+    "question": {
+      "text": "Which Roman Emperor made his horse a senator?"
+    },
+    "tags": [
+      "history",
+      "romans",
+      "animals",
+      "leaders"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "639c9da1929b90846f2fc974",
+    "correctAnswer": "1947",
+    "incorrectAnswers": [
+      "1945",
+      "1938",
+      "1955"
+    ],
+    "question": {
+      "text": "In which year did the Cold War between the U.S. and Soviet Union begin?"
+    },
+    "tags": [
+      "history",
+      "1900's",
+      "cold_war",
+      "usa",
+      "soviet_union",
+      "wars"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "639898405c9a75021f31046b",
+    "correctAnswer": "Japan",
+    "incorrectAnswers": [
+      "Germany",
+      "Italy",
+      "Russia"
+    ],
+    "question": {
+      "text": "Which country declared war on the US after the attack on Pearl Harbor?"
+    },
+    "tags": [
+      "history",
+      "world_war_2",
+      "wars"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "647f9de83a4302a71927164a",
+    "correctAnswer": "The Hudson",
+    "incorrectAnswers": [
+      "The Thames",
+      "The Amazon",
+      "The Mississippi"
+    ],
+    "question": {
+      "text": "Onto which river did an Airbus A320  make an emergency landing in January 2009, with all 155 people onboard surviving?"
+    },
+    "tags": [
+      "aviation",
+      "rivers",
+      "history",
+      "00's"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "65056ea97a97013de78b5333",
+    "correctAnswer": "Boston",
+    "incorrectAnswers": [
+      "Paris",
+      "Memphis",
+      "Ohio"
+    ],
+    "question": {
+      "text": "Which city hosted a revolutionary \"Tea Party\" in 1773?"
+    },
+    "tags": [
+      "history",
+      "revolutions",
+      "cities"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951bd9",
+    "correctAnswer": "13",
+    "incorrectAnswers": [
+      "4",
+      "50",
+      "49"
+    ],
+    "question": {
+      "text": "How Many Colonies Signed The American Declaration Of Independence?"
+    },
+    "tags": [
+      "usa",
+      "us_states",
+      "numbers",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950375",
+    "correctAnswer": "Pilgrims",
+    "incorrectAnswers": [
+      "Conquistadors",
+      "Explorers",
+      "Traders"
+    ],
+    "question": {
+      "text": "Who sailed to the new world in The Mayflower?"
+    },
+    "tags": [
+      "usa",
+      "general_knowledge",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "648888905dba6c873ef6504b",
+    "correctAnswer": "The 1990s",
+    "incorrectAnswers": [
+      "The 1980s",
+      "The 1970s",
+      "The 1960s"
+    ],
+    "question": {
+      "text": "Which decade saw the dissolution of the Soviet Union and the end of the Cold War?"
+    },
+    "tags": [
+      "history",
+      "politics",
+      "cold_war",
+      "decades",
+      "soviet_union",
+      "russia"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "6488deed50a27f7378a91de8",
+    "correctAnswer": "A shield",
+    "incorrectAnswers": [
+      "A sword",
+      "A helmet",
+      "A spear"
+    ],
+    "question": {
+      "text": "Used by the Roman military, what was a Scutum?"
+    },
+    "tags": [
+      "military",
+      "arms",
+      "weapons",
+      "the_romans"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c347cc59eab6f94f9c7",
+    "correctAnswer": "Jimmy Carter",
+    "incorrectAnswers": [
+      "George W. Bush",
+      "Ronald Reagan",
+      "Grover Cleveland"
+    ],
+    "question": {
+      "text": "Who was the 39th president of the USA, in term during the period 1977–1981?"
+    },
+    "tags": [
+      "usa",
+      "presidents",
+      "leaders",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "639ae363929b90846f2fc8cc",
+    "correctAnswer": "The Legend of the Fifth Sun",
+    "incorrectAnswers": [
+      "The Creation of the Gods",
+      "The Eternal River",
+      "The Green Void"
+    ],
+    "question": {
+      "text": "What was the name of the Aztec creation myth?"
+    },
+    "tags": [
+      "history",
+      "aztecs"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "649553a42cb69a84d25273f0",
+    "correctAnswer": "The 1960s",
+    "incorrectAnswers": [
+      "The 1950s",
+      "The 1970s",
+      "The 1980s"
+    ],
+    "question": {
+      "text": "Which decade saw the Stonewall Riots in New York City, which helped to initiate the gay rights movement?"
+    },
+    "tags": [
+      "civil_rights",
+      "lgbtq",
+      "history",
+      "new_york_city",
+      "new_york",
+      "decades"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f95032e",
+    "correctAnswer": "Abraham Lincoln",
+    "incorrectAnswers": [
+      "Barack Obama",
+      "John Adams",
+      "Ronald Reagan"
+    ],
+    "question": {
+      "text": "Who was the first US president born outside the orginal 13 states"
+    },
+    "tags": [
+      "presidents",
+      "usa",
+      "us_states",
+      "people",
+      "leaders",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "63989c175c9a75021f31047f",
+    "correctAnswer": "The Thirty Years' War",
+    "incorrectAnswers": [
+      "The Hundred Years' War",
+      "The War of the Roses",
+      "The War of Spanish Succession"
+    ],
+    "question": {
+      "text": "What was the name of the prominent religious conflict that arose in Europe in the 17th century?"
+    },
+    "tags": [
+      "history",
+      "1600s",
+      "wars",
+      "religion",
+      "holy_roman_empire",
+      "europe"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950309",
+    "correctAnswer": "Chucky",
+    "incorrectAnswers": [
+      "Freddie Kruger",
+      "Michael Myers",
+      "Leatherface"
+    ],
+    "question": {
+      "text": "Which Scary Movie Character Has The real name Charles Lee Ray?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951c23",
+    "correctAnswer": "Epilepsy",
+    "incorrectAnswers": [
+      "Hemophilia",
+      "Asthma",
+      "Narcolepsy"
+    ],
+    "question": {
+      "text": "From what did Alexander the Great suffer?"
+    },
+    "tags": [
+      "people",
+      "medicine",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951c5c",
+    "correctAnswer": "Macedon",
+    "incorrectAnswers": [
+      "Thrace",
+      "Epirus",
+      "Mycenae"
+    ],
+    "question": {
+      "text": "Alexander the Great was king of which kingdom?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f9503a3",
+    "correctAnswer": "The Inquisition",
+    "incorrectAnswers": [
+      "The Papacy",
+      "The Monad",
+      "The Cardinality"
+    ],
+    "question": {
+      "text": "Which Institution Was Founded By The Roman Catholic Church In The 13th Century To Root Out Heresy?"
+    },
+    "tags": [
+      "christianity",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951a0e",
+    "correctAnswer": "The Korean War",
+    "incorrectAnswers": [
+      "World War II",
+      "The American War of Independence",
+      "The Vietnam War"
+    ],
+    "question": {
+      "text": "Which war began on June 25, 1950?"
+    },
+    "tags": [
+      "wars",
+      "1950's",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "646261c8ab138b829b81e992",
+    "correctAnswer": "The Golden Horde",
+    "incorrectAnswers": [
+      "The Silver Horde",
+      "The Bronze Horde",
+      "The Copper Horde"
+    ],
+    "question": {
+      "text": "Which group emerged after the disintegration of the Mongol Empire and pillaged much of Europe throughout the 14th century?"
+    },
+    "tags": [
+      "medieval",
+      "wars",
+      "history",
+      "europe",
+      "mongolian_empire",
+      "1300s"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "65056eac7a97013de78b5336",
+    "correctAnswer": "New York City",
+    "incorrectAnswers": [
+      "Miami",
+      "Liverpool",
+      "Southampton"
+    ],
+    "question": {
+      "text": "What had been the planned destination of the Titanic before it sank?"
+    },
+    "tags": [
+      "history",
+      "boats",
+      "events"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f9517e3",
+    "correctAnswer": "Indonesia",
+    "incorrectAnswers": [
+      "Malaysia",
+      "Thailand",
+      "The Philippines"
+    ],
+    "question": {
+      "text": "Which country was previously known as the Dutch East Indies?"
+    },
+    "tags": [
+      "history",
+      "geography",
+      "the_netherlands",
+      "southeast_asia",
+      "previous_names",
+      "countries"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "62611f6a4b176d54800e3d57",
+    "correctAnswer": "2020",
+    "incorrectAnswers": [
+      "2019",
+      "2021",
+      "2018"
+    ],
+    "question": {
+      "text": "When was COVID-19 declared a Global Pandemic?"
+    },
+    "tags": [
+      "events",
+      "medicine",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "645cb0e67d263fd50970437d",
+    "correctAnswer": "North Carolina",
+    "incorrectAnswers": [
+      "Virginia",
+      "South Carolina",
+      "Georgia"
+    ],
+    "question": {
+      "text": "In what state did black sit-ins at segregated lunch counters first start in 1960?"
+    },
+    "tags": [
+      "civil_rights",
+      "usa",
+      "us_states",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c377cc59eab6f95042a",
+    "correctAnswer": "Alaska",
+    "incorrectAnswers": [
+      "Hawaii",
+      "Puerto Rico",
+      "New Mexico"
+    ],
+    "question": {
+      "text": "In America, what became the 49th state to enter the union in 1959?"
+    },
+    "tags": [
+      "usa",
+      "us_states",
+      "1950's",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "63adbd7304c68cc1e14b8e41",
+    "correctAnswer": "The new European political order",
+    "incorrectAnswers": [
+      "Fossil fuel consumption",
+      "African colonisation",
+      "The fall of the Soviet Union"
+    ],
+    "question": {
+      "text": "What did the Congress of Vienna meet to discuss in 1815?"
+    },
+    "tags": [
+      "history",
+      "napoleonic_wars",
+      "1800's"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951910",
+    "correctAnswer": "The war of American independence",
+    "incorrectAnswers": [
+      "The Napoleonic wars",
+      "World War 2",
+      "The English Civil War"
+    ],
+    "question": {
+      "text": "What war followed the original 'shot heard round the world'?"
+    },
+    "tags": [
+      "wars",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951bef",
+    "correctAnswer": "General Custer",
+    "incorrectAnswers": [
+      "General Lee",
+      "General Grant",
+      "General Nelson"
+    ],
+    "question": {
+      "text": "Who was defeated at the Battle of Little Bighorn?"
+    },
+    "tags": [
+      "battles",
+      "wars",
+      "usa",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951bbc",
+    "correctAnswer": "43",
+    "incorrectAnswers": [
+      "48",
+      "51",
+      "57"
+    ],
+    "question": {
+      "text": "How old was John F. Kennedy when he became president?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "63a039c8c7d86251f9b65cb4",
+    "correctAnswer": "Andrew Johnson",
+    "incorrectAnswers": [
+      "John Adams",
+      "Thomas Jefferson",
+      "James Madison"
+    ],
+    "question": {
+      "text": "Who was the first president to be impeached?"
+    },
+    "tags": [
+      "history",
+      "usa",
+      "presidents",
+      "firsts"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f9518fb",
+    "correctAnswer": "Botany Bay",
+    "incorrectAnswers": [
+      "Florida",
+      "Hong Kong",
+      "The Bay of Biscay"
+    ],
+    "question": {
+      "text": "What Was Formerly Called Stingray Harbour?"
+    },
+    "tags": [
+      "previous_names",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "649d6d6de3aef0a3c23f6432",
+    "correctAnswer": "The Colossus of Rhodes",
+    "incorrectAnswers": [
+      "The Temple of Artemis",
+      "The Great Pyramid of Giza",
+      "The Statue of Zeus"
+    ],
+    "question": {
+      "text": "Which of the 7 Ancient Wonders of the World was a giant depiction of the Greek sun god Helios?"
+    },
+    "tags": [
+      "archaeology",
+      "ancient_greece",
+      "the_ancient_world",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f9503fb",
+    "correctAnswer": "Chicago",
+    "incorrectAnswers": [
+      "Denver",
+      "Dallas",
+      "Seattle"
+    ],
+    "question": {
+      "text": "The St. Valentine's Day massacre took place in this which city? "
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "63a039c3c7d86251f9b65cb0",
+    "correctAnswer": "Black Thursday",
+    "incorrectAnswers": [
+      "Dark Wednesday",
+      "Blue Monday",
+      "Grizzly Friday"
+    ],
+    "question": {
+      "text": "What was the name of the stock market crash that began the Great Depression in 1929?"
+    },
+    "tags": [
+      "history",
+      "usa",
+      "1920's",
+      "economics",
+      "events"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951a70",
+    "correctAnswer": "Mother Teresa",
+    "incorrectAnswers": [
+      "Florence Nightingale",
+      "Marie Curie",
+      "Margaret Thatcher"
+    ],
+    "question": {
+      "text": "Who won the 1979 Nobel Peace Prize for her work among the poor?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3b7cc59eab6f951707",
+    "correctAnswer": "Adolf Hitler",
+    "incorrectAnswers": [
+      "Hermann Müller",
+      "Konrad Adenauer",
+      "Angela Merkel"
+    ],
+    "question": {
+      "text": "Who became chancellor of Germany in 1933?"
+    },
+    "tags": [
+      "history",
+      "politics",
+      "germany",
+      "europe",
+      "leaders",
+      "1930's",
+      "world_war_2",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3c7cc59eab6f951acc",
+    "correctAnswer": "Shooting John Lennon",
+    "incorrectAnswers": [
+      "Inventing the Rubik's Cube",
+      "Being elected as Canada's first openly homosexual Prime Minister",
+      "Abdicating the throne of the United Kingdom"
+    ],
+    "question": {
+      "text": "Mark David Chapman was famous for what in 1980?"
+    },
+    "tags": [
+      "people",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "63bc3fb50e893d6e5a6a0fe4",
+    "correctAnswer": "The Divan",
+    "incorrectAnswers": [
+      "The Ottoman",
+      "The Futon",
+      "The Chaise Lounge"
+    ],
+    "question": {
+      "text": "What was the name of the Ottoman Empire's governing body?"
+    },
+    "tags": [
+      "history",
+      "ottoman_empire"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "65056f4f7a97013de78b541b",
+    "correctAnswer": "Labour Party",
+    "incorrectAnswers": [
+      "Liberal Democrats",
+      "Sinn Fein",
+      "Conservative Party"
+    ],
+    "question": {
+      "text": "To which political party did UK prime minister Tony Blair belong?"
+    },
+    "tags": [
+      "history",
+      "politics",
+      "uk"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f950353",
+    "correctAnswer": "Jane Seymour",
+    "incorrectAnswers": [
+      "Anne Boleyn",
+      "Catherine Parr",
+      "Catherine Howard"
+    ],
+    "question": {
+      "text": "Who Was Henry VIII's Third Wife?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c347cc59eab6f94f9c5",
+    "correctAnswer": "George W. Bush",
+    "incorrectAnswers": [
+      "Gerald Ford",
+      "Thomas Jefferson ",
+      "Franklin D. Roosevelt"
+    ],
+    "question": {
+      "text": "Who was the 43rd president of the USA, in term during the period 2001–2009?"
+    },
+    "tags": [
+      "usa",
+      "presidents",
+      "leaders",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
     "isNiche": false
   }
 ]

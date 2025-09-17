@@ -29,7 +29,7 @@ func _ready() -> void:
 	# Set the current category label
 	current_cat.text = "Current category: " + game_state.get_category_key_from_path(game_state.currentQuestionCategory)
 	# Get random category options
-	var available_categories = game_state.unlocked_categories
+	var available_categories = game_state.unlocked_categories.filter(func(cat): return cat != game_state.get_category_key_from_path(game_state.currentQuestionCategory))
 	var category_keys = game_state.CATEGORIES.keys().filter(func(key): return key in available_categories)
 	var random_keys = []
 	while random_keys.size() < 2:

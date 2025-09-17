@@ -25,6 +25,9 @@ func _ready() -> void:
 	var available_categories = game_state.unlocked_categories
 	var category_keys = game_state.CATEGORIES.keys().filter(func(key): return key not in available_categories)
 	var random_keys = []
+	if category_keys.size() == 1:
+		random_keys.append(category_keys[0])
+		random_keys.append(category_keys[0])
 	while random_keys.size() < 2:
 		var random_key = category_keys[randi() % category_keys.size()]
 		if random_key not in random_keys:

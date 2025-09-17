@@ -125,9 +125,9 @@ func _ready() -> void:
 	
 
 func _on_button_pressed(button: Button) -> void:
-	var answer_increment = 1
+	var answer_increment = 10
 	if game_state.double_points_active:
-		answer_increment = 2
+		answer_increment = 20
 	game_state.double_points_active = false
 	var style := button.get_theme_stylebox("disabled") as StyleBoxFlat
 	if button.text == correct_answer:
@@ -141,7 +141,7 @@ func _on_button_pressed(button: Button) -> void:
 		Stats.record_incorrect_answer(game_state.get_category_key_from_path(game_state.currentQuestionCategory))
 		style.bg_color = Color(1, 0, 0) # Red
 		if game_state.correctAnswerCount > 0:
-			game_state.correctAnswerCount -= answer_increment
+			game_state.correctAnswerCount -= (answer_increment / 2)
 		if game_state.correctAnswerCount < 0:
 			game_state.correctAnswerCount = 0
 		# game_state.correctAnswerCount -= 1

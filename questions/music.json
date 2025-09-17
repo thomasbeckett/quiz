@@ -1056,5 +1056,1049 @@
     "difficulty": "hard",
     "regions": [    ],
     "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950d37",
+    "correctAnswer": "The Beatles",
+    "incorrectAnswers": [
+      "Deep Purple",
+      "Feeder",
+      "Uriah Heep"
+    ],
+    "question": {
+      "text": "Which English rock band released the song 'We Can Work It Out'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "647c9856f89e0968cfbc1a3a",
+    "correctAnswer": "The Carpenters",
+    "incorrectAnswers": [
+      "The White Stripes",
+      "Sonny & Cher",
+      "Salt-N-Pepa"
+    ],
+    "question": {
+      "text": "Which music had a hit with a song containing the lyrics \"Just like me, they long to be close to you\"?"
+    },
+    "tags": [
+      "music",
+      "songs",
+      "lyrics"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950b36",
+    "correctAnswer": "The Police",
+    "incorrectAnswers": [
+      "Level 42",
+      "Wings",
+      "Ultravox"
+    ],
+    "question": {
+      "text": "Which English rock band released the song 'Every Breath You Take'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd88",
+    "correctAnswer": "Jenny",
+    "incorrectAnswers": [
+      "Brenda",
+      "Lisa",
+      "Julie"
+    ],
+    "question": {
+      "text": "Who Is Tommy Tutone Trying To Call When He Dials \"867 5309\""
+    },
+    "tags": [
+      "songs",
+      "lyrics",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fef0",
+    "correctAnswer": "David Bowie",
+    "incorrectAnswers": [
+      "Eric Clapton",
+      "Madonna",
+      "Mika"
+    ],
+    "question": {
+      "text": "The iconic album 'Space Oddity' was released by which musician?"
+    },
+    "tags": [
+      "general_knowledge",
+      "music_albums",
+      "musicians",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c367cc59eab6f950340",
+    "correctAnswer": "Tchaikovsky",
+    "incorrectAnswers": [
+      "Handel",
+      "Bach",
+      "Schuberg"
+    ],
+    "question": {
+      "text": "Who was the composer of 'The Nutcracker' ballet?"
+    },
+    "tags": [
+      "classical_music",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "62506482e12f6dec240bdfb8",
+    "correctAnswer": "Edwyn Collins",
+    "incorrectAnswers": [
+      "The Waitresses",
+      "Rockwell",
+      "The Heights"
+    ],
+    "question": {
+      "text": "'A Girl Like You' was a one hit wonder in 1994 by which artist?"
+    },
+    "tags": [
+      "songs",
+      "one_hit_wonders",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950b90",
+    "correctAnswer": "Weezer",
+    "incorrectAnswers": [
+      "LMFAO",
+      "Static-X",
+      "The Black Keys"
+    ],
+    "question": {
+      "text": "Which alternative rock band from the United States released the studio album 'Hurley'?"
+    },
+    "tags": [
+      "rock_music",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "6266bb0eff7b6ee0496ec77d",
+    "correctAnswer": "Woodwind",
+    "incorrectAnswers": [
+      "Brass",
+      "Percussion",
+      "Stringed"
+    ],
+    "question": {
+      "text": "What type of instrument is a fife?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950c4c",
+    "correctAnswer": "The Beach Boys",
+    "incorrectAnswers": [
+      "Swans",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "question": {
+      "text": "Which American rock band released the song 'Blue Christmas'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950b92",
+    "correctAnswer": "The Jackson 5",
+    "incorrectAnswers": [
+      "The Jackson Brothers",
+      "The Smashing Jacksons",
+      "Jackson"
+    ],
+    "question": {
+      "text": "Before going solo, what band was Michael Jackson a member of?"
+    },
+    "tags": [
+      "music",
+      "people",
+      "musicians",
+      "bands"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950d23",
+    "correctAnswer": "The Beatles",
+    "incorrectAnswers": [
+      "Pink Floyd",
+      "The Clash",
+      "Deep Purple"
+    ],
+    "question": {
+      "text": "Which English rock band released the album 'Let It Be'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950b21",
+    "correctAnswer": "The Carpenters",
+    "incorrectAnswers": [
+      "The Black Keys",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "question": {
+      "text": "Which American vocal duo released the studio album 'A Song for You'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950be5",
+    "correctAnswer": "Black Sabbath",
+    "incorrectAnswers": [
+      "Skunk Anansie",
+      "Kasabian",
+      "Emerson, Lake & Palmer"
+    ],
+    "question": {
+      "text": "Which British heavy metal band released the studio album 'Paranoid'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950c44",
+    "correctAnswer": "The Beach Boys",
+    "incorrectAnswers": [
+      "Swans",
+      "The Velvet Underground",
+      "Aerosmith"
+    ],
+    "question": {
+      "text": "Which American rock band released the song 'Good Vibrations'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94feb0",
+    "correctAnswer": "Beyoncé",
+    "incorrectAnswers": [
+      "Madonna",
+      "Drake",
+      "Nicki Minaj"
+    ],
+    "question": {
+      "text": "Which American singer, actress and record producer released the song 'Lift Off'?"
+    },
+    "tags": [
+      "songs",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94feee",
+    "correctAnswer": "David Bowie",
+    "incorrectAnswers": [
+      "Eric Clapton",
+      "Madonna",
+      "Mika"
+    ],
+    "question": {
+      "text": "Which musician released the album '\"Heroes\"'?"
+    },
+    "tags": [
+      "music_albums",
+      "musicians",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94ffc9",
+    "correctAnswer": "Blondie",
+    "incorrectAnswers": [
+      "Prince and the Revolution",
+      "Me First and the Gimme Gimmes",
+      "The Flaming Lips"
+    ],
+    "question": {
+      "text": "Whose Albums Included Plastic Letters & Parallel Lines"
+    },
+    "tags": [
+      "music_albums",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94ff3c",
+    "correctAnswer": "Michael Jackson",
+    "incorrectAnswers": [
+      "Nicki Minaj",
+      "Neil Young",
+      "Eric Clapton"
+    ],
+    "question": {
+      "text": "Which American singer, songwriter and dancer released the song 'Don't Stop 'Til You Get Enough'?"
+    },
+    "tags": [
+      "songs",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd67",
+    "correctAnswer": "Mozart",
+    "incorrectAnswers": [
+      "Beethoven",
+      "Liszt",
+      "Wagner"
+    ],
+    "question": {
+      "text": "Whose Life Story Featured In The Movie 'Amadeus'?"
+    },
+    "tags": [
+      "people",
+      "film",
+      "general_knowledge",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fdb0",
+    "correctAnswer": "The Reed",
+    "incorrectAnswers": [
+      "The Bucket",
+      "The Tap",
+      "The Curl"
+    ],
+    "question": {
+      "text": "What Is The Sound Producing Equipment Element Of Many Woodwind Instrument Called?"
+    },
+    "tags": [
+      "names",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "646262b8ab138b829b81ea4f",
+    "correctAnswer": "Seal",
+    "incorrectAnswers": [
+      "Madonna",
+      "Michael Jackson",
+      "Celine Dion"
+    ],
+    "question": {
+      "text": "Which artist won the Grammy's Record of the Year award in 1995 for the song 'Kiss From A Rose'?"
+    },
+    "tags": [
+      "music",
+      "songs",
+      "musicians"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "62506436e12f6dec240bdfa2",
+    "correctAnswer": "Bobby McFerrin",
+    "incorrectAnswers": [
+      "David Naughton",
+      "Gary Numan",
+      "Falco"
+    ],
+    "question": {
+      "text": "Who had a hit in 1988 with Don't Worry Be Happy?"
+    },
+    "tags": [
+      "songs",
+      "one_hit_wonders",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd92",
+    "correctAnswer": "The Bay City Rollers",
+    "incorrectAnswers": [
+      "Status Quo",
+      "The Who",
+      "Cream"
+    ],
+    "question": {
+      "text": "Who Had 2 Number One LP's Called \"Rollin\" & \"Once Upon A Star\"?"
+    },
+    "tags": [
+      "music_albums",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd86",
+    "correctAnswer": "Mick Fleetwood",
+    "incorrectAnswers": [
+      "Jimmie Macmillan",
+      "Stevie Nicks",
+      "Stephen Stills"
+    ],
+    "question": {
+      "text": "Who Plays Drums For Fleetwood Mac?"
+    },
+    "tags": [
+      "people",
+      "bands",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "636a5269990390307063f396",
+    "correctAnswer": "Gloria",
+    "incorrectAnswers": [
+      "Higher Ground",
+      "Red Red Wine",
+      "Hallelujah"
+    ],
+    "question": {
+      "text": "Which song was originally recorded by Them and was later covered by Patti Smith?"
+    },
+    "tags": [
+      "music",
+      "cover_song",
+      "songs",
+      "musicians"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950c48",
+    "correctAnswer": "The Beach Boys",
+    "incorrectAnswers": [
+      "Swans",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "question": {
+      "text": "Which American rock band released the song 'God Only Knows'?"
+    },
+    "tags": [
+      "general_knowledge",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950c1b",
+    "correctAnswer": "Red Hot Chili Peppers",
+    "incorrectAnswers": [
+      "The Monkees",
+      "Black Flag",
+      "Journey"
+    ],
+    "question": {
+      "text": "Which American rock band released the song 'Under the Bridge'?"
+    },
+    "tags": [
+      "rock_music",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fee9",
+    "correctAnswer": "David Bowie",
+    "incorrectAnswers": [
+      "Eric Clapton",
+      "Madonna",
+      "Mika"
+    ],
+    "question": {
+      "text": "Which British musician, actor, record producer and arranger released the album 'The Man Who Sold the World'?"
+    },
+    "tags": [
+      "songs",
+      "musicians",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94ff2d",
+    "correctAnswer": "Michael Jackson",
+    "incorrectAnswers": [
+      "Nicki Minaj",
+      "Neil Young",
+      "Eric Clapton"
+    ],
+    "question": {
+      "text": "Who sung the song 'Smooth Criminal'?"
+    },
+    "tags": [
+      "songs",
+      "musicians",
+      "general_knowledge",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fdc4",
+    "correctAnswer": "Pat Benatar",
+    "incorrectAnswers": [
+      "Blondie",
+      "Patti Smith",
+      "Patti Cake$"
+    ],
+    "question": {
+      "text": "Patricia Andrzejewski Is The Real Name Of Which Singer"
+    },
+    "tags": [
+      "pseudonyms",
+      "names",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950ca4",
+    "correctAnswer": "The Rolling Stones",
+    "incorrectAnswers": [
+      "McFly",
+      "Delirious?",
+      "Depeche Mode"
+    ],
+    "question": {
+      "text": "Which English rock band released the song 'Honky Tonk Women'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c367cc59eab6f95038b",
+    "correctAnswer": "David Bowie",
+    "incorrectAnswers": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Elton John"
+    ],
+    "question": {
+      "text": "Who Released The Album 'Hunky Dory'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c3d7cc59eab6f951c6c",
+    "correctAnswer": "4 O'clock",
+    "incorrectAnswers": [
+      "Midnight",
+      "9 O'clock",
+      "Lunchtime"
+    ],
+    "question": {
+      "text": "According to The Everly Bros Song \"Wake Up Little Susie\", What Time Did Susie Finally Wake Up?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94feba",
+    "correctAnswer": "Beyoncé",
+    "incorrectAnswers": [
+      "Madonna",
+      "Drake",
+      "Nicki Minaj"
+    ],
+    "question": {
+      "text": "Which American singer, actress and record producer released the song 'Crazy in Love'?"
+    },
+    "tags": [
+      "general_knowledge",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950c0f",
+    "correctAnswer": "Dream Theater",
+    "incorrectAnswers": [
+      "Jars of Clay",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "question": {
+      "text": "Which American progressive metal band released the studio album 'Octavarium'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "62506488e12f6dec240bdfba",
+    "correctAnswer": "The Night the Lights Went Out in Georgia",
+    "incorrectAnswers": [
+      "It's Raining Men",
+      "Mmm Mmm Mmm Mmm",
+      "Achy Breaky Heart"
+    ],
+    "question": {
+      "text": "What song did Vicki Lawrence have a hit with in 1973?"
+    },
+    "tags": [
+      "songs",
+      "one_hit_wonders",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "636a52a5990390307063f3b0",
+    "correctAnswer": "Sweet Jane",
+    "incorrectAnswers": [
+      "Blue Suede Shoes",
+      "I Love Rock 'n' Roll",
+      "Tainted Love"
+    ],
+    "question": {
+      "text": "Which song was originally recorded by The Velvet Underground and was later covered by Cowboy Junkies?"
+    },
+    "tags": [
+      "music",
+      "cover_song",
+      "songs",
+      "musicians"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950d02",
+    "correctAnswer": "The Beatles",
+    "incorrectAnswers": [
+      "Deep Purple",
+      "Feeder",
+      "Uriah Heep"
+    ],
+    "question": {
+      "text": "Which English rock band released the song 'Yellow Submarine'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fdcf",
+    "correctAnswer": "His Dog",
+    "incorrectAnswers": [
+      "His Wife",
+      "His Mother",
+      "His Alter Ego"
+    ],
+    "question": {
+      "text": "Paul McCartney wrote The Song \"Martha My Dear\". Who did he know who was named Martha?"
+    },
+    "tags": [
+      "people",
+      "songs",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950bf8",
+    "correctAnswer": "The Doors",
+    "incorrectAnswers": [
+      "Styx",
+      "The Pussycat Dolls",
+      "Three 6 Mafia"
+    ],
+    "question": {
+      "text": "Which American rock band released the studio album 'The Soft Parade'?"
+    },
+    "tags": [
+      "rock_music",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd5e",
+    "correctAnswer": "He Notices A Policeman",
+    "incorrectAnswers": [
+      "He Slips And Falls",
+      "He Sees A Pretty Girl",
+      "He Notices His Shoelace Is Untied"
+    ],
+    "question": {
+      "text": "Why Does Gene Kelly Suddenly Stop In The 'Singing In The Rain' Routine"
+    },
+    "tags": [
+      "film",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "6266bc75b0e62e469cf43e95",
+    "correctAnswer": "Flugelhorn",
+    "incorrectAnswers": [
+      "Cymbal",
+      "Cello",
+      "Sitar"
+    ],
+    "question": {
+      "text": "Which of these is a brass instrument?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd6a",
+    "correctAnswer": "Michael Jackson",
+    "incorrectAnswers": [
+      "Elton John",
+      "Usher",
+      "Kylie Minogue"
+    ],
+    "question": {
+      "text": "Whose Autobiography Was Entitled 'Moonwalk'?"
+    },
+    "tags": [
+      "people",
+      "general_knowledge",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950d44",
+    "correctAnswer": "Green Day",
+    "incorrectAnswers": [
+      "Animal Collective",
+      "Fall Out Boy",
+      "Blink-182"
+    ],
+    "question": {
+      "text": "Which band released the classic punk rock album 'American Idiot'?"
+    },
+    "tags": [
+      "00's",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd6b",
+    "correctAnswer": "Miles Davis",
+    "incorrectAnswers": [
+      "Leonard Cohen",
+      "Jerry Lee Lewis",
+      "Jay Z"
+    ],
+    "question": {
+      "text": "Whose Albums Include \"Kind Of Blue\", \"In A Silent Way\", \"Bitches Bru\" & \"Tutu\"?"
+    },
+    "tags": [
+      "music_albums",
+      "jazz",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fd53",
+    "correctAnswer": "Vienna",
+    "incorrectAnswers": [
+      "Budapest",
+      "Berlin",
+      "Prague"
+    ],
+    "question": {
+      "text": "Which European City Did Ultravox Sing About?"
+    },
+    "tags": [
+      "europe",
+      "cities",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "6463394601d576cfac3aa32b",
+    "correctAnswer": "Jailhouse Rock",
+    "incorrectAnswers": [
+      "All Shook Up",
+      "Hound Dog",
+      "Love Me Tender"
+    ],
+    "question": {
+      "text": "Which Elvis song has the lyrics 'Everybody in the whole cell block was dancin' to the ...'?"
+    },
+    "tags": [
+      "songs",
+      "lyrics",
+      "music",
+      "elvis_presley"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [    ],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94fe64",
+    "correctAnswer": "Britney Spears",
+    "incorrectAnswers": [
+      "Madonna",
+      "Alanis Morissette",
+      "Nicki Minaj"
+    ],
+    "question": {
+      "text": "Which American singer, songwriter, dancer and actress released the studio album 'Femme Fatale'?"
+    },
+    "tags": [
+      "musicians",
+      "music_albums",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [    ],
+    "isNiche": false
   }
 ]

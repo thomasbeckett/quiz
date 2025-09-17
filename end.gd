@@ -21,7 +21,7 @@ func _on_restart_button_pressed() -> void:
 	if game_state.single_category_mode:
 		get_tree().change_scene_to_file("res://question.tscn")
 		return
-	if game_state.unlocked_categories.size() < game_state.CATEGORIES.size() - 1:
+	if game_state.unlocked_categories.size() < game_state.CATEGORIES.size():
 		get_tree().change_scene_to_file("res://add_category.tscn")
 		return
 	game_state.currentQuestionCategory = ""

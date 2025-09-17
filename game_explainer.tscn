@@ -45,8 +45,8 @@ offset_top = 194.0
 offset_right = 659.0
 offset_bottom = 1168.0
 theme_override_font_sizes/normal_font_size = 30
-text = "The aim is simple, answer multiple choice questions to reach to goal total. Answering questions correctly gives you a point, but be careful, answering them wrong takes a point away. 
+text = "The aim is simple, answer multiple choice questions to reach to goal total. Answering questions correctly gives you 10 points, but be careful, answering them wrong takes 5 points away. 
 
-You start with one category and only have to get 3 points, but each time you win, you unlock a new category and have to get more points to win. 
+You start with 4 categories and only have to get 30 points, but each time you win, you unlock a new category and have to get more points to win. 
 
 See if you can unlock all the categories. Good luck!"

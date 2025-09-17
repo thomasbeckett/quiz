@@ -16,7 +16,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -39,7 +39,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -61,7 +61,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -82,7 +82,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -104,7 +104,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -126,7 +126,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -149,7 +149,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -171,7 +171,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -193,7 +193,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -214,7 +214,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -237,7 +237,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -261,7 +261,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -283,7 +283,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -306,7 +306,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -328,7 +328,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -350,7 +350,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -375,7 +375,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -397,7 +397,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -420,7 +420,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -442,7 +442,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -462,7 +462,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -485,7 +485,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -507,7 +507,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -528,7 +528,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -552,7 +552,7 @@
     ],
     "type": "text_choice",
     "difficulty": "easy",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -574,7 +574,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -597,7 +597,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -618,7 +618,7 @@
     ],
     "type": "text_choice",
     "difficulty": "easy",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -641,7 +641,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -663,7 +663,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -683,7 +683,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -704,7 +704,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -724,7 +724,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -746,7 +746,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -769,7 +769,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -789,7 +789,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -809,7 +809,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -832,7 +832,7 @@
     ],
     "type": "text_choice",
     "difficulty": "medium",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -854,7 +854,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -875,7 +875,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -895,7 +895,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -918,7 +918,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -940,7 +940,7 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
     "isNiche": false
   },
   {
@@ -960,7 +960,1095 @@
     ],
     "type": "text_choice",
     "difficulty": "hard",
-    "regions": [    ],
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f94f",
+    "correctAnswer": "GoodFellas",
+    "incorrectAnswers": [
+      "The Searchers",
+      "The Shining",
+      "The Treasure of the Sierra Madre"
+    ],
+    "question": {
+      "text": "Which film contains the character 'Tommy DeVito'?"
+    },
+    "tags": [
+      "film",
+      "fictitious_characters",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94fb25",
+    "correctAnswer": "Nomadland",
+    "incorrectAnswers": [
+      "The Father",
+      "Judas and the Black Messiah",
+      "Mank"
+    ],
+    "question": {
+      "text": "Which film won the Academy Award for Best Picture in 2020?"
+    },
+    "tags": [
+      "academy_awards",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9505e1",
+    "correctAnswer": "Kenneth Branagh",
+    "incorrectAnswers": [
+      "Michael Ironside",
+      "Luke Evans",
+      "Tom Waits"
+    ],
+    "question": {
+      "text": "Which actor has played roles in films including Murder on the Orient Express and Dunkirk?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c367cc59eab6f9501e0",
+    "correctAnswer": "Sidney Lumet",
+    "incorrectAnswers": [
+      "Steven Spielberg",
+      "Woody Allen",
+      "Martin Scorsese"
+    ],
+    "question": {
+      "text": "Which director directed 12 Angry Men?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f950719",
+    "correctAnswer": "Kathy Bates",
+    "incorrectAnswers": [
+      "Maggie Smith",
+      "Helen Mirren",
+      "Kate Winslet"
+    ],
+    "question": {
+      "text": "Which actress has played roles in both American Horror Story and Titanic?"
+    },
+    "tags": [
+      "acting",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "645b69d8f09106226db23567",
+    "correctAnswer": "David Lean",
+    "incorrectAnswers": [
+      "Stanley Kubrick",
+      "Alfred Hitchcock",
+      "Martin Scorsese"
+    ],
+    "question": {
+      "text": "Who directed the movie 'Lawrence of Arabia'?"
+    },
+    "tags": [
+      "directors",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "62573f269da29df7b05f738a",
+    "correctAnswer": "Two detectives hunt a serial killer who uses the deadly sins as his motives.",
+    "incorrectAnswers": [
+      "Prisoners of war plan to escape from a German camp during World War II.",
+      "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine.",
+      "The story an English officer who successfully united and led the Arab tribes during World War I."
+    ],
+    "question": {
+      "text": "What is the plot of the movie Seven?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c357cc59eab6f94fc52",
+    "correctAnswer": "\"Bond. James Bond.\"",
+    "incorrectAnswers": [
+      "\"What we've got here is failure to communicate.\"",
+      "\"Sawyer, you're going out a youngster, but you've t to come back a star!\"",
+      "\"Well, I don’t want to survive. I want to live.\""
+    ],
+    "question": {
+      "text": "Which of these quotes is from the film 'Dr. No'?"
+    },
+    "tags": [
+      "quotes",
+      "film",
+      "general_knowledge",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625740899da29df7b05f73e5",
+    "correctAnswer": "A man investigates the disappearance of a murderer who escaped from a hospital for the insane.",
+    "incorrectAnswers": [
+      "When two girls move to the country, they have adventures with the forest spirits who live nearby.",
+      "Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.",
+      "The son of a city's mastermind falls in love with a working-class prophet."
+    ],
+    "question": {
+      "text": "What is the plot of the movie Shutter Island?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94fb5d",
+    "correctAnswer": "The Sound of Music",
+    "incorrectAnswers": [
+      "Darling",
+      "Doctor Zhivago",
+      "Ship of Fools"
+    ],
+    "question": {
+      "text": "Which film won the Academy Award for Best Picture in 1965?"
+    },
+    "tags": [
+      "academy_awards",
+      "film",
+      "cult_films",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c367cc59eab6f950404",
+    "correctAnswer": "Halloween",
+    "incorrectAnswers": [
+      "A Nightmare on Elm Street",
+      "Scream",
+      "Child's Play"
+    ],
+    "question": {
+      "text": "The Character Of Mike Myers Features Heavily In Which Series Of Horror Movies?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "648891c34cd3f064f443dc62",
+    "correctAnswer": "How to Train Your Dragon",
+    "incorrectAnswers": [
+      "How to Train Your Basilisk",
+      "How to Train Your Kraken",
+      "How to Train Your Unicorn"
+    ],
+    "question": {
+      "text": "In which 2010 animated film does Hiccup befriend and then teach an injured mythical creature?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9506ed",
+    "correctAnswer": "Michael Fassbender",
+    "incorrectAnswers": [
+      "Gerard Butler",
+      "Jim Carrey",
+      "Robert Redford"
+    ],
+    "question": {
+      "text": "Which actor has appeared in films including X-Men: Days of Future Past and Inglourious Basterds?"
+    },
+    "tags": [
+      "film_and_tv",
+      "film",
+      "acting"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94fb65",
+    "correctAnswer": "Lawrence of Arabia",
+    "incorrectAnswers": [
+      "The Longest Day",
+      "Meredith Willson's The Music Man",
+      "Mutiny on the Bounty"
+    ],
+    "question": {
+      "text": "Which film won the Academy Award for Best Picture in 1962?"
+    },
+    "tags": [
+      "academy_awards",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "6460896ade964ebc39016c50",
+    "correctAnswer": "Forrest Gump",
+    "incorrectAnswers": [
+      "Rocky",
+      "Scarface",
+      "Indiana Jones"
+    ],
+    "question": {
+      "text": "In what movie does the main character have a friend called Bubba Blue who dreams of opening up his own shrimping business?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv",
+      "fictitious_characters"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94fb1e",
+    "correctAnswer": "Diane Keaton",
+    "incorrectAnswers": [
+      "Anne Bancroft",
+      "Jane Fonda",
+      "Shirley MacLaine"
+    ],
+    "question": {
+      "text": "Who won the 1977 Academy Award for Best Leading Actress for playing the role of Annie Hall in Annie Hall?"
+    },
+    "tags": [
+      "acting",
+      "film",
+      "academy_awards",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f950753",
+    "correctAnswer": "Susan Sarandon",
+    "incorrectAnswers": [
+      "Kate Winslet",
+      "Helen Mirren",
+      "Maggie Smith"
+    ],
+    "question": {
+      "text": "Which actress has starred in in films including The Rocky Horror Picture Show and Fame?"
+    },
+    "tags": [
+      "film_and_tv",
+      "film",
+      "cult_films",
+      "acting"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625699099da29df7b05f72ad",
+    "correctAnswer": "The Ancient One",
+    "incorrectAnswers": [
+      "Agent Peggy Carter",
+      "Rocket Raccoon",
+      "Valkyrie"
+    ],
+    "question": {
+      "text": "Tilda Swinton plays the role of which character in the Marvel Cinematic Universe?"
+    },
+    "tags": [
+      "mcu",
+      "film",
+      "acting",
+      "marvel",
+      "comics",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "646b3ec40361c7fb32d6b6cb",
+    "correctAnswer": "Blue",
+    "incorrectAnswers": [
+      "Green",
+      "Yellow",
+      "Red"
+    ],
+    "question": {
+      "text": "What color are Smurfs?"
+    },
+    "tags": [
+      "tv",
+      "film_and_tv",
+      "cartoons",
+      "colours"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f950781",
+    "correctAnswer": "Alec Baldwin",
+    "incorrectAnswers": [
+      "Donald Sutherland",
+      "Gary Oldman",
+      "Sean Connery"
+    ],
+    "question": {
+      "text": "Which actor has featured in films including The Departed and The Aviator?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9505d6",
+    "correctAnswer": "Kim Basinger",
+    "incorrectAnswers": [
+      "Sally Hawkins",
+      "Lucy Lawless",
+      "Jacqueline Bisset"
+    ],
+    "question": {
+      "text": "Which actress has featured in films including L.A. Confidential and Never Say Never Again?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9507ad",
+    "correctAnswer": "Tom Hanks",
+    "incorrectAnswers": [
+      "Ewan McGregor",
+      "Will Smith",
+      "Tom Cruise"
+    ],
+    "question": {
+      "text": "Which actor has featured in films including Forrest Gump and Apollo 13?"
+    },
+    "tags": [
+      "film",
+      "acting",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625fd6f9dc0dd3b72da64d19",
+    "correctAnswer": "2013",
+    "incorrectAnswers": [
+      "2011",
+      "2015",
+      "2017"
+    ],
+    "question": {
+      "text": "In which year was The Wolf of Wall Street first released in the cinema?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94fb00",
+    "correctAnswer": "Jennifer Lawrence",
+    "incorrectAnswers": [
+      "Jessica Chastain",
+      "Emmanuelle Riva",
+      "Quvenzhané Wallis"
+    ],
+    "question": {
+      "text": "Who won the 2012 Academy Award for Best Leading Actress for playing the role of Tiffany in Silver Linings Playbook?"
+    },
+    "tags": [
+      "acting",
+      "academy_awards",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "645cb0ac7d263fd509704374",
+    "correctAnswer": "Dead Man's Chest",
+    "incorrectAnswers": [
+      "Curse of the Black Pearl",
+      "At World's End",
+      "On Stranger Tides"
+    ],
+    "question": {
+      "text": "What was the name of the second 'Pirates of the Caribbean' movie?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9507ac",
+    "correctAnswer": "Anthony Hopkins",
+    "incorrectAnswers": [
+      "Tom Hanks",
+      "Ewan McGregor",
+      "Arnold Schwarzenegger"
+    ],
+    "question": {
+      "text": "Which actor has featured in films including Thor and The Silence of the Lambs?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625fd725dc0dd3b72da64d26",
+    "correctAnswer": "1996",
+    "incorrectAnswers": [
+      "1992",
+      "2000",
+      "2004"
+    ],
+    "question": {
+      "text": "In which year was Fargo first released in the cinema?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c367cc59eab6f9503e4",
+    "correctAnswer": "The Adams Family",
+    "incorrectAnswers": [
+      "The Von Trapps",
+      "The Flintstones",
+      "The Simpsons"
+    ],
+    "question": {
+      "text": "What Family Live At 1313 Cemetary Lane?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "624db9e4de6018633d31f6a9",
+    "correctAnswer": "Sam Smith",
+    "incorrectAnswers": [
+      "Madonna",
+      "Sheena Easton",
+      "Duran Duran"
+    ],
+    "question": {
+      "text": "Who performed the theme song to the James Bond film Spectre?"
+    },
+    "tags": [
+      "james_bond",
+      "film",
+      "soundtracks",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f9ed",
+    "correctAnswer": "Blue",
+    "incorrectAnswers": [
+      "Red",
+      "Black",
+      "White"
+    ],
+    "question": {
+      "text": "In The Matrix, which pill would have returned Neo to the fabricated reality of the Matrix with no memory of what happened?"
+    },
+    "tags": [
+      "film",
+      "cult_films"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9505d4",
+    "correctAnswer": "Jet Li",
+    "incorrectAnswers": [
+      "Kenneth Branagh",
+      "Luke Evans",
+      "Stephen Fry"
+    ],
+    "question": {
+      "text": "Which actor has appeared in films including The Expendables and The Mummy: Tomb of the Dragon Emperor?"
+    },
+    "tags": [
+      "acting",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625741119da29df7b05f740a",
+    "correctAnswer": "A weary mutant leads a quiet life until a mutant child pursued by scientists comes to him for help.",
+    "incorrectAnswers": [
+      "Born in the stable next door to Christ, a man spends his life being mistaken for a messiah.",
+      "A law enforcement agent pursues four replicants who have returned to Earth to find their creator.",
+      "A boy and his little sister struggle to survive in Japan during World War II."
+    ],
+    "question": {
+      "text": "What is the plot of the movie Logan?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94fa9f",
+    "correctAnswer": "Rachel Weisz",
+    "incorrectAnswers": [
+      "Amy Adams",
+      "Catherine Keener",
+      "Frances McDormand"
+    ],
+    "question": {
+      "text": "Who won the 2005 Academy Award for Best Supporting Actress for playing the role of Tessa Quayle in The Constant Gardener?"
+    },
+    "tags": [
+      "acting",
+      "film",
+      "academy_awards",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625fd6c3dc0dd3b72da64d09",
+    "correctAnswer": "1995",
+    "incorrectAnswers": [
+      "1991",
+      "1999",
+      "2003"
+    ],
+    "question": {
+      "text": "In which year was Toy Story first released in the cinema?"
+    },
+    "tags": [
+      "film",
+      "disney",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "647edb90520523194910c357",
+    "correctAnswer": "Sleepy Hollow",
+    "incorrectAnswers": [
+      "Murdead",
+      "The Headless Horseman",
+      "Ichabod Crane"
+    ],
+    "question": {
+      "text": "In what movie, based on a Washington Irving short story, is the protagonist a policeman sent to investigate a series of decapitations?"
+    },
+    "tags": [
+      "arts_and_literature",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c357cc59eab6f94fc42",
+    "correctAnswer": "\"I love the smell of napalm in the morning.\"",
+    "incorrectAnswers": [
+      "\"We'll always have Paris.\"",
+      "\"Yo, Adrian!\"",
+      "\"Frankly, my dear, I don't give a damn.\""
+    ],
+    "question": {
+      "text": "Which of these quotes is from the film 'Apocalypse Now'?"
+    },
+    "tags": [
+      "quotes",
+      "film",
+      "general_knowledge",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94fbfd",
+    "correctAnswer": "\"Hello, gorgeous.\"",
+    "incorrectAnswers": [
+      "\"Attica! Attica!\"",
+      "\"Chewie, we’re home.\"",
+      "\"Which would be worse, to live a monster or die as a good man?\""
+    ],
+    "question": {
+      "text": "Which of these quotes is from the film 'Funny Girl'?"
+    },
+    "tags": [
+      "quotes",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "62573f2d9da29df7b05f738c",
+    "correctAnswer": "The Shawshank Redemption",
+    "incorrectAnswers": [
+      "Double Indemnity",
+      "North by Northwest",
+      "Pirates of the Caribbean: The Curse of the Black Pearl"
+    ],
+    "question": {
+      "text": "Name the movie that matches the following plot summary: 'Two imprisoned men bond over a number of years, finding redemption through acts of common decency.'"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625fd711dc0dd3b72da64d20",
+    "correctAnswer": "1993",
+    "incorrectAnswers": [
+      "1981",
+      "1985",
+      "1989"
+    ],
+    "question": {
+      "text": "In which year was Jurassic Park released?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c367cc59eab6f9501da",
+    "correctAnswer": "George Lucas",
+    "incorrectAnswers": [
+      "Steven Spielberg",
+      "Woody Allen",
+      "Martin Scorsese"
+    ],
+    "question": {
+      "text": "Which director directed Star Wars?"
+    },
+    "tags": [
+      "film",
+      "general_knowledge",
+      "star_wars",
+      "science_fiction",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c367cc59eab6f9501f0",
+    "correctAnswer": "Christopher Nolan",
+    "incorrectAnswers": [
+      "Steven Spielberg",
+      "Woody Allen",
+      "Martin Scorsese"
+    ],
+    "question": {
+      "text": "Which director directed Interstellar?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "624db9d3de6018633d31f6a4",
+    "correctAnswer": "Roger Moore",
+    "incorrectAnswers": [
+      "Timothy Dalton",
+      "Daniel Craig",
+      "George Lazenby"
+    ],
+    "question": {
+      "text": "Who played the role of James Bond in Moonraker?"
+    },
+    "tags": [
+      "james_bond",
+      "film",
+      "acting",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625698809da29df7b05f728b",
+    "correctAnswer": "Agent Phil Coulson",
+    "incorrectAnswers": [
+      "Wong",
+      "Dr. Bruce Banner",
+      "Nick Fury"
+    ],
+    "question": {
+      "text": "In the Marvel Cinematic Universe, which character is played by Clark Gregg?"
+    },
+    "tags": [
+      "mcu",
+      "film",
+      "acting",
+      "marvel",
+      "comics",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "624dba15cd90beeca3531566",
+    "correctAnswer": "The Living Daylights",
+    "incorrectAnswers": [
+      "From Russia With Love",
+      "Goldfinger",
+      "Quantum of Solace"
+    ],
+    "question": {
+      "text": "Which James Bond theme song was performed by A-ha?"
+    },
+    "tags": [
+      "james_bond",
+      "film",
+      "soundtracks",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f95069c",
+    "correctAnswer": "Jason Bateman",
+    "incorrectAnswers": [
+      "Javier Bardem",
+      "Colin Firth",
+      "Tim Roth"
+    ],
+    "question": {
+      "text": "Which actor has featured in films including DodgeBall: A True Underdog Story and Up in the Air?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "62573f1f9da29df7b05f7389",
+    "correctAnswer": "Explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "incorrectAnswers": [
+      "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.",
+      "An insane American general orders a bombing attack on the Soviet Union.",
+      "An agent of the secret police, spying on a writer and his lover, finds himself becoming absorbed by their lives."
+    ],
+    "question": {
+      "text": "What is the plot of the movie Interstellar?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "625740e59da29df7b05f7400",
+    "correctAnswer": "Fargo",
+    "incorrectAnswers": [
+      "12 Years a Slave",
+      "Rear Window",
+      "A Beautiful Mind"
+    ],
+    "question": {
+      "text": "Name the movie that matches the following plot summary: 'A car salesman's inept crime falls apart due to his and his henchmen's bungling.'"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f9507b6",
+    "correctAnswer": "Clint Eastwood",
+    "incorrectAnswers": [
+      "Christopher Lee",
+      "James Dean",
+      "Marlon Brando"
+    ],
+    "question": {
+      "text": "Which actor starred in The Good, the Bad and the Ugly?"
+    },
+    "tags": [
+      "acting",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "63dd25ee742e43ed64f1f04f",
+    "correctAnswer": "John Dorian",
+    "incorrectAnswers": [
+      "Elliot Reid",
+      "Carla Espinosa",
+      "Christopher Turk"
+    ],
+    "question": {
+      "text": "What is the name of the character played by Zach Braff on the show 'Scrubs'?"
+    },
+    "tags": [
+      "film_and_tv",
+      "tv",
+      "sitcoms"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c377cc59eab6f950693",
+    "correctAnswer": "Jamie Foxx",
+    "incorrectAnswers": [
+      "Hugo Weaving",
+      "Warwick Davis",
+      "Timothy Spall"
+    ],
+    "question": {
+      "text": "Which actor has starred in both The Amazing Spider-Man 2 and Django Unchained?"
+    },
+    "tags": [
+      "film_and_tv",
+      "film",
+      "acting"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
     "isNiche": false
   }
 ]
